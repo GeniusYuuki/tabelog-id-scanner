@@ -5,7 +5,7 @@ import random
 import json
 import os
 
-# 💡 初回の基準となるID（履歴がない場合のみ使われます）
+# 💡 履歴が完全に空っぽの初回だけ使われる基準ID
 INITIAL_BASE_ID = 13323101
 CHECK_RANGE = 50 
 
@@ -25,14 +25,11 @@ def save_history(history):
         json.dump(history, f, ensure_ascii=False, indent=2)
 
 def get_latest_id(history):
-    """履歴の中から一番大きなID（最新の番号）を見つける"""
+    """履歴の中から一番大きなID（最後に公開が確認されたID）を見つける"""
     if not history:
         return INITIAL_BASE_ID
-        
-    # historyのキー（ID文字列）を数値に変換して最大値を取得
     try:
-        latest_id = max([int(k) for k in history.keys()])
-        return latest_id
+        return max([int(k) for k in history.keys()])
     except:
         return INITIAL_BASE_ID
 
@@ -45,8 +42,10 @@ def scan_job():
     history = load_history()
     new_discoveries = {}
     
-    # 🌟 履歴から最新のIDを取得し、そこを基準にスタートする
+    # 🌟 前回までに確認された「最新の公開済みID」を取得
     base_id = get_latest_id(history)
+    
+    # 🌟 次回はその「次のID」から50件をきっちりスキャンする
     start_id = base_id + 1
     end_id = base_id + CHECK_RANGE
     
@@ -57,10 +56,6 @@ def scan_job():
         
         print(f"[{i}/{CHECK_RANGE}] ID: {shop_id} をチェック中...", flush=True)
         
-        if str_id in history:
-            print("  -> スキップ（確認済）", flush=True)
-            continue
-            
         url = f"https://tabelog.com/tokyo/A1317/A131701/{shop_id}"
         
         try:
@@ -92,17 +87,20 @@ def scan_job():
                 print("  -> まだ公開されていません (404)", flush=True)
                 
             elif res.status_code in (403, 429):
-                print(f"⚠️ 食べログからアクセス制限（{res.status_code}）を受けました。", flush=True)
+                print(f"⚠️ 食べログからアクセス制限（{res.status_code}）を受けました。処理を中断します。", flush=True)
                 break
                 
         except Exception as e:
             print(f"  -> 通信エラー発生: {e}", flush=True)
             
+    # 🌟 404であっても、今回チェックした結果（進捗）を確定させるために必ず保存する
+    # これにより、次回は今回の最後のIDの「次」からスタートします
+    save_history(history)
+    
     if new_discoveries:
-        save_history(history)
-        print(f"今回のスキャン完了: 新たに {len(new_discoveries)} 件を記録しました。")
+        print(f"今回のスキャン完了: 新たに {len(new_discoveries)} 件の公開を確認しました。")
     else:
-        print("今回のスキャン完了: 新しい更新はありませんでした。")
+        print("本次のスキャン完了: 新しい公開店舗はありませんでした（すべて404または確認済）。")
 
 def main():
     print("==============================================")
