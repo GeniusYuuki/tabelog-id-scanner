@@ -778,5 +778,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323261",
     "name": "ホテルリブマックス 立川駅前",
     "station": "立川"
+  },
+  "13323262": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323262",
+    "name": "神話Bar 与楽",
+    "station": "馬喰横山"
+  },
+  "13323263": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323263",
+    "name": "スバスナ",
+    "station": "久米川"
   }
 }
