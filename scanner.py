@@ -5,8 +5,8 @@ import random
 import json
 import os
 
-# 💡 設定
-BASE_ID = 13323101
+# 💡 初回の基準となるID（履歴がない場合のみ使われます）
+INITIAL_BASE_ID = 13323101
 CHECK_RANGE = 50 
 
 DATA_FILE = "history.json"
@@ -24,6 +24,18 @@ def save_history(history):
     with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(history, f, ensure_ascii=False, indent=2)
 
+def get_latest_id(history):
+    """履歴の中から一番大きなID（最新の番号）を見つける"""
+    if not history:
+        return INITIAL_BASE_ID
+        
+    # historyのキー（ID文字列）を数値に変換して最大値を取得
+    try:
+        latest_id = max([int(k) for k in history.keys()])
+        return latest_id
+    except:
+        return INITIAL_BASE_ID
+
 def scan_job():
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
@@ -33,15 +45,16 @@ def scan_job():
     history = load_history()
     new_discoveries = {}
     
-    start_id = BASE_ID + 1
-    end_id = BASE_ID + CHECK_RANGE
+    # 🌟 履歴から最新のIDを取得し、そこを基準にスタートする
+    base_id = get_latest_id(history)
+    start_id = base_id + 1
+    end_id = base_id + CHECK_RANGE
     
     print(f"[{time.strftime('%Y-%m-%d %H:%M:%S')}] 連番スキャンを開始します... (ID: {start_id} 〜 {end_id})")
     
     for i, shop_id in enumerate(range(start_id, end_id + 1), 1):
         str_id = str(shop_id)
         
-        # 🌟 ここで進捗を表示
         print(f"[{i}/{CHECK_RANGE}] ID: {shop_id} をチェック中...", flush=True)
         
         if str_id in history:
@@ -52,14 +65,11 @@ def scan_job():
         
         try:
             time.sleep(random.uniform(5, 10))
-            
-            # timeoutを10秒に設定し、フリーズを防止
             res = requests.get(url, headers=headers, timeout=10, allow_redirects=True)
             
             if res.status_code == 200:
                 soup = BeautifulSoup(res.content, "html.parser")
                 
-                # 店名と駅名の抽出
                 name_tag = soup.select_one("h2.display-name")
                 shop_name = name_tag.get_text(strip=True) if name_tag else "店名不明"
                 
@@ -71,7 +81,6 @@ def scan_job():
                     except:
                         pass
                 
-                # 🌟 変更ポイント：ここでURLも一緒に表示するようにしました
                 print(f"  -> ★【新着発見！】 {shop_name} ({station_name})", flush=True)
                 print(f"     🔗 {res.url}", flush=True)
                 
@@ -87,7 +96,6 @@ def scan_job():
                 break
                 
         except Exception as e:
-            # タイムアウト等で失敗した場合もログに出す
             print(f"  -> 通信エラー発生: {e}", flush=True)
             
     if new_discoveries:
