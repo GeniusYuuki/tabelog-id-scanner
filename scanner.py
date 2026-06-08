@@ -71,7 +71,9 @@ def scan_job():
                     except:
                         pass
                 
+                # 🌟 変更ポイント：ここでURLも一緒に表示するようにしました
                 print(f"  -> ★【新着発見！】 {shop_name} ({station_name})", flush=True)
+                print(f"     🔗 {res.url}", flush=True)
                 
                 shop_data = {"url": res.url, "name": shop_name, "station": station_name}
                 history[str_id] = shop_data
