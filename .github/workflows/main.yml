@@ -1,0 +1,42 @@
+name: Tabelog Scanner 1Hour
+
+# いつ実行するか（トリガー）の設定
+on:
+  schedule:
+    - cron: '0 * * * *'  # 毎時0分に自動実行
+  workflow_dispatch:     # 「手動実行ボタン」も一応付けておく
+
+jobs:
+  run-scanner:
+    runs-on: ubuntu-latest
+    
+    # history.jsonをGitHub上に書き込んで保存するための権限
+    permissions:
+      contents: write
+
+    steps:
+      - name: リポジトリのコードを取得
+        uses: actions/checkout@v4
+
+      - name: Python環境のセットアップ
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: 必要なライブラリ(requests)のインストール
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: スキャナー（scanner.py）の実行
+        run: python scanner.py
+
+      - name: 見つけた新店データ（history.json）を保存
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          # .gitignoreの設定を無視して強制的にhistory.jsonを保存する
+          git add -f history.json
+          # 差分（新しいお店の発見）があった時だけコミットしてプッシュ
+          git diff --quiet && git diff --staged --quiet || git commit -m "新店を発見したので history.json を更新"
+          git push
