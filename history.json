@@ -918,5 +918,65 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323289",
     "name": "SOSTA～pizza&legame～",
     "station": "大崎広小路"
+  },
+  "13323290": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323290",
+    "name": "LaLaPot IZAKAYA",
+    "station": "赤坂"
+  },
+  "13323291": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323291",
+    "name": "韓国料理居酒屋ソウルアジェ門仲",
+    "station": "門前仲町"
+  },
+  "13323292": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323292",
+    "name": "かき氷パーラー mix&mix",
+    "station": "八王子"
+  },
+  "13323293": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323293",
+    "name": "芳香麻辣湯 新宿歌舞伎町店",
+    "station": "東新宿"
+  },
+  "13323294": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323294",
+    "name": "自家製麺 麺や 六等星",
+    "station": "調布"
+  },
+  "13323295": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323295",
+    "name": "HARRY HARAJUKU KAWAii ZOO",
+    "station": "明治神宮前"
+  },
+  "13323296": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323296",
+    "name": "カラオケONE 成増店",
+    "station": "地下鉄成増"
+  },
+  "13323297": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323297",
+    "name": "ボードゲームカフェ ONE",
+    "station": "池袋"
+  },
+  "13323298": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323298",
+    "name": "カラオケ シティベア 門前仲町店",
+    "station": "門前仲町"
+  },
+  "13323299": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323299",
+    "name": "毎味毎客 リンクス池袋店",
+    "station": "池袋"
+  },
+  "13323300": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323300",
+    "name": "cafe&diner サボるイヌ",
+    "station": "自由が丘"
+  },
+  "13323301": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323301",
+    "name": "梁山泊小籠湯包 LINKS IKEBUKURO",
+    "station": "池袋"
   }
 }
