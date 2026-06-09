@@ -788,5 +788,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323263",
     "name": "スバスナ",
     "station": "久米川"
+  },
+  "13323264": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323264",
+    "name": "Bless Honey",
+    "station": "中目黒"
+  },
+  "13323265": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323265",
+    "name": "山本牛臓 大門浜松町店",
+    "station": "大門"
+  },
+  "13323266": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323266",
+    "name": "BAKERY RESTAURANT C トリエ京王調布店",
+    "station": "調布"
   }
 }
