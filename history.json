@@ -978,5 +978,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323301",
     "name": "梁山泊小籠湯包 LINKS IKEBUKURO",
     "station": "池袋"
+  },
+  "13323302": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323302",
+    "name": "BEACH TERRACE TOKYO",
+    "station": "新橋"
+  },
+  "13323303": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323303",
+    "name": "背脂肉生蕎麦盛盛",
+    "station": "ひばりケ丘"
   }
 }
