@@ -988,5 +988,40 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323303",
     "name": "背脂肉生蕎麦盛盛",
     "station": "ひばりケ丘"
+  },
+  "13323304": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323304",
+    "name": "ファミリーマート 杉並松庵三丁目店",
+    "station": "西荻窪"
+  },
+  "13323305": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323305",
+    "name": "ホテルバリアンリゾート 東新宿店",
+    "station": "東新宿"
+  },
+  "13323306": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323306",
+    "name": "ゆるぽた。",
+    "station": "武蔵小金井"
+  },
+  "13323307": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323307",
+    "name": "ホテルビーチコマ",
+    "station": "小笠原諸島その他"
+  },
+  "13323308": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323308",
+    "name": "Poppy Wine",
+    "station": "学芸大学"
+  },
+  "13323309": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323309",
+    "name": "CANTINETTA DELLA PACE",
+    "station": "広尾"
+  },
+  "13323310": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323310",
+    "name": "ホテルバリアンリゾート新宿グランピング店",
+    "station": "西武新宿"
   }
 }
