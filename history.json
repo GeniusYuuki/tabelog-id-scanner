@@ -888,5 +888,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323283",
     "name": "肉のササき",
     "station": "庚申塚"
+  },
+  "13323284": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323284",
+    "name": "定食屋　雫　shizuku",
+    "station": "西八王子"
+  },
+  "13323285": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323285",
+    "name": "Jardin",
+    "station": "森下"
   }
 }
