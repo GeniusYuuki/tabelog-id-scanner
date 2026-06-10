@@ -1233,5 +1233,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323352",
     "name": "FIX LOUNGE 渋谷店",
     "station": "渋谷"
+  },
+  "13323353": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323353",
+    "name": "珍來　竹ノ塚東口店",
+    "station": "竹ノ塚"
+  },
+  "13323354": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323354",
+    "name": "cafe&dinerサボるイヌ",
+    "station": "九品仏"
+  },
+  "13323355": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323355",
+    "name": "和ノ音",
+    "station": "麻布十番"
   }
 }
