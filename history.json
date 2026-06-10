@@ -1218,5 +1218,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323349",
     "name": "居酒屋　酔楽",
     "station": "新小岩"
+  },
+  "13323350": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323350",
+    "name": "Lミニマート 小平仲町店",
+    "station": "小平"
+  },
+  "13323351": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323351",
+    "name": "HOME’S PASTA上野店",
+    "station": "京成上野"
+  },
+  "13323352": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323352",
+    "name": "FIX LOUNGE 渋谷店",
+    "station": "渋谷"
   }
 }
