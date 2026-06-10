@@ -1248,5 +1248,25 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323355",
     "name": "和ノ音",
     "station": "麻布十番"
+  },
+  "13323356": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323356",
+    "name": "JACK IN THE DONUTS グランデュオ蒲田店",
+    "station": "蒲田"
+  },
+  "13323357": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323357",
+    "name": "コバチダイナー",
+    "station": "赤羽橋"
+  },
+  "13323358": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323358",
+    "name": "W THE LOUNGE 渋谷店",
+    "station": "渋谷"
+  },
+  "13323359": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323359",
+    "name": "みくラボ ハナレ",
+    "station": "御蔵島"
   }
 }
