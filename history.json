@@ -1083,5 +1083,50 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323322",
     "name": "窯鶏皇",
     "station": "面影橋"
+  },
+  "13323323": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323323",
+    "name": "四季邸 新宿パレットビル店",
+    "station": "新宿"
+  },
+  "13323324": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323324",
+    "name": "Beauty Cafe IKUKO",
+    "station": "中河原"
+  },
+  "13323325": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323325",
+    "name": "居酒屋灯屋",
+    "station": "大崎広小路"
+  },
+  "13323326": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323326",
+    "name": "大地のくま",
+    "station": "神田"
+  },
+  "13323327": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323327",
+    "name": "うどん白糸　 目白店",
+    "station": "目白"
+  },
+  "13323328": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323328",
+    "name": "喫茶 三年目の赤いスイートピー",
+    "station": "八丈島"
+  },
+  "13323329": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323329",
+    "name": "Chez L’Ours",
+    "station": "駒場東大前"
+  },
+  "13323330": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323330",
+    "name": "本格串焼き 若丸屋 2号店",
+    "station": "高円寺"
+  },
+  "13323331": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323331",
+    "name": "X Stand 池袋西口店",
+    "station": "池袋"
   }
 }
