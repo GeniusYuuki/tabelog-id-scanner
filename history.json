@@ -1128,5 +1128,95 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323331",
     "name": "X Stand 池袋西口店",
     "station": "池袋"
+  },
+  "13323332": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323332",
+    "name": "TOKYO MIX CURRY スタンド 神田司町",
+    "station": "小川町"
+  },
+  "13323333": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323333",
+    "name": "焼き鳥と海鮮＆煮込み 楽笑 田町駅前店",
+    "station": "田町"
+  },
+  "13323334": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323334",
+    "name": "釜飯と焼き鳥×おでん 個室居酒屋ひとめぼれ 田町店",
+    "station": "三田"
+  },
+  "13323335": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323335",
+    "name": "月島温活スープ巡",
+    "station": "月島"
+  },
+  "13323336": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323336",
+    "name": "KARAOKE X 池袋西口店",
+    "station": "池袋"
+  },
+  "13323337": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323337",
+    "name": "KitchenTaku",
+    "station": "大塚"
+  },
+  "13323338": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323338",
+    "name": "Amusement BAR AQUA",
+    "station": "上野広小路"
+  },
+  "13323339": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323339",
+    "name": "お酒 小料理 竹泉",
+    "station": "溜池山王"
+  },
+  "13323340": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323340",
+    "name": "火入れ みつ囲 ヨドバシ池袋店",
+    "station": "池袋"
+  },
+  "13323341": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323341",
+    "name": "焼き鳥のカゼ",
+    "station": "大鳥居"
+  },
+  "13323342": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323342",
+    "name": "日本ワインと家庭料理　雨下ーｕｋａー",
+    "station": "荻窪"
+  },
+  "13323343": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323343",
+    "name": "京都北白川ラーメン魁力屋 吉祥寺店",
+    "station": "吉祥寺"
+  },
+  "13323344": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323344",
+    "name": "ななや",
+    "station": "立川"
+  },
+  "13323345": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323345",
+    "name": "大衆酒場 翼",
+    "station": "四ツ木"
+  },
+  "13323346": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323346",
+    "name": "東京風月堂 蒲田店",
+    "station": "蒲田"
+  },
+  "13323347": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323347",
+    "name": "North Village新宿歌舞伎町店",
+    "station": "西武新宿"
+  },
+  "13323348": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323348",
+    "name": "広島汁なし担々麺 佃",
+    "station": "高田馬場"
+  },
+  "13323349": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323349",
+    "name": "居酒屋　酔楽",
+    "station": "新小岩"
   }
 }
