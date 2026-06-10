@@ -1058,5 +1058,30 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323317",
     "name": "無境",
     "station": "渋谷"
+  },
+  "13323318": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323318",
+    "name": "池栄青果株式会社 台湾物産館",
+    "station": "東池袋"
+  },
+  "13323319": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323319",
+    "name": "ちゃりんこダイニング　たかぼう",
+    "station": "北千住"
+  },
+  "13323320": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323320",
+    "name": "なぎちゃんラーメン　東高円寺",
+    "station": "東高円寺"
+  },
+  "13323321": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323321",
+    "name": "両国麺処熊八",
+    "station": "菊川"
+  },
+  "13323322": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323322",
+    "name": "窯鶏皇",
+    "station": "面影橋"
   }
 }
