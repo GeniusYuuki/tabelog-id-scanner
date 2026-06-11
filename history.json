@@ -1398,5 +1398,30 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323385",
     "name": "立呑み中華 猫猫",
     "station": "神保町"
+  },
+  "13323386": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323386",
+    "name": "zenta coffee",
+    "station": "目黒"
+  },
+  "13323387": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323387",
+    "name": "ドトールコーヒーショップ 洗足駅前店",
+    "station": "洗足"
+  },
+  "13323388": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323388",
+    "name": "八三六　谷中銀座",
+    "station": "千駄木"
+  },
+  "13323389": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323389",
+    "name": "新橋くさやんラーメン",
+    "station": "新橋"
+  },
+  "13323390": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323390",
+    "name": "串焼き なごみ",
+    "station": "六本木"
   }
 }
