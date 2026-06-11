@@ -1278,5 +1278,80 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323361",
     "name": "ANAフェスタ羽田65号ゲート店",
     "station": "羽田空港第２ターミナル（東京モノレール）"
+  },
+  "13323362": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323362",
+    "name": "ロイヤルガーデン ラウンジ&バー 亀戸店",
+    "station": "亀戸"
+  },
+  "13323363": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323363",
+    "name": "よたね",
+    "station": "神津島"
+  },
+  "13323364": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323364",
+    "name": "さかんや",
+    "station": "神津島"
+  },
+  "13323365": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323365",
+    "name": "松盛",
+    "station": "神津島"
+  },
+  "13323366": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323366",
+    "name": "cafe Roi",
+    "station": "三田"
+  },
+  "13323367": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323367",
+    "name": "立ち呑み　さっちも",
+    "station": "矢口渡"
+  },
+  "13323368": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323368",
+    "name": "中政",
+    "station": "神津島"
+  },
+  "13323369": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323369",
+    "name": "元祖焼豚センターうる寅商店 渋谷店",
+    "station": "渋谷"
+  },
+  "13323370": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323370",
+    "name": "よるのま",
+    "station": "赤坂"
+  },
+  "13323371": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323371",
+    "name": "晩酌所",
+    "station": "赤坂"
+  },
+  "13323372": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323372",
+    "name": "Matcha stand IPPUKU 築地店",
+    "station": "築地市場"
+  },
+  "13323373": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323373",
+    "name": "きらく",
+    "station": "浅草橋"
+  },
+  "13323374": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323374",
+    "name": "麺創Re:",
+    "station": "不動前"
+  },
+  "13323375": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323375",
+    "name": "イプクレスキャラバン",
+    "station": "本所吾妻橋"
+  },
+  "13323376": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323376",
+    "name": "武蔵野徳洲会病院",
+    "station": "田無"
   }
 }
