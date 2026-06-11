@@ -1358,5 +1358,45 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323377",
     "name": "テラス＆ラウンジ",
     "station": "両国"
+  },
+  "13323378": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323378",
+    "name": "えどもんど　北新宿店",
+    "station": "大久保"
+  },
+  "13323379": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323379",
+    "name": "COZY 食堂 代官山店",
+    "station": "代官山"
+  },
+  "13323380": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323380",
+    "name": "インド料理ムンバイ ラ・ポルト青山店+The India Tea House",
+    "station": "表参道"
+  },
+  "13323381": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323381",
+    "name": "銀座Okubo",
+    "station": "銀座"
+  },
+  "13323382": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323382",
+    "name": "蔦",
+    "station": "東あずま"
+  },
+  "13323383": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323383",
+    "name": "和顔和食ふくわらいや",
+    "station": "大井町"
+  },
+  "13323384": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323384",
+    "name": "土鍋ご飯と麻辣湯 とちゃん",
+    "station": "中野坂上"
+  },
+  "13323385": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323385",
+    "name": "立呑み中華 猫猫",
+    "station": "神保町"
   }
 }
