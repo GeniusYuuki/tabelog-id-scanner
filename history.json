@@ -1268,5 +1268,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323359",
     "name": "みくラボ ハナレ",
     "station": "御蔵島"
+  },
+  "13323360": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323360",
+    "name": "福路",
+    "station": "中野"
+  },
+  "13323361": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323361",
+    "name": "ANAフェスタ羽田65号ゲート店",
+    "station": "羽田空港第２ターミナル（東京モノレール）"
   }
 }
