@@ -1423,5 +1423,30 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323390",
     "name": "串焼き なごみ",
     "station": "六本木"
+  },
+  "13323391": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323391",
+    "name": "HEY COFFEE",
+    "station": "池ノ上"
+  },
+  "13323392": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323392",
+    "name": "玄点＋",
+    "station": "二子玉川"
+  },
+  "13323393": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323393",
+    "name": "みらいの小さなパン屋さん",
+    "station": "国領"
+  },
+  "13323394": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323394",
+    "name": "茶房＆ギャラリー　花美香",
+    "station": "立川南"
+  },
+  "13323395": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323395",
+    "name": "東京拉麺 六琴",
+    "station": "荻窪"
   }
 }
