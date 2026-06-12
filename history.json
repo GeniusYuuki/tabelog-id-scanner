@@ -1613,5 +1613,35 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323428",
     "name": "tens.",
     "station": "千駄ヶ谷"
+  },
+  "13323429": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323429",
+    "name": "逸品火鍋",
+    "station": "池袋"
+  },
+  "13323430": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323430",
+    "name": "逸品火鍋",
+    "station": "池袋"
+  },
+  "13323431": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323431",
+    "name": "韓無量 上野広小路店",
+    "station": "上野御徒町"
+  },
+  "13323432": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323432",
+    "name": "小倉名物 肉うどん いのうえ 品川店",
+    "station": "天王洲アイル"
+  },
+  "13323433": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323433",
+    "name": "台",
+    "station": "神保町"
+  },
+  "13323434": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323434",
+    "name": "小麻辣 荏原町店",
+    "station": "荏原町"
   }
 }
