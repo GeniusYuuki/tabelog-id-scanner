@@ -1693,5 +1693,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323444",
     "name": "瑠璃",
     "station": "新宿三丁目"
+  },
+  "13323445": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323445",
+    "name": "VINE SOCIAL",
+    "station": "西葛西"
+  },
+  "13323446": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323446",
+    "name": "丸金商店",
+    "station": "神津島"
   }
 }
