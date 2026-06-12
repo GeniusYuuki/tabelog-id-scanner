@@ -1523,5 +1523,70 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323410",
     "name": "かき氷屋 六花",
     "station": "本所吾妻橋"
+  },
+  "13323411": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323411",
+    "name": "Makana",
+    "station": "湯島"
+  },
+  "13323412": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323412",
+    "name": "Holiday",
+    "station": "明治神宮前"
+  },
+  "13323413": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323413",
+    "name": "THE BUZZ SHISHA",
+    "station": "池袋"
+  },
+  "13323414": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323414",
+    "name": "おくっち",
+    "station": "新橋"
+  },
+  "13323415": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323415",
+    "name": "Shisha Lounge Hoopa",
+    "station": "新宿西口"
+  },
+  "13323416": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323416",
+    "name": "Bar Mignon",
+    "station": "経堂"
+  },
+  "13323417": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323417",
+    "name": "牛たん酒場 たん之助 ヨドバシ池袋店",
+    "station": "池袋"
+  },
+  "13323418": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323418",
+    "name": "PIT BAR",
+    "station": "赤坂見附"
+  },
+  "13323419": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323419",
+    "name": "全席個室居酒屋 3H食べ飲み放題 上野うまいもん横丁",
+    "station": "上野広小路"
+  },
+  "13323420": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323420",
+    "name": "壺屋総本店",
+    "station": "御茶ノ水"
+  },
+  "13323421": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323421",
+    "name": "七輪焼肉安安 ひばりヶ丘店",
+    "station": "ひばりケ丘"
+  },
+  "13323422": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323422",
+    "name": "シカク",
+    "station": "町屋駅前"
+  },
+  "13323423": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323423",
+    "name": "季の庭 赤坂店",
+    "station": "溜池山王"
   }
 }
