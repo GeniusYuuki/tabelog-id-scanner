@@ -1588,5 +1588,30 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323423",
     "name": "季の庭 赤坂店",
     "station": "溜池山王"
+  },
+  "13323424": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323424",
+    "name": "BOBO CAT",
+    "station": "吉祥寺"
+  },
+  "13323425": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323425",
+    "name": "柳月",
+    "station": "赤羽"
+  },
+  "13323426": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323426",
+    "name": "洋麺屋五右衛門",
+    "station": "広尾"
+  },
+  "13323427": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323427",
+    "name": "鉄板焼Calme",
+    "station": "新富町"
+  },
+  "13323428": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323428",
+    "name": "tens.",
+    "station": "千駄ヶ谷"
   }
 }
