@@ -1738,5 +1738,25 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323453",
     "name": "ダイエー 幡ヶ谷店",
     "station": "幡ケ谷"
+  },
+  "13323454": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323454",
+    "name": "ファミリーマート　西新宿アトラスタワー店",
+    "station": "西新宿"
+  },
+  "13323455": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323455",
+    "name": "のりカフェRINO",
+    "station": "千駄木"
+  },
+  "13323456": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323456",
+    "name": "おばんざい AnJu(アンジュ)",
+    "station": "花小金井"
+  },
+  "13323457": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323457",
+    "name": "シャンシャン家麻辣湯",
+    "station": "吉祥寺"
   }
 }
