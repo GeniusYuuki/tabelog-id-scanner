@@ -1713,5 +1713,30 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323448",
     "name": "くすのきキッチン",
     "station": "国領"
+  },
+  "13323449": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323449",
+    "name": "オーケー 足立保木間店",
+    "station": "竹ノ塚"
+  },
+  "13323450": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323450",
+    "name": "おっちゃんの店 市蔵",
+    "station": "荏原町"
+  },
+  "13323451": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323451",
+    "name": "セブン-イレブン 中野坂上駅南店",
+    "station": "中野坂上"
+  },
+  "13323452": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323452",
+    "name": "生しじみラーメン オルニ 六本木店",
+    "station": "六本木"
+  },
+  "13323453": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323453",
+    "name": "ダイエー 幡ヶ谷店",
+    "station": "幡ケ谷"
   }
 }
