@@ -1758,5 +1758,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323457",
     "name": "シャンシャン家麻辣湯",
     "station": "吉祥寺"
+  },
+  "13323458": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323458",
+    "name": "てぐたんラーメン",
+    "station": "早稲田（都電）"
+  },
+  "13323459": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323459",
+    "name": "ありんす",
+    "station": "西武新宿"
   }
 }
