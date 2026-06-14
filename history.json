@@ -1888,5 +1888,40 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323483",
     "name": "八王子中野上町古民家",
     "station": "西八王子"
+  },
+  "13323484": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323484",
+    "name": "永福スタンド SOU",
+    "station": "永福町"
+  },
+  "13323485": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323485",
+    "name": "ファミリーマート 中野弥生町本郷通り店",
+    "station": "西新宿五丁目"
+  },
+  "13323486": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323486",
+    "name": "憩い処",
+    "station": "市場前"
+  },
+  "13323487": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323487",
+    "name": "ローソン 中野新橋店",
+    "station": "中野新橋"
+  },
+  "13323488": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323488",
+    "name": "ア・ラ・カンパーニュ 二子玉川 東急フードショー店",
+    "station": "二子玉川"
+  },
+  "13323489": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323489",
+    "name": "マナカマナ　スパイス",
+    "station": "五反野"
+  },
+  "13323490": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323490",
+    "name": "ファミリーマート 中野本町五丁目店",
+    "station": "中野富士見町"
   }
 }
