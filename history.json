@@ -1923,5 +1923,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323490",
     "name": "ファミリーマート 中野本町五丁目店",
     "station": "中野富士見町"
+  },
+  "13323491": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323491",
+    "name": "元祖からあげの中津家 西葛西店",
+    "station": "西葛西"
+  },
+  "13323492": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323492",
+    "name": "chocoっと",
+    "station": "大森"
   }
 }
