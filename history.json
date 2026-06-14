@@ -1828,5 +1828,65 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323471",
     "name": "熊嵩tokyo",
     "station": "中野新橋"
+  },
+  "13323472": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323472",
+    "name": "からあげ唐平",
+    "station": "大森"
+  },
+  "13323473": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323473",
+    "name": "nukumuku breadstore 三軒茶屋本店",
+    "station": "西太子堂"
+  },
+  "13323474": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323474",
+    "name": "北海道らーめん みそ熊 荻窪店",
+    "station": "荻窪"
+  },
+  "13323475": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323475",
+    "name": "嘉宴 雪が谷店",
+    "station": "雪が谷大塚"
+  },
+  "13323476": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323476",
+    "name": "ファミリーマート 東中野四丁目店",
+    "station": "落合"
+  },
+  "13323477": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323477",
+    "name": "Musubi",
+    "station": "蓮沼"
+  },
+  "13323478": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323478",
+    "name": "TOKYO SANDWICH CLUB",
+    "station": "稲荷町"
+  },
+  "13323479": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323479",
+    "name": "よしだや",
+    "station": "町屋"
+  },
+  "13323480": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323480",
+    "name": "ファミリーマート 西新宿アトラスタワー店",
+    "station": "西新宿"
+  },
+  "13323481": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323481",
+    "name": "ファミリーマート　 稲城長沼駅前店",
+    "station": "稲城長沼"
+  },
+  "13323482": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323482",
+    "name": "麺場田所商店 亀有店",
+    "station": "亀有"
+  },
+  "13323483": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323483",
+    "name": "八王子中野上町古民家",
+    "station": "西八王子"
   }
 }
