@@ -1813,5 +1813,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323468",
     "name": "Pizza&Italian Leo",
     "station": "渋谷"
+  },
+  "13323469": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323469",
+    "name": "CRESALTA BAKERY",
+    "station": "西太子堂"
+  },
+  "13323470": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323470",
+    "name": "ファミリーマート　東中野四丁目店",
+    "station": "町田"
+  },
+  "13323471": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323471",
+    "name": "熊嵩tokyo",
+    "station": "中野新橋"
   }
 }
