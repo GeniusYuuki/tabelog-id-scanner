@@ -1963,5 +1963,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323498",
     "name": "ライブハウス赤坂ロマン",
     "station": "赤坂"
+  },
+  "13323499": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323499",
+    "name": "油そば総本店 江古田店",
+    "station": "江古田"
+  },
+  "13323500": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323500",
+    "name": "昼だけうなぎ屋 練馬店",
+    "station": "練馬"
   }
 }
