@@ -1933,5 +1933,35 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323492",
     "name": "chocoっと",
     "station": "大森"
+  },
+  "13323493": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323493",
+    "name": "沸騰",
+    "station": "大山"
+  },
+  "13323494": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323494",
+    "name": "ka ha na tonari",
+    "station": "三鷹"
+  },
+  "13323495": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323495",
+    "name": "割烹一富士",
+    "station": "浅草（つくばＥＸＰ）"
+  },
+  "13323496": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323496",
+    "name": "バインミーシンチャオ 吉祥寺マルイ店",
+    "station": "吉祥寺"
+  },
+  "13323497": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323497",
+    "name": "天津餃子房",
+    "station": "山田"
+  },
+  "13323498": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323498",
+    "name": "ライブハウス赤坂ロマン",
+    "station": "赤坂"
   }
 }
