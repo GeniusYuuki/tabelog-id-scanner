@@ -2118,5 +2118,35 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323529",
     "name": "居食屋 由",
     "station": "新小岩"
+  },
+  "13323530": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323530",
+    "name": "元祖肉油堂　UMAMI 下北沢店",
+    "station": "下北沢"
+  },
+  "13323531": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323531",
+    "name": "チェリー",
+    "station": "日暮里"
+  },
+  "13323532": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323532",
+    "name": "薬マツモトキヨシ仲宿店",
+    "station": "板橋区役所前"
+  },
+  "13323533": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323533",
+    "name": "ウェルシア板橋下板橋店",
+    "station": "板橋区役所前"
+  },
+  "13323534": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323534",
+    "name": "ナチュラルローソン 新宿フロントタワー店",
+    "station": "西新宿"
+  },
+  "13323535": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323535",
+    "name": "虎ノ門ホリックホテル",
+    "station": "虎ノ門ヒルズ"
   }
 }
