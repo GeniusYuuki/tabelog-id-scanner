@@ -2298,5 +2298,40 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323565",
     "name": "AREUM BAGEL 原宿店",
     "station": "原宿"
+  },
+  "13323566": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323566",
+    "name": "BENI  VARRIO 銀座",
+    "station": "明治神宮前"
+  },
+  "13323567": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323567",
+    "name": "BENI  VARRIO 原宿",
+    "station": "明治神宮前"
+  },
+  "13323568": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323568",
+    "name": "ダーツ・居酒屋 ＥＮＡ",
+    "station": "葛西"
+  },
+  "13323569": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323569",
+    "name": "B1 LA JAULA",
+    "station": "自由が丘"
+  },
+  "13323570": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323570",
+    "name": "47都道府県の日本酒勢揃い 個室居酒屋 稲荷商店 上野店",
+    "station": "上野"
+  },
+  "13323571": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323571",
+    "name": "うどん&ラーメン&そばbar 滑車",
+    "station": "一橋学園"
+  },
+  "13323572": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323572",
+    "name": "ユメマサデリ1",
+    "station": "中野"
   }
 }
