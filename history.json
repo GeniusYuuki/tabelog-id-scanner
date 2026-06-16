@@ -2333,5 +2333,70 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323572",
     "name": "ユメマサデリ1",
     "station": "中野"
+  },
+  "13323573": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323573",
+    "name": "ガイ別館",
+    "station": "宝町"
+  },
+  "13323574": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323574",
+    "name": "ユメマサデリ",
+    "station": "赤坂"
+  },
+  "13323575": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323575",
+    "name": "hodokeba3cha",
+    "station": "三軒茶屋"
+  },
+  "13323576": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323576",
+    "name": "焼肉 CHINTAN GINZA",
+    "station": "新橋"
+  },
+  "13323577": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323577",
+    "name": "DOLCE TACUBO GINZA",
+    "station": "東銀座"
+  },
+  "13323578": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323578",
+    "name": "L’enocanto 大手町",
+    "station": "大手町"
+  },
+  "13323579": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323579",
+    "name": "花と餃子",
+    "station": "小伝馬町"
+  },
+  "13323580": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323580",
+    "name": "ローソン 品川東五反田二丁目店",
+    "station": "五反田"
+  },
+  "13323581": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323581",
+    "name": "八王子 葵千人 桑都テラス店",
+    "station": "八王子"
+  },
+  "13323582": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323582",
+    "name": "カクヤス 東五反田店",
+    "station": "五反田"
+  },
+  "13323583": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323583",
+    "name": "Mimi Tea",
+    "station": "吉祥寺"
+  },
+  "13323584": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323584",
+    "name": "き節",
+    "station": "人形町"
+  },
+  "13323585": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323585",
+    "name": "Joy’s choice",
+    "station": "有楽町"
   }
 }
