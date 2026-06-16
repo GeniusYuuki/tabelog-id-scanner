@@ -2398,5 +2398,30 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323585",
     "name": "Joy’s choice",
     "station": "有楽町"
+  },
+  "13323586": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323586",
+    "name": "六九屋",
+    "station": "五反野"
+  },
+  "13323587": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323587",
+    "name": "KUROTOKAGE — Music Bar Aoyama",
+    "station": "渋谷"
+  },
+  "13323588": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323588",
+    "name": "プァミリーマート アルカセントラル店",
+    "station": "錦糸町"
+  },
+  "13323589": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323589",
+    "name": "シチリア料理　神楽坂　Ragusa",
+    "station": "飯田橋"
+  },
+  "13323590": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323590",
+    "name": "22nd-TWENTYSECOND-",
+    "station": "下神明"
   }
 }
