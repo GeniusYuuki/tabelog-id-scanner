@@ -2498,5 +2498,65 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323605",
     "name": "壱角家 浜松町店",
     "station": "大門"
+  },
+  "13323606": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323606",
+    "name": "売店「賑わい」",
+    "station": "築地市場"
+  },
+  "13323607": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323607",
+    "name": "魚えもん 下北沢店",
+    "station": "下北沢"
+  },
+  "13323608": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323608",
+    "name": "カラオケ パブ さくら",
+    "station": "新橋"
+  },
+  "13323609": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323609",
+    "name": "BANDIES 高円寺店",
+    "station": "高円寺"
+  },
+  "13323610": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323610",
+    "name": "BANDIES 中野店",
+    "station": "中野"
+  },
+  "13323611": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323611",
+    "name": "BANDIES 武蔵小金井店",
+    "station": "武蔵小金井"
+  },
+  "13323612": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323612",
+    "name": "Shisha&cafe SPOT",
+    "station": "人形町"
+  },
+  "13323613": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323613",
+    "name": "バインミー☆サンドイッチ 渋谷宮益坂店",
+    "station": "渋谷"
+  },
+  "13323614": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323614",
+    "name": "Lauderdale",
+    "station": "六本木一丁目"
+  },
+  "13323615": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323615",
+    "name": "酒場 魚と鶏ヤロー 新橋店",
+    "station": "新橋"
+  },
+  "13323616": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323616",
+    "name": "眞 チャン ポン",
+    "station": "京成上野"
+  },
+  "13323617": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323617",
+    "name": "ふふ東京銀座",
+    "station": "銀座一丁目"
   }
 }
