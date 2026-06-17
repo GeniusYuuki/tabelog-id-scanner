@@ -2428,5 +2428,75 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323591",
     "name": "ローソン 足立梅島二丁目店",
     "station": "梅島"
+  },
+  "13323592": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323592",
+    "name": "蓮雀",
+    "station": "六本木"
+  },
+  "13323593": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323593",
+    "name": "テスト登録",
+    "station": "飯田橋"
+  },
+  "13323594": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323594",
+    "name": "田所担々麺 新宿西口店",
+    "station": "新宿西口"
+  },
+  "13323595": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323595",
+    "name": "マクドナルド 東長崎駅前店",
+    "station": "東長崎"
+  },
+  "13323596": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323596",
+    "name": "三軒茶屋もつ焼きパラダイス富士",
+    "station": "三軒茶屋"
+  },
+  "13323597": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323597",
+    "name": "立川貝介",
+    "station": "立川南"
+  },
+  "13323598": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323598",
+    "name": "Peace Diner",
+    "station": "恵比寿"
+  },
+  "13323599": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323599",
+    "name": "北海道食品庫",
+    "station": "神谷町"
+  },
+  "13323600": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323600",
+    "name": "Neo Nice Burger 自由が丘店すずかけ通り店",
+    "station": "自由が丘"
+  },
+  "13323601": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323601",
+    "name": "I’m Donut?自由が丘すずかけ通り店",
+    "station": "自由が丘"
+  },
+  "13323602": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323602",
+    "name": "葛城",
+    "station": "上野御徒町"
+  },
+  "13323603": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323603",
+    "name": "富山×酒場ヨイチャベstand",
+    "station": "渋谷"
+  },
+  "13323604": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323604",
+    "name": "壱角家 ココリア多摩センター店",
+    "station": "多摩センター"
+  },
+  "13323605": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323605",
+    "name": "壱角家 浜松町店",
+    "station": "大門"
   }
 }
