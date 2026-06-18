@@ -2723,5 +2723,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323650",
     "name": "アブラヤクマハチ",
     "station": "中野"
+  },
+  "13323651": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323651",
+    "name": "もつ焼き ひふみ屋",
+    "station": "渋谷"
+  },
+  "13323652": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323652",
+    "name": "ハレノチハレ？",
+    "station": "新御徒町"
   }
 }
