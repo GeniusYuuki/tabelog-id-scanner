@@ -2648,5 +2648,55 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323635",
     "name": "焼き処 NiCo",
     "station": "水天宮前"
+  },
+  "13323636": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323636",
+    "name": "やきとり・もつ焼き やまちゃん 赤羽店",
+    "station": "赤羽"
+  },
+  "13323637": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323637",
+    "name": "センタービーフとカレーのお店",
+    "station": "稲荷町"
+  },
+  "13323638": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323638",
+    "name": "Taverna サカエヤ",
+    "station": "豪徳寺"
+  },
+  "13323639": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323639",
+    "name": "手打ち式自家製麺　ｈａｎａｒｅ　賞讃",
+    "station": "京成立石"
+  },
+  "13323640": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323640",
+    "name": "懐石料理 佐五兵衛",
+    "station": "武蔵五日市"
+  },
+  "13323641": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323641",
+    "name": "セブンイレブン 新橋1丁目店",
+    "station": "新橋"
+  },
+  "13323642": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323642",
+    "name": "KARAOKE BAR T8",
+    "station": "西八王子"
+  },
+  "13323643": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323643",
+    "name": "銀座 蟹海 極上海鮮ブッフェダイニング",
+    "station": "銀座一丁目"
+  },
+  "13323644": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323644",
+    "name": "神戸牛 和牛の刀 新宿歌舞伎町本店",
+    "station": "新宿三丁目"
+  },
+  "13323645": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323645",
+    "name": "ステーキライスとカレーの店センタービーフアメ横店",
+    "station": "御徒町"
   }
 }
