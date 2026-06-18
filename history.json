@@ -2608,5 +2608,45 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323627",
     "name": "ファミリーマート　赤羽平和通り店",
     "station": "志茂"
+  },
+  "13323628": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323628",
+    "name": "ソウルポチャ　沼袋",
+    "station": "沼袋"
+  },
+  "13323629": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323629",
+    "name": "楊国福マーラータン  中野店",
+    "station": "中野"
+  },
+  "13323630": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323630",
+    "name": "縁天 はなれ",
+    "station": "赤坂"
+  },
+  "13323631": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323631",
+    "name": "カフェ ベローチェ 新橋駅銀座口店",
+    "station": "新橋"
+  },
+  "13323632": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323632",
+    "name": "ランディーズドーナツ 渋谷スクランブルスクエア 東急フードショーエッジ店",
+    "station": "渋谷"
+  },
+  "13323633": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323633",
+    "name": "西八王子エイトクレープ",
+    "station": "西八王子"
+  },
+  "13323634": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323634",
+    "name": "西八王子エイトクレープ",
+    "station": "西八王子"
+  },
+  "13323635": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323635",
+    "name": "焼き処 NiCo",
+    "station": "水天宮前"
   }
 }
