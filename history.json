@@ -2698,5 +2698,30 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323645",
     "name": "ステーキライスとカレーの店センタービーフアメ横店",
     "station": "御徒町"
+  },
+  "13323646": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323646",
+    "name": "つむぎ日和",
+    "station": "北千住"
+  },
+  "13323647": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323647",
+    "name": "Billiards Orange",
+    "station": "新小岩"
+  },
+  "13323648": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323648",
+    "name": "DARTS BAR UNDERGROUND",
+    "station": "西永福"
+  },
+  "13323649": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323649",
+    "name": "piano＆diner Home Bound",
+    "station": "亀戸"
+  },
+  "13323650": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323650",
+    "name": "アブラヤクマハチ",
+    "station": "中野"
   }
 }
