@@ -2823,5 +2823,50 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323670",
     "name": "鮨と酒と",
     "station": "日野"
+  },
+  "13323671": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323671",
+    "name": "ダーツ&カラオケアミューズメントバー 鶴千",
+    "station": "新宿"
+  },
+  "13323672": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323672",
+    "name": "湯火功夫マーラータン 旗の台店",
+    "station": "旗の台"
+  },
+  "13323673": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323673",
+    "name": "THEキャラCAFE 東急プラザ渋谷店",
+    "station": "渋谷"
+  },
+  "13323674": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323674",
+    "name": "いなげや保谷駅前店",
+    "station": "保谷"
+  },
+  "13323675": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323675",
+    "name": "らーめん やまちゃん",
+    "station": "池ノ上"
+  },
+  "13323676": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323676",
+    "name": "cafe MENU",
+    "station": "末広町"
+  },
+  "13323677": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323677",
+    "name": "炭火串焼と旬鮮料理の店 炭三",
+    "station": "高島平"
+  },
+  "13323678": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323678",
+    "name": "業務スーパー 蓮根店",
+    "station": "蓮根"
+  },
+  "13323679": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323679",
+    "name": "めん処武蔵 日野店",
+    "station": "北八王子"
   }
 }
