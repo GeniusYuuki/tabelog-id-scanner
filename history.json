@@ -3063,5 +3063,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323718",
     "name": "魚彦゜～うおぴこ～",
     "station": "東新宿"
+  },
+  "13323719": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323719",
+    "name": "バイウェイヌードル 虎ノ門ヒルズ ステーションタワー店",
+    "station": "虎ノ門ヒルズ"
+  },
+  "13323720": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323720",
+    "name": "PARIS BUTTER SAND 大丸東京店",
+    "station": "東京"
   }
 }
