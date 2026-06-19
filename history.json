@@ -2983,5 +2983,45 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323702",
     "name": "JENNIFER SEVEN",
     "station": "明治神宮前"
+  },
+  "13323703": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323703",
+    "name": "銀座 すし仙",
+    "station": "銀座"
+  },
+  "13323704": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323704",
+    "name": "新宿 蟹料理 あいぜん",
+    "station": "新宿三丁目"
+  },
+  "13323705": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323705",
+    "name": "元気になる漢のスパイスカレー",
+    "station": "西武新宿"
+  },
+  "13323706": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323706",
+    "name": "新宿 個室 蟹でら",
+    "station": "新宿西口"
+  },
+  "13323707": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323707",
+    "name": "わいわい屋",
+    "station": "西武新宿"
+  },
+  "13323708": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323708",
+    "name": "早稲田Space chill hours",
+    "station": "早稲田"
+  },
+  "13323709": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323709",
+    "name": "TOKI SEVEN TEA　蒲田店",
+    "station": "蒲田"
+  },
+  "13323710": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323710",
+    "name": "親愛的麻辣湯 金町店",
+    "station": "金町"
   }
 }
