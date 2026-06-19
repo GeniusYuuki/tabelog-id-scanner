@@ -2813,5 +2813,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323668",
     "name": "Yuki's Tea Room",
     "station": "東久留米"
+  },
+  "13323669": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323669",
+    "name": "JENA Cafe & Kitchen",
+    "station": "荒川区役所前"
+  },
+  "13323670": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323670",
+    "name": "鮨と酒と",
+    "station": "日野"
   }
 }
