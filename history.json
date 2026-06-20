@@ -3073,5 +3073,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323720",
     "name": "PARIS BUTTER SAND 大丸東京店",
     "station": "東京"
+  },
+  "13323721": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323721",
+    "name": "dacō 自由が丘すずかけ通り",
+    "station": "自由が丘"
+  },
+  "13323722": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323722",
+    "name": "kamakura GORO 月うさレーベル",
+    "station": "東京"
+  },
+  "13323723": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323723",
+    "name": "SEA SIDE BLUE wine",
+    "station": "高輪ゲートウェイ"
   }
 }
