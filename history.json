@@ -3178,5 +3178,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323741",
     "name": "YOGI 三軒茶屋店",
     "station": "三軒茶屋"
+  },
+  "13323742": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323742",
+    "name": "MYUI　kitchen＆cafe",
+    "station": "東向島"
+  },
+  "13323743": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323743",
+    "name": "chaton",
+    "station": "大師前"
+  },
+  "13323744": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323744",
+    "name": "paperboy",
+    "station": "北参道"
   }
 }
