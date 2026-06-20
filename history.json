@@ -3088,5 +3088,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323723",
     "name": "SEA SIDE BLUE wine",
     "station": "高輪ゲートウェイ"
+  },
+  "13323724": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323724",
+    "name": "cafe NIKOH",
+    "station": "白丸"
+  },
+  "13323725": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323725",
+    "name": "SAKU",
+    "station": "戸越公園"
+  },
+  "13323726": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323726",
+    "name": "Wine bar Peridot",
+    "station": "新小岩"
   }
 }
