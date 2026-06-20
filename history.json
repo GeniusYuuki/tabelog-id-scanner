@@ -3143,5 +3143,25 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323734",
     "name": "居酒屋 豪",
     "station": "新小岩"
+  },
+  "13323735": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323735",
+    "name": "UZ KEBAB",
+    "station": "秋葉原"
+  },
+  "13323736": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323736",
+    "name": "銀座朔月",
+    "station": "新橋"
+  },
+  "13323737": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323737",
+    "name": "NOMU Kichijoji",
+    "station": "吉祥寺"
+  },
+  "13323738": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323738",
+    "name": "バインミーシンチャオ マルイ吉祥寺店",
+    "station": "吉祥寺"
   }
 }
