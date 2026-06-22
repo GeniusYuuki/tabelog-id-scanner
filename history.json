@@ -3443,5 +3443,35 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323794",
     "name": "Liqueur BAR many-colors",
     "station": "門前仲町"
+  },
+  "13323795": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323795",
+    "name": "紡朔",
+    "station": "新宿"
+  },
+  "13323796": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323796",
+    "name": "肉と小料理 ハルウララ",
+    "station": "吉祥寺"
+  },
+  "13323797": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323797",
+    "name": "駅近バーベキュー 楽園タウン池袋",
+    "station": "池袋"
+  },
+  "13323798": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323798",
+    "name": "パンダ麻辣湯　池袋店",
+    "station": "池袋"
+  },
+  "13323799": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323799",
+    "name": "牛骨麻辣湯・京喜",
+    "station": "江古田"
+  },
+  "13323800": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323800",
+    "name": "TOKYO MIX CURRY 大手町カンファレンスセンター",
+    "station": "大手町"
   }
 }
