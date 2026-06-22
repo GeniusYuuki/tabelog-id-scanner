@@ -3478,5 +3478,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323801",
     "name": "せんかわ",
     "station": "上石神井"
+  },
+  "13323802": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323802",
+    "name": "焼き菓子 みゅう",
+    "station": "新小岩"
+  },
+  "13323803": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323803",
+    "name": "Happy Doggy's",
+    "station": "末広町"
   }
 }
