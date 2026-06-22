@@ -3388,5 +3388,60 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323783",
     "name": "銀座 鉄板焼き Shin Harada",
     "station": "東銀座"
+  },
+  "13323784": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323784",
+    "name": "裏路地 くろちゃん 池袋店",
+    "station": "池袋"
+  },
+  "13323785": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323785",
+    "name": "_CONVENI",
+    "station": "石神井公園"
+  },
+  "13323786": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323786",
+    "name": "親鶏中華そば 綾川 東大和店",
+    "station": "上北台"
+  },
+  "13323787": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323787",
+    "name": "KIELO COFFEE ROASTERY in ASAKUSA",
+    "station": "浅草"
+  },
+  "13323788": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323788",
+    "name": "higher",
+    "station": "代々木上原"
+  },
+  "13323789": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323789",
+    "name": "ten cen ten",
+    "station": "池尻大橋"
+  },
+  "13323790": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323790",
+    "name": "かきだ鮨 丸の内本店",
+    "station": "東京"
+  },
+  "13323791": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323791",
+    "name": "あやめ",
+    "station": "西永福"
+  },
+  "13323792": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323792",
+    "name": "カフェテリア「ナカノヤ NYAcafe」",
+    "station": "中野"
+  },
+  "13323793": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323793",
+    "name": "楊國福マーラータン 新宿御苑店",
+    "station": "西武新宿"
+  },
+  "13323794": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323794",
+    "name": "Liqueur BAR many-colors",
+    "station": "門前仲町"
   }
 }
