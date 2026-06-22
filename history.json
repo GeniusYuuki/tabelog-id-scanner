@@ -3473,5 +3473,10 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323800",
     "name": "TOKYO MIX CURRY 大手町カンファレンスセンター",
     "station": "大手町"
+  },
+  "13323801": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323801",
+    "name": "せんかわ",
+    "station": "上石神井"
   }
 }
