@@ -3488,5 +3488,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323803",
     "name": "Happy Doggy's",
     "station": "末広町"
+  },
+  "13323804": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323804",
+    "name": "Patisserie Jardin Vert kinone東久留米店",
+    "station": "東久留米"
+  },
+  "13323805": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323805",
+    "name": "西浅草 しば田 和助",
+    "station": "田原町"
   }
 }
