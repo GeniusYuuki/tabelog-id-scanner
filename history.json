@@ -3513,5 +3513,30 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323808",
     "name": "キッチン　ひまわり 上野毛店",
     "station": "上野毛"
+  },
+  "13323809": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323809",
+    "name": "鮨 くろがね",
+    "station": "日本橋"
+  },
+  "13323810": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323810",
+    "name": "焼肉横丁 秋葉原本店",
+    "station": "秋葉原"
+  },
+  "13323811": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323811",
+    "name": "めし酒日和",
+    "station": "八王子"
+  },
+  "13323812": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323812",
+    "name": "yellow吉祥寺",
+    "station": "吉祥寺"
+  },
+  "13323813": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323813",
+    "name": "flour+water 吉祥寺",
+    "station": "吉祥寺"
   }
 }
