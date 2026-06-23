@@ -3758,5 +3758,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323858",
     "name": "be my flora bakery",
     "station": "広尾"
+  },
+  "13323859": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323859",
+    "name": "スパイスカレー屋さんの台所",
+    "station": "十条"
+  },
+  "13323860": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323860",
+    "name": "七七七七麻辣烫",
+    "station": "板橋"
+  },
+  "13323861": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323861",
+    "name": "新潟カツ丼タレカツ 渋谷２階店",
+    "station": "渋谷"
   }
 }
