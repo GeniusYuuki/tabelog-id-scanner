@@ -3503,5 +3503,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323806",
     "name": "無室",
     "station": "銀座"
+  },
+  "13323807": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323807",
+    "name": "小松屋　小泉豆腐店",
+    "station": "四ツ谷"
+  },
+  "13323808": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323808",
+    "name": "キッチン　ひまわり 上野毛店",
+    "station": "上野毛"
   }
 }
