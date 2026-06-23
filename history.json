@@ -3538,5 +3538,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323813",
     "name": "flour+water 吉祥寺",
     "station": "吉祥寺"
+  },
+  "13323814": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323814",
+    "name": "アラリヤランカ 京橋店",
+    "station": "銀座一丁目"
+  },
+  "13323815": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323815",
+    "name": "Re Route CAFE",
+    "station": "自由が丘"
+  },
+  "13323816": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323816",
+    "name": "AFTER ALL COFFEE 西新宿6丁目店",
+    "station": "西新宿"
   }
 }
