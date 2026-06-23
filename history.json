@@ -3783,5 +3783,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323863",
     "name": "KINGSTON JERKCHICKEN 錦糸町",
     "station": "錦糸町"
+  },
+  "13323864": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323864",
+    "name": "ほっともっとS東京サンケイビル店",
+    "station": "九段下"
+  },
+  "13323865": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323865",
+    "name": "LOUNGE BAR SALA（サラ）",
+    "station": "東久留米"
+  },
+  "13323866": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323866",
+    "name": "張亮麻辣湯 新小岩店",
+    "station": "新小岩"
   }
 }
