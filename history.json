@@ -4573,5 +4573,25 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324021",
     "name": "ばらえ亭",
     "station": "昭和島"
+  },
+  "13324022": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324022",
+    "name": "SUZU COFFE",
+    "station": "東中野"
+  },
+  "13324023": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324023",
+    "name": "NongTang  弄堂饼铺",
+    "station": "面影橋"
+  },
+  "13324024": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324024",
+    "name": "手打ちラーメンつけ麺 高の",
+    "station": "亀戸"
+  },
+  "13324025": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324025",
+    "name": "魅凛",
+    "station": "立川"
   }
 }
