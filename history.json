@@ -4593,5 +4593,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324025",
     "name": "魅凛",
     "station": "立川"
+  },
+  "13324026": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324026",
+    "name": "ごはん食堂　直",
+    "station": "板橋"
+  },
+  "13324027": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324027",
+    "name": "荻窪中華そば春木屋 羽田空港店",
+    "station": "新整備場"
   }
 }
