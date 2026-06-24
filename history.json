@@ -4553,5 +4553,10 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324017",
     "name": "Ekberg",
     "station": "新宿三丁目"
+  },
+  "13324018": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324018",
+    "name": "パスタ食堂Tiger Pasta",
+    "station": "蒲田"
   }
 }
