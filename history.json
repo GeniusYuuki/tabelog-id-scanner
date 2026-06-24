@@ -4408,5 +4408,150 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323988",
     "name": "給食のおばさん 味の素スタジアム店",
     "station": "飛田給"
+  },
+  "13323989": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323989",
+    "name": "タイ料理アローイ・アロイ 味の素スタジアム店",
+    "station": "飛田給"
+  },
+  "13323990": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323990",
+    "name": "海苔弁いちのや 味の素スタジアム店",
+    "station": "飛田給"
+  },
+  "13323991": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323991",
+    "name": "甘味処ぷー太郎 味の素スタジアム店",
+    "station": "飛田給"
+  },
+  "13323992": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323992",
+    "name": "メディトリーナ 味の素スタジアム店",
+    "station": "飛田給"
+  },
+  "13323993": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323993",
+    "name": "リッキー 味の素スタジアム店",
+    "station": "飛田給"
+  },
+  "13323994": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323994",
+    "name": "キッチンカーニバル 味の素スタジアム店",
+    "station": "飛田給"
+  },
+  "13323995": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323995",
+    "name": "銀座六丁目、フライの家 味の素スタジアム店",
+    "station": "飛田給"
+  },
+  "13323996": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323996",
+    "name": "さかなや 味の素スタジアム店",
+    "station": "飛田給"
+  },
+  "13323997": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323997",
+    "name": "北海道凪の幸 味の素スタジアム店",
+    "station": "飛田給"
+  },
+  "13323998": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323998",
+    "name": "pighip 味の素スタジアム店",
+    "station": "飛田給"
+  },
+  "13323999": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323999",
+    "name": "Lai's Pantry Café 味の素スタジアム店",
+    "station": "飛田給"
+  },
+  "13324000": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324000",
+    "name": "Like 味の素スタジアム店",
+    "station": "飛田給"
+  },
+  "13324001": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324001",
+    "name": "菊ちゃんラーメン 味の素スタジアム店",
+    "station": "飛田給"
+  },
+  "13324002": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324002",
+    "name": "Efes Street Kitchen 味の素スタジアム店",
+    "station": "飛田給"
+  },
+  "13324003": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324003",
+    "name": "鳥平ちゃん 代々木店",
+    "station": "代々木"
+  },
+  "13324004": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324004",
+    "name": "oimo&coco. フードトラック東京 味の素スタジアム店",
+    "station": "飛田給"
+  },
+  "13324005": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324005",
+    "name": "R.F.T 味の素スタジアム店",
+    "station": "飛田給"
+  },
+  "13324006": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324006",
+    "name": "キッチンカー空 味の素スタジアム店",
+    "station": "飛田給"
+  },
+  "13324007": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324007",
+    "name": "makana 味の素スタジアム店",
+    "station": "飛田給"
+  },
+  "13324008": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324008",
+    "name": "KENO",
+    "station": "北千住"
+  },
+  "13324009": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324009",
+    "name": "天ぷら天寅 ヨドバシ池袋店",
+    "station": "池袋"
+  },
+  "13324010": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324010",
+    "name": "東京ドロンパキッチン 味の素スタジアム店",
+    "station": "飛田給"
+  },
+  "13324011": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324011",
+    "name": "FC東京BRキッチン(ビール) 味の素スタジアム店",
+    "station": "飛田給"
+  },
+  "13324012": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324012",
+    "name": "FC東京BRキッチン(弁当) 味の素スタジアム店",
+    "station": "飛田給"
+  },
+  "13324013": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324013",
+    "name": "肉山 味の素スタジアム店",
+    "station": "飛田給"
+  },
+  "13324014": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324014",
+    "name": "T.Y.HARBOR Brewery 味の素スタジアム店",
+    "station": "飛田給"
+  },
+  "13324015": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324015",
+    "name": "つきぢ松露 味の素スタジアム店",
+    "station": "飛田給"
+  },
+  "13324016": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324016",
+    "name": "くってけ亭 味の素スタジアム店",
+    "station": "飛田給"
+  },
+  "13324017": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324017",
+    "name": "Ekberg",
+    "station": "新宿三丁目"
   }
 }
