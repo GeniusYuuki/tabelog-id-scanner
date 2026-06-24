@@ -4558,5 +4558,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324018",
     "name": "パスタ食堂Tiger Pasta",
     "station": "蒲田"
+  },
+  "13324019": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324019",
+    "name": "BRISK STAND",
+    "station": "羽田空港第３ターミナル（京急）"
+  },
+  "13324020": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324020",
+    "name": "大分からあげ 弥栄深沢",
+    "station": "尾山台"
   }
 }
