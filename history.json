@@ -4723,5 +4723,60 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324051",
     "name": "いちりんご 世田谷店",
     "station": "千歳船橋"
+  },
+  "13324052": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324052",
+    "name": "浅草梅園 大丸東京店",
+    "station": "東京"
+  },
+  "13324053": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324053",
+    "name": "デジキューBBQテラス 京王聖蹟桜ヶ丘店",
+    "station": "聖蹟桜ヶ丘"
+  },
+  "13324054": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324054",
+    "name": "STAR SELECTION 伊勢丹新宿店",
+    "station": "新宿三丁目"
+  },
+  "13324055": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324055",
+    "name": "完全個室居酒屋 串治郎 新宿店",
+    "station": "新宿西口"
+  },
+  "13324056": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324056",
+    "name": "白虎麻辣湯赤塚2丁目店",
+    "station": "下赤塚"
+  },
+  "13324057": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324057",
+    "name": "THE 2ND BAR - JUICE & COFFEE -",
+    "station": "- 新宿三丁目"
+  },
+  "13324058": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324058",
+    "name": "からあげ金星 京成高砂店",
+    "station": "京成高砂"
+  },
+  "13324059": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324059",
+    "name": "OPUS THREE",
+    "station": "池袋"
+  },
+  "13324060": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324060",
+    "name": "本格餃子 包 水道橋店",
+    "station": "水道橋"
+  },
+  "13324061": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324061",
+    "name": "クローバー",
+    "station": "新三河島"
+  },
+  "13324062": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324062",
+    "name": "チャイハナケバブ＆弁当",
+    "station": "水道橋"
   }
 }
