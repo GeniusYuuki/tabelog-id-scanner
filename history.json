@@ -4678,5 +4678,25 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324042",
     "name": "０３８",
     "station": "一之江"
+  },
+  "13324043": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324043",
+    "name": "三浦家ROZEO",
+    "station": "町屋駅前"
+  },
+  "13324044": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324044",
+    "name": "らーめん屋台屋",
+    "station": "駒沢大学"
+  },
+  "13324045": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324045",
+    "name": "Bagel&Cafe CHARIOT",
+    "station": "長沼"
+  },
+  "13324046": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324046",
+    "name": "上",
+    "station": "麻布十番"
   }
 }
