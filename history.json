@@ -4698,5 +4698,30 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324046",
     "name": "上",
     "station": "麻布十番"
+  },
+  "13324047": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324047",
+    "name": "ロムポーン",
+    "station": "六本木"
+  },
+  "13324048": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324048",
+    "name": "TON TON CLUB",
+    "station": "門前仲町"
+  },
+  "13324049": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324049",
+    "name": "亜細亜割烹蓮月 大井町店",
+    "station": "大井町"
+  },
+  "13324050": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324050",
+    "name": "味和",
+    "station": "上板橋"
+  },
+  "13324051": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324051",
+    "name": "いちりんご 世田谷店",
+    "station": "千歳船橋"
   }
 }
