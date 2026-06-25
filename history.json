@@ -4778,5 +4778,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324062",
     "name": "チャイハナケバブ＆弁当",
     "station": "水道橋"
+  },
+  "13324063": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324063",
+    "name": "S/CAFE",
+    "station": "代々木上原"
+  },
+  "13324064": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324064",
+    "name": "JALスカイミュージアム",
+    "station": "穴守稲荷"
+  },
+  "13324065": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324065",
+    "name": "AGARTHA BREWING",
+    "station": "桜台"
   }
 }
