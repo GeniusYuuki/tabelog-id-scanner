@@ -4633,5 +4633,50 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324033",
     "name": "博多酒場 よかよい。",
     "station": "代々木"
+  },
+  "13324034": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324034",
+    "name": "数馬養鶏場",
+    "station": "小宮"
+  },
+  "13324035": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324035",
+    "name": "三田　慶華",
+    "station": "田町"
+  },
+  "13324036": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324036",
+    "name": "相天",
+    "station": "淡路町"
+  },
+  "13324037": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324037",
+    "name": "かき氷GUFO",
+    "station": "神泉"
+  },
+  "13324038": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324038",
+    "name": "ロクメイコーヒー 武蔵小山店",
+    "station": "武蔵小山"
+  },
+  "13324039": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324039",
+    "name": "PANTOWA",
+    "station": "中神"
+  },
+  "13324040": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324040",
+    "name": "はな青　弐",
+    "station": "八丁堀"
+  },
+  "13324041": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324041",
+    "name": "和 -KAZU- 銀座ナイン",
+    "station": "新橋"
+  },
+  "13324042": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324042",
+    "name": "０３８",
+    "station": "一之江"
   }
 }
