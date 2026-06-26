@@ -4983,5 +4983,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324103",
     "name": "鮨　悠久なか川",
     "station": "銀座"
+  },
+  "13324104": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324104",
+    "name": "しながわ戸越 宝寿司",
+    "station": "戸越公園"
+  },
+  "13324105": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324105",
+    "name": "みどり工房",
+    "station": "千駄ケ谷"
+  },
+  "13324106": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324106",
+    "name": "MM/DD/YY COFFEE",
+    "station": "千駄ケ谷"
   }
 }
