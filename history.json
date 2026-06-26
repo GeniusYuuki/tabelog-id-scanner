@@ -4968,5 +4968,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324100",
     "name": "素麺屋　糸 六本木店",
     "station": "六本木"
+  },
+  "13324101": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324101",
+    "name": "まいばすけっと 西日暮里２丁目店",
+    "station": "日暮里"
+  },
+  "13324102": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324102",
+    "name": "革命レバー",
+    "station": "荻窪"
+  },
+  "13324103": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324103",
+    "name": "鮨　悠久なか川",
+    "station": "銀座"
   }
 }
