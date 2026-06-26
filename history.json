@@ -4808,5 +4808,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324068",
     "name": "５０年餃子",
     "station": "稲城"
+  },
+  "13324069": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324069",
+    "name": "ミニストップ 東大和芋窪店",
+    "station": "上北台"
+  },
+  "13324070": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324070",
+    "name": "ひまわり",
+    "station": "瑞江"
+  },
+  "13324071": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324071",
+    "name": "炭火焼鳥くわどり 五反田店",
+    "station": "五反田"
   }
 }
