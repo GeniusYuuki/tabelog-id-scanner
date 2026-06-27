@@ -5053,5 +5053,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324117",
     "name": "菓匠 寛永堂 シャポー小岩店",
     "station": "小岩"
+  },
+  "13324118": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324118",
+    "name": "海山米",
+    "station": "笹塚"
+  },
+  "13324119": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324119",
+    "name": "Marsera kz",
+    "station": "綾瀬"
+  },
+  "13324120": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324120",
+    "name": "オザム日の出店",
+    "station": "武蔵増戸"
   }
 }
