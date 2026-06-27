@@ -5118,5 +5118,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324130",
     "name": "山小屋 Sweets & Kitchen",
     "station": "利島"
+  },
+  "13324131": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324131",
+    "name": "ファミリーマート 東京タワー通り店",
+    "station": "神谷町"
+  },
+  "13324132": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324132",
+    "name": "LAWSON 鮫洲駅前店",
+    "station": "鮫洲"
   }
 }
