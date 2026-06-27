@@ -5088,5 +5088,35 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324124",
     "name": "うなぎと酒　うなひろ",
     "station": "用賀"
+  },
+  "13324125": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324125",
+    "name": "蕎麦いまゐ 池袋サンシャイン店",
+    "station": "東池袋"
+  },
+  "13324126": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324126",
+    "name": "Atelier R",
+    "station": "三鷹"
+  },
+  "13324127": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324127",
+    "name": "Café Salon Le Mimi",
+    "station": "池袋"
+  },
+  "13324128": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324128",
+    "name": "高野ガーデン",
+    "station": "沢井"
+  },
+  "13324129": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324129",
+    "name": "関口屋",
+    "station": "練馬"
+  },
+  "13324130": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324130",
+    "name": "山小屋 Sweets & Kitchen",
+    "station": "利島"
   }
 }
