@@ -5008,5 +5008,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324108",
     "name": "おばんざ 壱菜～ISSAI～",
     "station": "王子駅前"
+  },
+  "13324109": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324109",
+    "name": "レストラン楠亭",
+    "station": "早稲田（都電）"
+  },
+  "13324110": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324110",
+    "name": "キヨスク 東京幹線713",
+    "station": "東京"
   }
 }
