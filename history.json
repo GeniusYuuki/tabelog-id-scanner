@@ -5018,5 +5018,40 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324110",
     "name": "キヨスク 東京幹線713",
     "station": "東京"
+  },
+  "13324111": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324111",
+    "name": "イットラギュウニクラーメン",
+    "station": "池袋"
+  },
+  "13324112": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324112",
+    "name": "muninoma 2025年まで　いな暮らし",
+    "station": "矢野口"
+  },
+  "13324113": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324113",
+    "name": "OCHER",
+    "station": "下北沢"
+  },
+  "13324114": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324114",
+    "name": "Lawson　町田相原町境橋店",
+    "station": "相原"
+  },
+  "13324115": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324115",
+    "name": "惣菜いちふじ",
+    "station": "千駄木"
+  },
+  "13324116": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324116",
+    "name": "セイロバ",
+    "station": "不動前"
+  },
+  "13324117": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324117",
+    "name": "菓匠 寛永堂 シャポー小岩店",
+    "station": "小岩"
   }
 }
