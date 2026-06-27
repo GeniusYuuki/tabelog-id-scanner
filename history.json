@@ -5078,5 +5078,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324122",
     "name": "イタリアンバル　ビランチャ",
     "station": "府中"
+  },
+  "13324123": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324123",
+    "name": "れんげ食堂東秀 東小金井店",
+    "station": "東小金井"
+  },
+  "13324124": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324124",
+    "name": "うなぎと酒　うなひろ",
+    "station": "用賀"
   }
 }
