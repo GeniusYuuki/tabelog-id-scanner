@@ -5158,5 +5158,25 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324138",
     "name": "西欧食堂PLAT",
     "station": "久が原"
+  },
+  "13324139": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324139",
+    "name": "ケンタッキーフライドチキン 京王リトナード北野店",
+    "station": "北野"
+  },
+  "13324140": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324140",
+    "name": "李記厨房",
+    "station": "新小岩"
+  },
+  "13324141": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324141",
+    "name": "一風堂 イオン八王子滝山店",
+    "station": "北八王子"
+  },
+  "13324142": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324142",
+    "name": "Khazana Coffee in Lots",
+    "station": "小宮"
   }
 }
