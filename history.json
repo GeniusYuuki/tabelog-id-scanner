@@ -5143,5 +5143,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324135",
     "name": "ポーカーバーハック",
     "station": "新宿西口"
+  },
+  "13324136": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324136",
+    "name": "カンテボーレ西台店",
+    "station": "西台"
+  },
+  "13324137": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324137",
+    "name": "JunJun",
+    "station": "高円寺"
+  },
+  "13324138": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324138",
+    "name": "西欧食堂PLAT",
+    "station": "久が原"
   }
 }
