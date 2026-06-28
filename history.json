@@ -5178,5 +5178,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324142",
     "name": "Khazana Coffee in Lots",
     "station": "小宮"
+  },
+  "13324143": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324143",
+    "name": "だしまき玉子の店",
+    "station": "御嶽"
+  },
+  "13324144": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324144",
+    "name": "イクミママのドーナツ",
+    "station": "西八王子"
+  },
+  "13324145": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324145",
+    "name": "OKUDANG ADE STAND",
+    "station": "新大久保"
   }
 }
