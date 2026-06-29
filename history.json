@@ -5293,5 +5293,40 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324165",
     "name": "イタリア亭 RicordoBar",
     "station": "河辺"
+  },
+  "13324166": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324166",
+    "name": "BOONYS",
+    "station": "亀戸"
+  },
+  "13324167": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324167",
+    "name": "割烹 桂",
+    "station": "下落合"
+  },
+  "13324168": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324168",
+    "name": "喫茶ハーバー",
+    "station": "調布"
+  },
+  "13324169": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324169",
+    "name": "Études Tokyo",
+    "station": "恵比寿"
+  },
+  "13324170": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324170",
+    "name": "小料理や高貴",
+    "station": "新宿三丁目"
+  },
+  "13324171": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324171",
+    "name": "牡丹町 一念",
+    "station": "門前仲町"
+  },
+  "13324172": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324172",
+    "name": "ヨルズシ",
+    "station": "恵比寿"
   }
 }
