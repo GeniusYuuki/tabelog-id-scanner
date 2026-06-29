@@ -5213,5 +5213,40 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324149",
     "name": "今人",
     "station": "中延"
+  },
+  "13324150": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324150",
+    "name": "ちひろ菓子店 尾山台",
+    "station": "尾山台"
+  },
+  "13324151": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324151",
+    "name": "二代目ひつまぶしの成瀬 板橋店",
+    "station": "中板橋"
+  },
+  "13324152": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324152",
+    "name": "立呑 ちし紀",
+    "station": "北千住"
+  },
+  "13324153": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324153",
+    "name": "厚切り牛タン黒毛和牛食べ放題 焼肉朧 吉祥寺店",
+    "station": "吉祥寺"
+  },
+  "13324154": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324154",
+    "name": "成城石井 神田神保町店",
+    "station": "神保町"
+  },
+  "13324155": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324155",
+    "name": "THE NIKKA WHISKY TOKYO",
+    "station": "表参道"
+  },
+  "13324156": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324156",
+    "name": "カラオケダイニングバーB2",
+    "station": "調布"
   }
 }
