@@ -5398,5 +5398,30 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324186",
     "name": "Naroz 渋谷店",
     "station": "渋谷"
+  },
+  "13324187": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324187",
+    "name": "菓匠清閑院 松屋浅草店",
+    "station": "浅草（東武・都営・メトロ）"
+  },
+  "13324188": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324188",
+    "name": "Chin Town Restaurant",
+    "station": "東中野"
+  },
+  "13324189": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324189",
+    "name": "こばらや",
+    "station": "八潮"
+  },
+  "13324190": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324190",
+    "name": "ぎょうざ大好",
+    "station": "福生"
+  },
+  "13324191": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324191",
+    "name": "洋菓子のホワイエ 中野マルイ店",
+    "station": "中野"
   }
 }
