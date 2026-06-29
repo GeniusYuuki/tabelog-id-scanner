@@ -5373,5 +5373,30 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324181",
     "name": "TOKAI CURRY",
     "station": "本郷三丁目"
+  },
+  "13324182": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324182",
+    "name": "新作タコス実験中 東中野の店",
+    "station": "東中野"
+  },
+  "13324183": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324183",
+    "name": "Wine Bar Ponte",
+    "station": "新小岩"
+  },
+  "13324184": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324184",
+    "name": "petit pas",
+    "station": "箱根ケ崎"
+  },
+  "13324185": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324185",
+    "name": "日本出版クラブ",
+    "station": "神保町"
+  },
+  "13324186": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324186",
+    "name": "Naroz 渋谷店",
+    "station": "渋谷"
   }
 }
