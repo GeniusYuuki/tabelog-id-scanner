@@ -5268,5 +5268,30 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324160",
     "name": "Yoajung 高田馬場店",
     "station": "高田馬場"
+  },
+  "13324161": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324161",
+    "name": "実朴",
+    "station": "代官山"
+  },
+  "13324162": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324162",
+    "name": "10cm SPICE&BUNS byきしん",
+    "station": "新宿"
+  },
+  "13324163": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324163",
+    "name": "炭火やきとり鷄彩 小作店",
+    "station": "小作"
+  },
+  "13324164": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324164",
+    "name": "BAKERIES LAB.東大島店",
+    "station": "東大島"
+  },
+  "13324165": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324165",
+    "name": "イタリア亭 RicordoBar",
+    "station": "河辺"
   }
 }
