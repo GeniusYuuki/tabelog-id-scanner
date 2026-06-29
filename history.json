@@ -5248,5 +5248,25 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324156",
     "name": "カラオケダイニングバーB2",
     "station": "調布"
+  },
+  "13324157": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324157",
+    "name": "日本橋KITCHEN",
+    "station": "新日本橋"
+  },
+  "13324158": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324158",
+    "name": "ユニタイムキッキンプラス",
+    "station": "三鷹"
+  },
+  "13324159": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324159",
+    "name": "和牛ホルモン酒場 革命レバー",
+    "station": "荻窪"
+  },
+  "13324160": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324160",
+    "name": "Yoajung 高田馬場店",
+    "station": "高田馬場"
   }
 }
