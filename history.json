@@ -5328,5 +5328,50 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324172",
     "name": "ヨルズシ",
     "station": "恵比寿"
+  },
+  "13324173": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324173",
+    "name": "SNACK LOUNGE 愛結",
+    "station": "銀座"
+  },
+  "13324174": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324174",
+    "name": "Threesome下北沢",
+    "station": "下北沢"
+  },
+  "13324175": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324175",
+    "name": "NOG COFFEE ROASTERS 戸越銀座店",
+    "station": "戸越銀座"
+  },
+  "13324176": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324176",
+    "name": "マチアイ",
+    "station": "品川"
+  },
+  "13324177": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324177",
+    "name": "銀座 鮨禅",
+    "station": "銀座"
+  },
+  "13324178": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324178",
+    "name": "JOURNAL STANDARD CAFE",
+    "station": "東池袋"
+  },
+  "13324179": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324179",
+    "name": "がむしゃら",
+    "station": "東長崎"
+  },
+  "13324180": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324180",
+    "name": "いとはん",
+    "station": "立川南"
+  },
+  "13324181": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324181",
+    "name": "TOKAI CURRY",
+    "station": "本郷三丁目"
   }
 }
