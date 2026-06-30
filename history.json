@@ -5508,5 +5508,35 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324208",
     "name": "FavoteriA 池袋4号館",
     "station": "池袋"
+  },
+  "13324209": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324209",
+    "name": "元祖ニュータンタンメン本舗  小野路町店",
+    "station": "はるひ野"
+  },
+  "13324210": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324210",
+    "name": "HOLIJI｜好日子",
+    "station": "中野富士見町"
+  },
+  "13324211": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324211",
+    "name": "OIMACHI TRACKS lounge",
+    "station": "大井町"
+  },
+  "13324212": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324212",
+    "name": "yoa sweets 新宿歌舞伎町",
+    "station": "西武新宿"
+  },
+  "13324213": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324213",
+    "name": "まいばすけっと 江東亀戸５丁目店",
+    "station": "亀戸水神"
+  },
+  "13324214": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324214",
+    "name": "ハレトラ屋台",
+    "station": "虎ノ門"
   }
 }
