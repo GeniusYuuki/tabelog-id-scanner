@@ -5433,5 +5433,40 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324193",
     "name": "ごちそう焼きむすび おにまる 新小岩店",
     "station": "新小岩"
+  },
+  "13324194": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324194",
+    "name": "油麵 蟹と牡蠣",
+    "station": "赤坂"
+  },
+  "13324195": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324195",
+    "name": "サンデードーナツもふもふ　いずみや",
+    "station": "調布"
+  },
+  "13324196": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324196",
+    "name": "マッチャーキッチン",
+    "station": "中井"
+  },
+  "13324197": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324197",
+    "name": "鮨陸",
+    "station": "広尾"
+  },
+  "13324198": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324198",
+    "name": "三丁目のごはん",
+    "station": "西早稲田"
+  },
+  "13324199": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324199",
+    "name": "WINCOVE",
+    "station": "不動前"
+  },
+  "13324200": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324200",
+    "name": "たこ焼き　元祖どないや 高田馬場店",
+    "station": "西早稲田"
   }
 }
