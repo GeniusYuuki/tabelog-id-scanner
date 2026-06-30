@@ -5473,5 +5473,30 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324201",
     "name": "麻布厨房",
     "station": "石川台"
+  },
+  "13324202": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324202",
+    "name": "炭火焼 肉球",
+    "station": "尾山台"
+  },
+  "13324203": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324203",
+    "name": "やきとり にしだ場 堀切菖蒲園店",
+    "station": "堀切菖蒲園"
+  },
+  "13324204": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324204",
+    "name": "Rin Healthy Cafe",
+    "station": "代官山"
+  },
+  "13324205": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324205",
+    "name": "歌謡スナック　ちょんぼ",
+    "station": "四谷三丁目"
+  },
+  "13324206": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324206",
+    "name": "浅草今川焼き 月のうさぎ 吉祥寺店",
+    "station": "吉祥寺"
   }
 }
