@@ -5423,5 +5423,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324191",
     "name": "洋菓子のホワイエ 中野マルイ店",
     "station": "中野"
+  },
+  "13324192": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324192",
+    "name": "キッチンオリジン 下赤塚店",
+    "station": "地下鉄赤塚"
+  },
+  "13324193": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324193",
+    "name": "ごちそう焼きむすび おにまる 新小岩店",
+    "station": "新小岩"
   }
 }
