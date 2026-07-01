@@ -5548,5 +5548,55 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324216",
     "name": "悠翠 TEPPAN YUUSUI",
     "station": "八丁堀"
+  },
+  "13324217": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324217",
+    "name": "Ăn Đi MUFGスタジアム店",
+    "station": "四谷三丁目"
+  },
+  "13324218": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324218",
+    "name": "九州酒場 縁 ～えにし～ 清瀬店",
+    "station": "清瀬"
+  },
+  "13324219": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324219",
+    "name": "China stadium 4000 MUFGスタジアム店",
+    "station": "国立競技場"
+  },
+  "13324220": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324220",
+    "name": "IPPUKU&MATCHA MUFGスタジアム店",
+    "station": "四谷三丁目"
+  },
+  "13324221": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324221",
+    "name": "G19 31アイス",
+    "station": "羽田空港第１ターミナル（東京モノレール）"
+  },
+  "13324222": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324222",
+    "name": "Pizza Strada MUFGスタジアム店",
+    "station": "四谷三丁目"
+  },
+  "13324223": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324223",
+    "name": "STREET CHURROS MUFGスタジアム店",
+    "station": "四谷三丁目"
+  },
+  "13324224": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324224",
+    "name": "YAKITORI STAND IPPON",
+    "station": "渋谷"
+  },
+  "13324225": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324225",
+    "name": "おにぎりこんが MUFGスタジアム店",
+    "station": "四谷三丁目"
+  },
+  "13324226": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324226",
+    "name": "王中華房 MUFGスタジアム店",
+    "station": "四谷三丁目"
   }
 }
