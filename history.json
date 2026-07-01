@@ -5798,5 +5798,40 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324266",
     "name": "焔◯",
     "station": "築地"
+  },
+  "13324267": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324267",
+    "name": "湘南飯店 池袋店",
+    "station": "池袋"
+  },
+  "13324268": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324268",
+    "name": "和牛すき焼 そしじ 上 本郷三丁目店",
+    "station": "本郷三丁目"
+  },
+  "13324269": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324269",
+    "name": "丸太ごうし",
+    "station": "浅草（東武・都営・メトロ）"
+  },
+  "13324270": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324270",
+    "name": "スナック ナスダッ子",
+    "station": "新橋"
+  },
+  "13324271": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324271",
+    "name": "焼鳥とまり",
+    "station": "池袋"
+  },
+  "13324272": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324272",
+    "name": "出汁茶漬け　えん　ルミネ荻窪店",
+    "station": "荻窪"
+  },
+  "13324273": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324273",
+    "name": "東京とんかつ がぶう 原宿店",
+    "station": "明治神宮前"
   }
 }
