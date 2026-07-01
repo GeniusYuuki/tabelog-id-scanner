@@ -5863,5 +5863,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324279",
     "name": "蕎麦つぐみ食堂銀座店",
     "station": "新富町"
+  },
+  "13324280": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324280",
+    "name": "CAFE＆BAR",
+    "station": "有楽町"
+  },
+  "13324281": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324281",
+    "name": "THE SUITE TOKYO",
+    "station": "東銀座"
   }
 }
