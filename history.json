@@ -5848,5 +5848,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324276",
     "name": "&KASEN Restaurant & SAKE-Bar",
     "station": "福生"
+  },
+  "13324277": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324277",
+    "name": "イオンスタイル西台",
+    "station": "西台"
+  },
+  "13324278": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324278",
+    "name": "資さんうどん 秋川小川店",
+    "station": "東秋留"
   }
 }
