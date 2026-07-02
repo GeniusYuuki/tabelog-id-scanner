@@ -5873,5 +5873,35 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324281",
     "name": "THE SUITE TOKYO",
     "station": "東銀座"
+  },
+  "13324282": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324282",
+    "name": "炭火焼鳥 どげん 江戸川橋店",
+    "station": "江戸川橋"
+  },
+  "13324283": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324283",
+    "name": "nel giro",
+    "station": "目白"
+  },
+  "13324284": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324284",
+    "name": "大かまど飯 寅福 アーバンドックららぽーと豊洲",
+    "station": "豊洲"
+  },
+  "13324285": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324285",
+    "name": "麻布十番 和食 わたく",
+    "station": "白金高輪"
+  },
+  "13324286": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324286",
+    "name": "焼鳥 みのり",
+    "station": "清澄白河"
+  },
+  "13324287": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324287",
+    "name": "せんべろ居酒屋 からあげ番長 昭和飲み屋館",
+    "station": "赤羽"
   }
 }
