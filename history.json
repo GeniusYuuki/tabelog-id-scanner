@@ -5908,5 +5908,25 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324288",
     "name": "中野かき氷 STELLA",
     "station": "中野"
+  },
+  "13324289": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324289",
+    "name": "寿司処 にぎりや",
+    "station": "五反野"
+  },
+  "13324290": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324290",
+    "name": "spice bar prayer",
+    "station": "人形町"
+  },
+  "13324291": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324291",
+    "name": "霧笛屋 神田錦町店",
+    "station": "小川町"
+  },
+  "13324292": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324292",
+    "name": "酒とおばんざい 深川あんど",
+    "station": "門前仲町"
   }
 }
