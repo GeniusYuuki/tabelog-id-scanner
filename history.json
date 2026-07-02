@@ -6003,5 +6003,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324307",
     "name": "The Kura",
     "station": "錦糸町"
+  },
+  "13324308": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324308",
+    "name": "小林青果",
+    "station": "大塚駅前"
+  },
+  "13324309": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324309",
+    "name": "煮干そば鶏そば　藍",
+    "station": "新富町"
+  },
+  "13324310": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324310",
+    "name": "papabubble 渋谷スクランブルスクエア店",
+    "station": "渋谷"
   }
 }
