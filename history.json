@@ -5928,5 +5928,50 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324292",
     "name": "酒とおばんざい 深川あんど",
     "station": "門前仲町"
+  },
+  "13324293": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324293",
+    "name": "縁がわ SUMIDA JAPANESE FRENCH DINING",
+    "station": "浅草（東武・都営・メトロ）"
+  },
+  "13324294": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324294",
+    "name": "海鮮居酒屋 魚政 五反田店",
+    "station": "五反田"
+  },
+  "13324295": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324295",
+    "name": "炭火焼鳥 手羽先唐揚 一鳥円 五反田店",
+    "station": "五反田"
+  },
+  "13324296": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324296",
+    "name": "ROOT DOWN TOKYO",
+    "station": "北参道"
+  },
+  "13324297": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324297",
+    "name": "anneau",
+    "station": "尾山台"
+  },
+  "13324298": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324298",
+    "name": "ケルン カレー&タパス",
+    "station": "東京"
+  },
+  "13324299": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324299",
+    "name": "眞チャンポン",
+    "station": "上野"
+  },
+  "13324300": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324300",
+    "name": "元祖油堂 国分寺店",
+    "station": "国分寺"
+  },
+  "13324301": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324301",
+    "name": "cafe totti",
+    "station": "新中野"
   }
 }
