@@ -5973,5 +5973,30 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324301",
     "name": "cafe totti",
     "station": "新中野"
+  },
+  "13324302": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324302",
+    "name": "アエナ ビーンズ亀有店",
+    "station": "亀有"
+  },
+  "13324303": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324303",
+    "name": "Pizza フック",
+    "station": "新小岩"
+  },
+  "13324304": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324304",
+    "name": "馬馬",
+    "station": "阿佐ケ谷"
+  },
+  "13324305": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324305",
+    "name": "cafe salon Boutou",
+    "station": "神楽坂"
+  },
+  "13324306": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324306",
+    "name": "紗県中華",
+    "station": "高田馬場"
   }
 }
