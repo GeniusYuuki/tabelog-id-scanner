@@ -6018,5 +6018,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324310",
     "name": "papabubble 渋谷スクランブルスクエア店",
     "station": "渋谷"
+  },
+  "13324311": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324311",
+    "name": "パティスリーQBG 日本橋三越店",
+    "station": "三越前"
+  },
+  "13324312": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324312",
+    "name": "中町氷菓店 代々木上原",
+    "station": "代々木上原"
   }
 }
