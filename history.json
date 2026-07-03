@@ -6033,5 +6033,10 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324313",
     "name": "LIFENRI 日本橋三越本店",
     "station": "三越前"
+  },
+  "13324314": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324314",
+    "name": "Fru-Full 成城",
+    "station": "成城学園前"
   }
 }
