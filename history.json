@@ -6063,5 +6063,30 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324319",
     "name": "思いつき 火曜間借り酒場",
     "station": "本郷三丁目"
+  },
+  "13324320": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324320",
+    "name": "蟹と牡蠣 油麺",
+    "station": "赤坂"
+  },
+  "13324321": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324321",
+    "name": "紬",
+    "station": "上北台"
+  },
+  "13324322": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324322",
+    "name": "CK CHICKEN 大塚店",
+    "station": "大塚"
+  },
+  "13324323": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324323",
+    "name": "八重洲いっさい喝采",
+    "station": "東京"
+  },
+  "13324324": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324324",
+    "name": "佃煮 有明家",
+    "station": "田園調布"
   }
 }
