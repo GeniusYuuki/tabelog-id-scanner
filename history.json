@@ -6038,5 +6038,30 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324314",
     "name": "Fru-Full 成城",
     "station": "成城学園前"
+  },
+  "13324315": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324315",
+    "name": "マルチキン",
+    "station": "錦糸町"
+  },
+  "13324316": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324316",
+    "name": "Doré by Charles-Henry",
+    "station": "代官山"
+  },
+  "13324317": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324317",
+    "name": "わんこそば 鉢公",
+    "station": "渋谷"
+  },
+  "13324318": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324318",
+    "name": "ステーキライスとカレーの店 代々木二丁目店",
+    "station": "新宿"
+  },
+  "13324319": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324319",
+    "name": "思いつき 火曜間借り酒場",
+    "station": "本郷三丁目"
   }
 }
