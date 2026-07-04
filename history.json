@@ -6208,5 +6208,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324348",
     "name": "ウオギンスタンド",
     "station": "小村井"
+  },
+  "13324349": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324349",
+    "name": "秘伝ダレ油そば 次男坊",
+    "station": "立川"
+  },
+  "13324350": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324350",
+    "name": "DANIEL HOUSE",
+    "station": "原宿"
+  },
+  "13324351": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324351",
+    "name": "Fender Cafe Shimokitazawa",
+    "station": "下北沢"
   }
 }
