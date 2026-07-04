@@ -6263,5 +6263,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324359",
     "name": "Cafe patine",
     "station": "鷹の台"
+  },
+  "13324360": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324360",
+    "name": "おにどん エキュートエディション御茶ノ水",
+    "station": "御茶ノ水"
+  },
+  "13324361": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324361",
+    "name": "JB's TOKYO エキュートエディション御茶ノ水",
+    "station": "御茶ノ水"
   }
 }
