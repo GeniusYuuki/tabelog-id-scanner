@@ -6223,5 +6223,35 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324351",
     "name": "Fender Cafe Shimokitazawa",
     "station": "下北沢"
+  },
+  "13324352": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324352",
+    "name": "Akebi Ogikubo",
+    "station": "荻窪"
+  },
+  "13324353": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324353",
+    "name": "麻布十番 一織",
+    "station": "麻布十番"
+  },
+  "13324354": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324354",
+    "name": "伊勢定 人形町店 宗庵はなれ",
+    "station": "人形町"
+  },
+  "13324355": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324355",
+    "name": "bond coffee",
+    "station": "三鷹台"
+  },
+  "13324356": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324356",
+    "name": "Taverna",
+    "station": "小平"
+  },
+  "13324357": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324357",
+    "name": "菓子店secret",
+    "station": "東長崎"
   }
 }
