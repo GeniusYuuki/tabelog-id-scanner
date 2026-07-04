@@ -6273,5 +6273,25 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324361",
     "name": "JB's TOKYO エキュートエディション御茶ノ水",
     "station": "御茶ノ水"
+  },
+  "13324362": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324362",
+    "name": "BOTTOS 御茶ノ水駅前店",
+    "station": "御茶ノ水"
+  },
+  "13324363": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324363",
+    "name": "MAISON CRÊPE",
+    "station": "日比谷"
+  },
+  "13324364": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324364",
+    "name": "鮮魚金子",
+    "station": "西新宿五丁目"
+  },
+  "13324365": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324365",
+    "name": "LUCK",
+    "station": "池ノ上"
   }
 }
