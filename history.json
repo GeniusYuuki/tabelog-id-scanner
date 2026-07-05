@@ -6338,5 +6338,50 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324374",
     "name": "セブンイレブン町田藤の台東店",
     "station": "玉川学園前"
+  },
+  "13324375": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324375",
+    "name": "カレー屋KEN",
+    "station": "東久留米"
+  },
+  "13324376": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324376",
+    "name": "居酒家ひまわり",
+    "station": "西新井大師西"
+  },
+  "13324377": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324377",
+    "name": "彦乃カフェ",
+    "station": "荻窪"
+  },
+  "13324378": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324378",
+    "name": "San.",
+    "station": "代々木八幡"
+  },
+  "13324379": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324379",
+    "name": "スターバックスコーヒー Olive LOUNGE 吉祥寺店",
+    "station": "吉祥寺"
+  },
+  "13324380": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324380",
+    "name": "読書室 カフェトリエ",
+    "station": "吉祥寺"
+  },
+  "13324381": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324381",
+    "name": "浅草今川焼き 月のうさぎ 吉祥寺店",
+    "station": "吉祥寺"
+  },
+  "13324382": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324382",
+    "name": "はぎま",
+    "station": "萩山"
+  },
+  "13324383": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324383",
+    "name": "UTAKI",
+    "station": "阿佐ケ谷"
   }
 }
