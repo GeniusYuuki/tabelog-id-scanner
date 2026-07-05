@@ -6408,5 +6408,10 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324388",
     "name": "セルフカフェ 渋谷 神南店",
     "station": "渋谷"
+  },
+  "13324389": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324389",
+    "name": "POINT",
+    "station": "駒込"
   }
 }
