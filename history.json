@@ -6413,5 +6413,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324389",
     "name": "POINT",
     "station": "駒込"
+  },
+  "13324390": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324390",
+    "name": "タイラヤ 大和田店",
+    "station": "京王八王子"
+  },
+  "13324391": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324391",
+    "name": "ゆあさんち",
+    "station": "入谷"
   }
 }
