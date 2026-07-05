@@ -6383,5 +6383,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324383",
     "name": "UTAKI",
     "station": "阿佐ケ谷"
+  },
+  "13324384": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324384",
+    "name": "Dining Bar GU-CHAN",
+    "station": "町田"
+  },
+  "13324385": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324385",
+    "name": "中華美食 華餚",
+    "station": "早稲田（メトロ）"
+  },
+  "13324386": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324386",
+    "name": "BAR MOMENT 渋谷",
+    "station": "渋谷"
   }
 }
