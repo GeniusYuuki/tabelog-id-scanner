@@ -6583,5 +6583,25 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324423",
     "name": "台湾百貨店",
     "station": "三越前"
+  },
+  "13324424": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324424",
+    "name": "アリアナグリークプリン",
+    "station": "自由が丘"
+  },
+  "13324425": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324425",
+    "name": "肉美ちゃん♡Fantasy Land 新宿御苑前店",
+    "station": "四谷三丁目"
+  },
+  "13324426": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324426",
+    "name": "渋谷屋台ラーメン",
+    "station": "神泉"
+  },
+  "13324427": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324427",
+    "name": "SUMMER STUDIOS",
+    "station": "恵比寿"
   }
 }
