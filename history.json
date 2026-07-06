@@ -6603,5 +6603,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324427",
     "name": "SUMMER STUDIOS",
     "station": "恵比寿"
+  },
+  "13324428": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324428",
+    "name": "BETWEEN by THE YOMOGI STAND",
+    "station": "渋谷"
+  },
+  "13324429": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324429",
+    "name": "家庭料理 めしと話",
+    "station": "都立家政"
   }
 }
