@@ -6568,5 +6568,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324420",
     "name": "たれとん 練馬駅前店",
     "station": "練馬"
+  },
+  "13324421": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324421",
+    "name": "エクセルシオール カフェ お茶の水日本大学店",
+    "station": "新御茶ノ水"
+  },
+  "13324422": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324422",
+    "name": "みやび",
+    "station": "青砥"
+  },
+  "13324423": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324423",
+    "name": "台湾百貨店",
+    "station": "三越前"
   }
 }
