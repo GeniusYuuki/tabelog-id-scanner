@@ -6788,5 +6788,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324464",
     "name": "TRATTORIA ICIE",
     "station": "上町"
+  },
+  "13324465": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324465",
+    "name": "BoBo Cat",
+    "station": "吉祥寺"
+  },
+  "13324466": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324466",
+    "name": "ティラミス専門店 Tiramisu No.6 神楽坂店",
+    "station": "神楽坂"
   }
 }
