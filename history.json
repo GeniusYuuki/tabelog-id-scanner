@@ -6613,5 +6613,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324429",
     "name": "家庭料理 めしと話",
     "station": "都立家政"
+  },
+  "13324430": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324430",
+    "name": "テスト登録",
+    "station": "飯田橋"
+  },
+  "13324431": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324431",
+    "name": "KINUJO Cafe&Bar",
+    "station": "銀座"
   }
 }
