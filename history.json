@@ -6623,5 +6623,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324431",
     "name": "KINUJO Cafe&Bar",
     "station": "銀座"
+  },
+  "13324432": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324432",
+    "name": "もつ家大西 雑色店",
+    "station": "雑色"
+  },
+  "13324433": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324433",
+    "name": "RIMATE",
+    "station": "渋谷"
   }
 }
