@@ -6813,5 +6813,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324469",
     "name": "Doppam 池袋店",
     "station": "池袋"
+  },
+  "13324470": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324470",
+    "name": "Bar Romano Plus",
+    "station": "恵比寿"
+  },
+  "13324471": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324471",
+    "name": "焼キ鳥Ｋitchen灯-ともり 菊川",
+    "station": "菊川"
+  },
+  "13324472": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324472",
+    "name": "Alcand.",
+    "station": "目黒"
   }
 }
