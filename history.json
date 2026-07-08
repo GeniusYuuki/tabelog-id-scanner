@@ -6968,5 +6968,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324500",
     "name": "BLU NERO",
     "station": "東京"
+  },
+  "13324501": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324501",
+    "name": "TRATTORIA Saida",
+    "station": "八丁堀"
+  },
+  "13324502": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324502",
+    "name": "WAGYU SUKIYAKI 極 新宿　歌舞伎町 Shinjuku　Kabukicho",
+    "station": "新宿西口"
   }
 }
