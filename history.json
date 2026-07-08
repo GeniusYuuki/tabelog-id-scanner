@@ -6893,5 +6893,50 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324485",
     "name": "マンボープラス 池袋北口2号店",
     "station": "池袋"
+  },
+  "13324486": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324486",
+    "name": "菩提心",
+    "station": "勝どき"
+  },
+  "13324487": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324487",
+    "name": "KIMO'S SMC",
+    "station": "渋谷"
+  },
+  "13324488": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324488",
+    "name": "PAM BAKE",
+    "station": "谷保"
+  },
+  "13324489": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324489",
+    "name": "焼き鳥テイクアウトツッチー",
+    "station": "大泉学園"
+  },
+  "13324490": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324490",
+    "name": "心ノ香",
+    "station": "駒沢大学"
+  },
+  "13324491": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324491",
+    "name": "オッパ屋",
+    "station": "平井"
+  },
+  "13324492": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324492",
+    "name": "ピンポン",
+    "station": "北府中"
+  },
+  "13324493": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324493",
+    "name": "憂 cafe&restaurant",
+    "station": "めじろ台"
+  },
+  "13324494": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324494",
+    "name": "アトリエマリア エキュート日暮里店",
+    "station": "日暮里"
   }
 }
