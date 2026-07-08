@@ -6858,5 +6858,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324478",
     "name": "神戸牛 和牛の刀 西新宿2号店",
     "station": "新宿"
+  },
+  "13324479": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324479",
+    "name": "うまか亭 新宿店",
+    "station": "新宿"
+  },
+  "13324480": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324480",
+    "name": "ゆずり葉",
+    "station": "尾山台"
+  },
+  "13324481": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324481",
+    "name": "Dining Bar Deck 9",
+    "station": "新橋"
   }
 }
