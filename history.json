@@ -6938,5 +6938,35 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324494",
     "name": "アトリエマリア エキュート日暮里店",
     "station": "日暮里"
+  },
+  "13324495": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324495",
+    "name": "やきとん二の豚",
+    "station": "九段下"
+  },
+  "13324496": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324496",
+    "name": "CAFETERIA BLUE 7",
+    "station": "日の出"
+  },
+  "13324497": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324497",
+    "name": "自由が丘　Noct",
+    "station": "自由が丘"
+  },
+  "13324498": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324498",
+    "name": "麻雀MAP新橋店",
+    "station": "内幸町"
+  },
+  "13324499": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324499",
+    "name": "鮨 牡丹",
+    "station": "学芸大学"
+  },
+  "13324500": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324500",
+    "name": "BLU NERO",
+    "station": "東京"
   }
 }
