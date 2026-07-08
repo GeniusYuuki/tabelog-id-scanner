@@ -6828,5 +6828,35 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324472",
     "name": "Alcand.",
     "station": "目黒"
+  },
+  "13324473": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324473",
+    "name": "リカーマウンテン ROPPONGI 7",
+    "station": "六本木"
+  },
+  "13324474": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324474",
+    "name": "虎子担々",
+    "station": "新御茶ノ水"
+  },
+  "13324475": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324475",
+    "name": "逸嘴西施冒焼鴨",
+    "station": "八王子"
+  },
+  "13324476": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324476",
+    "name": "讃岐うどん樹",
+    "station": "調布"
+  },
+  "13324477": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324477",
+    "name": "白金水産 本店",
+    "station": "白金高輪"
+  },
+  "13324478": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324478",
+    "name": "神戸牛 和牛の刀 西新宿2号店",
+    "station": "新宿"
   }
 }
