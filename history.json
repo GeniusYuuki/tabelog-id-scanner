@@ -6983,5 +6983,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324503",
     "name": "Yunomi.Matcha",
     "station": "王子神谷"
+  },
+  "13324504": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324504",
+    "name": "秋葉原製麺センター",
+    "station": "秋葉原"
+  },
+  "13324505": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324505",
+    "name": "セブンイレブン 墨田業平浅草通り店",
+    "station": "押上"
   }
 }
