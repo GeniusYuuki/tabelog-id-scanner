@@ -7018,5 +7018,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324510",
     "name": "観音裏まめ助",
     "station": "浅草"
+  },
+  "13324511": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324511",
+    "name": "香華園 自由が丘店",
+    "station": "自由が丘"
+  },
+  "13324512": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324512",
+    "name": "無添蔵新宿店",
+    "station": "新宿"
+  },
+  "13324513": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324513",
+    "name": "食堂いつもの。",
+    "station": "ひばりケ丘"
   }
 }
