@@ -6993,5 +6993,30 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324505",
     "name": "セブンイレブン 墨田業平浅草通り店",
     "station": "押上"
+  },
+  "13324506": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324506",
+    "name": "yellow 桜新町",
+    "station": "桜新町"
+  },
+  "13324507": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324507",
+    "name": "クリームパン専門店 くりーむLAB　baba kitchen",
+    "station": "高田馬場"
+  },
+  "13324508": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324508",
+    "name": "felice domani nakameguro",
+    "station": "中目黒"
+  },
+  "13324509": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324509",
+    "name": "讃岐うどん樹",
+    "station": "京王多摩川"
+  },
+  "13324510": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324510",
+    "name": "観音裏まめ助",
+    "station": "浅草"
   }
 }
