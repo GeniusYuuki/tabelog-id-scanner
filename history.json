@@ -7213,5 +7213,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324549",
     "name": "自遊空間 原宿店",
     "station": "明治神宮前"
+  },
+  "13324550": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324550",
+    "name": "鶏　まる赤坂",
+    "station": "赤坂見附"
+  },
+  "13324551": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324551",
+    "name": "Bar Mixed",
+    "station": "阿佐ケ谷"
+  },
+  "13324552": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324552",
+    "name": "CUSTA 伊勢丹新宿店",
+    "station": "新宿三丁目"
   }
 }
