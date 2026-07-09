@@ -7133,5 +7133,30 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324533",
     "name": "炭バル　CHOBI-KURU",
     "station": "上板橋"
+  },
+  "13324534": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324534",
+    "name": "彝",
+    "station": "阿佐ケ谷"
+  },
+  "13324535": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324535",
+    "name": "Mercado de Atrevío Aoyama",
+    "station": "渋谷"
+  },
+  "13324536": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324536",
+    "name": "ピチピチミートの直売所",
+    "station": "大井町"
+  },
+  "13324537": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324537",
+    "name": "フレボタ 自由が丘",
+    "station": "自由が丘"
+  },
+  "13324538": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324538",
+    "name": "BAR CLOAK",
+    "station": "阿佐ケ谷"
   }
 }
