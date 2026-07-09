@@ -7158,5 +7158,40 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324538",
     "name": "BAR CLOAK",
     "station": "阿佐ケ谷"
+  },
+  "13324539": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324539",
+    "name": "AOLIET",
+    "station": "銀座"
+  },
+  "13324540": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324540",
+    "name": "焼鳥居酒屋 みらいちず 平井店",
+    "station": "平井"
+  },
+  "13324541": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324541",
+    "name": "SATOYAMA SPIRITS TOKYO 恵比寿",
+    "station": "恵比寿"
+  },
+  "13324542": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324542",
+    "name": "NADA",
+    "station": "浜町"
+  },
+  "13324543": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324543",
+    "name": "Public Avion",
+    "station": "錦糸町"
+  },
+  "13324544": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324544",
+    "name": "ゴンチャ 羽田空港第２ターミナル店",
+    "station": "羽田空港第２ターミナル（東京モノレール）"
+  },
+  "13324545": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324545",
+    "name": "うなとら 梅ヶ丘店",
+    "station": "梅ケ丘"
   }
 }
