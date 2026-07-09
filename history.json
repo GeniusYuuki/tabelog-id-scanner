@@ -7193,5 +7193,25 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324545",
     "name": "うなとら 梅ヶ丘店",
     "station": "梅ケ丘"
+  },
+  "13324546": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324546",
+    "name": "390.com 鶴川店",
+    "station": "鶴川"
+  },
+  "13324547": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324547",
+    "name": "お酒の美術館 板橋",
+    "station": "新板橋"
+  },
+  "13324548": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324548",
+    "name": "スナック　りんご",
+    "station": "八王子"
+  },
+  "13324549": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324549",
+    "name": "自遊空間 原宿店",
+    "station": "明治神宮前"
   }
 }
