@@ -7348,5 +7348,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324576",
     "name": "surume tokyo",
     "station": "荏原中延"
+  },
+  "13324577": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324577",
+    "name": "Sammy's kitchen",
+    "station": "神泉"
+  },
+  "13324578": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324578",
+    "name": "伊勢屋",
+    "station": "石川台"
+  },
+  "13324579": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324579",
+    "name": "ボロネーゼバル XXX",
+    "station": "御茶ノ水"
   }
 }
