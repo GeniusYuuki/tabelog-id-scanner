@@ -7278,5 +7278,35 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324562",
     "name": "Smoke Dining HAYES",
     "station": "戸越"
+  },
+  "13324563": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324563",
+    "name": "銀座鳥真 はなれ",
+    "station": "内幸町"
+  },
+  "13324564": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324564",
+    "name": "天然苑",
+    "station": "日本橋"
+  },
+  "13324565": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324565",
+    "name": "MAISON YUHI",
+    "station": "神田"
+  },
+  "13324566": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324566",
+    "name": "みくり屋",
+    "station": "用賀"
+  },
+  "13324567": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324567",
+    "name": "The World Cafe 中目黒",
+    "station": "中目黒"
+  },
+  "13324568": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324568",
+    "name": "カメカフェ",
+    "station": "両国"
   }
 }
