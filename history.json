@@ -7393,5 +7393,25 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324585",
     "name": "Ken’sBAGEL 神楽坂店",
     "station": "牛込神楽坂"
+  },
+  "13324586": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324586",
+    "name": "クラフトビアバーはごろも",
+    "station": "神泉"
+  },
+  "13324587": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324587",
+    "name": "WAFT 三軒茶屋",
+    "station": "三軒茶屋"
+  },
+  "13324588": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324588",
+    "name": "漁師ダイニング　魚屋",
+    "station": "九段下"
+  },
+  "13324589": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324589",
+    "name": "祇園まぜそば戎",
+    "station": "明大前"
   }
 }
