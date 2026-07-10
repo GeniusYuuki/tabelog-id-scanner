@@ -7363,5 +7363,25 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324579",
     "name": "ボロネーゼバル XXX",
     "station": "御茶ノ水"
+  },
+  "13324580": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324580",
+    "name": "焼鳥YAMATO 無二",
+    "station": "麻布十番"
+  },
+  "13324581": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324581",
+    "name": "士気麻辣湯麺",
+    "station": "羽村"
+  },
+  "13324582": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324582",
+    "name": "ビヨンドスイーツ 渋谷店",
+    "station": "渋谷"
+  },
+  "13324583": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324583",
+    "name": "酒場ハコザキ 上野広小路店",
+    "station": "上野御徒町"
   }
 }
