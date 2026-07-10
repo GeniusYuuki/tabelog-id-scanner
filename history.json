@@ -7308,5 +7308,45 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324568",
     "name": "カメカフェ",
     "station": "両国"
+  },
+  "13324569": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324569",
+    "name": "炉端焼きと鮮魚 漁火 日比谷本店",
+    "station": "日比谷"
+  },
+  "13324570": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324570",
+    "name": "銀だこ点心酒場 神田駅南口店",
+    "station": "神田"
+  },
+  "13324571": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324571",
+    "name": "夜鳴中華",
+    "station": "堀切菖蒲園"
+  },
+  "13324572": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324572",
+    "name": "おにぎりやTAWARA",
+    "station": "代官山"
+  },
+  "13324573": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324573",
+    "name": "洞くつ家",
+    "station": "吉祥寺"
+  },
+  "13324574": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324574",
+    "name": "タコとハイボール 神田駅前店",
+    "station": "神田"
+  },
+  "13324575": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324575",
+    "name": "かみや",
+    "station": "渋谷"
+  },
+  "13324576": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324576",
+    "name": "surume tokyo",
+    "station": "荏原中延"
   }
 }
