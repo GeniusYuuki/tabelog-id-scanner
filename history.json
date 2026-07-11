@@ -7478,5 +7478,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324602",
     "name": "角パン",
     "station": "谷塚"
+  },
+  "13324603": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324603",
+    "name": "豚ノヴァ零 新宿店",
+    "station": "新宿西口"
+  },
+  "13324604": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324604",
+    "name": "鉄板焼き８７まる",
+    "station": "西国分寺"
+  },
+  "13324605": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324605",
+    "name": "Luny's（黒猫のボロネーゼ）",
+    "station": "東長崎"
   }
 }
