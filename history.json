@@ -7463,5 +7463,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324599",
     "name": "桜美林大学食堂",
     "station": "大久保"
+  },
+  "13324600": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324600",
+    "name": "cafe branch",
+    "station": "保谷"
+  },
+  "13324601": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324601",
+    "name": "シーシャ　SU Root",
+    "station": "三田"
   }
 }
