@@ -7423,5 +7423,40 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324591",
     "name": "MELON MANIA",
     "station": "築地"
+  },
+  "13324592": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324592",
+    "name": "BeKa Turkish Bites & Coffee",
+    "station": "鮫洲"
+  },
+  "13324593": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324593",
+    "name": "BAR Lumiere",
+    "station": "地下鉄成増"
+  },
+  "13324594": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324594",
+    "name": "Bar Permille",
+    "station": "池袋"
+  },
+  "13324595": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324595",
+    "name": "私のかき氷。浅草横丁",
+    "station": "浅草（つくばＥＸＰ）"
+  },
+  "13324596": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324596",
+    "name": "どこだっけ。",
+    "station": "錦糸町"
+  },
+  "13324597": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324597",
+    "name": "立ち呑み GYPSY",
+    "station": "両国"
+  },
+  "13324598": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324598",
+    "name": "焼魚専門店　二代目魚日出 調布パルコ店",
+    "station": "調布"
   }
 }
