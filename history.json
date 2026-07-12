@@ -7598,5 +7598,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324626",
     "name": "アーバンザイカ",
     "station": "板橋本町"
+  },
+  "13324627": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324627",
+    "name": "pheromone rice",
+    "station": "新宿三丁目"
+  },
+  "13324628": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324628",
+    "name": "ワンダーライフ",
+    "station": "茗荷谷"
   }
 }
