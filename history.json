@@ -7503,5 +7503,10 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324607",
     "name": "やおさだ",
     "station": "六町"
+  },
+  "13324608": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324608",
+    "name": "ブロードウェイ六区",
+    "station": "浅草（つくばＥＸＰ）"
   }
 }
