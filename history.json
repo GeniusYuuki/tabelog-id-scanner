@@ -7548,5 +7548,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324616",
     "name": "味ん味ん　拝島店",
     "station": "昭島"
+  },
+  "13324617": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324617",
+    "name": "スターフルーツ　麻布十番店",
+    "station": "麻布十番"
+  },
+  "13324618": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324618",
+    "name": "MELTY WORKS",
+    "station": "桜台"
+  },
+  "13324619": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324619",
+    "name": "サウナメッツァ大井町トラックス",
+    "station": "大井町"
   }
 }
