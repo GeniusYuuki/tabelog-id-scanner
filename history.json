@@ -7608,5 +7608,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324628",
     "name": "ワンダーライフ",
     "station": "茗荷谷"
+  },
+  "13324629": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324629",
+    "name": "新橋 鮨まさ R",
+    "station": "新橋"
+  },
+  "13324630": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324630",
+    "name": "OKOSAMA SOUT CURRY",
+    "station": "神泉"
   }
 }
