@@ -7728,5 +7728,25 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324652",
     "name": "TRENDORY",
     "station": "六本木"
+  },
+  "13324653": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324653",
+    "name": "ポニー&TIPPLE",
+    "station": "新宿三丁目"
+  },
+  "13324654": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324654",
+    "name": "Japan Wine Bar & Shop",
+    "station": "渋谷"
+  },
+  "13324655": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324655",
+    "name": "東京町寿司 ご縁 渋谷店",
+    "station": "渋谷"
+  },
+  "13324656": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324656",
+    "name": "Flower Room Inity",
+    "station": "等々力"
   }
 }
