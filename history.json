@@ -7748,5 +7748,25 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324656",
     "name": "Flower Room Inity",
     "station": "等々力"
+  },
+  "13324657": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324657",
+    "name": "N's Bake Shop",
+    "station": "平井"
+  },
+  "13324658": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324658",
+    "name": "SIDEWALK COFFEE DAIKANYAMA",
+    "station": "代官山"
+  },
+  "13324659": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324659",
+    "name": "焼肉なが井 富岡店",
+    "station": "門前仲町"
+  },
+  "13324660": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324660",
+    "name": "海鮮炉端と手毬寿司･個室旅情~6番船付14号~",
+    "station": "新宿西口"
   }
 }
