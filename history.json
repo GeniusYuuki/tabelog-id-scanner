@@ -7773,5 +7773,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324661",
     "name": "AREUM BAGEL二子玉川店",
     "station": "二子玉川"
+  },
+  "13324662": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324662",
+    "name": "みんなの栗",
+    "station": "吉祥寺"
+  },
+  "13324663": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324663",
+    "name": "中華そば 飛龍",
+    "station": "中野坂上"
   }
 }
