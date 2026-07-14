@@ -7808,5 +7808,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324668",
     "name": "長浜屋台 やまちゃん 上野店",
     "station": "上野"
+  },
+  "13324669": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324669",
+    "name": "瑞香源",
+    "station": "下落合"
+  },
+  "13324670": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324670",
+    "name": "Peco Peco Pantry（ペコ ペコ パントリー）",
+    "station": "田端"
+  },
+  "13324671": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324671",
+    "name": "ナミオ珈琲",
+    "station": "青梅"
   }
 }
