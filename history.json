@@ -7903,5 +7903,35 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324687",
     "name": "YOBLE 歌舞伎町店",
     "station": "西武新宿"
+  },
+  "13324688": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324688",
+    "name": "羊と飯",
+    "station": "麻布十番"
+  },
+  "13324689": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324689",
+    "name": "酒と肴 江戸町 亀有店",
+    "station": "亀有"
+  },
+  "13324691": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324691",
+    "name": "COFFEE VALLEY Lab.",
+    "station": "都電雑司ケ谷"
+  },
+  "13324692": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324692",
+    "name": "SHARE LOUNGE フォレストスクエア仙川",
+    "station": "仙川"
+  },
+  "13324693": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324693",
+    "name": "Glad Table",
+    "station": "京橋"
+  },
+  "13324694": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324694",
+    "name": "みなさんの居場所「ぼくはぼく」",
+    "station": "古淵"
   }
 }
