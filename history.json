@@ -8043,5 +8043,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324716",
     "name": "ひまり商店 丸の内店",
     "station": "大手町"
+  },
+  "13324717": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324717",
+    "name": "東北沢ROMANTIQUE",
+    "station": "東北沢"
+  },
+  "13324718": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324718",
+    "name": "ANAホリデイ・イン東京ベイ",
+    "station": "天王洲アイル"
+  },
+  "13324719": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324719",
+    "name": "鮨と炭火 炉端かば 金町店",
+    "station": "金町"
   }
 }
