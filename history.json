@@ -8098,5 +8098,35 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324727",
     "name": "nana's green tea 自由が丘店",
     "station": "自由が丘"
+  },
+  "13324728": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324728",
+    "name": "CU",
+    "station": "浅草（つくばＥＸＰ）"
+  },
+  "13324729": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324729",
+    "name": "セバスチャン・ブイエ　グテ　伊勢丹新宿店",
+    "station": "新宿三丁目"
+  },
+  "13324730": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324730",
+    "name": "やよい軒 阿佐ヶ谷南店",
+    "station": "南阿佐ケ谷"
+  },
+  "13324731": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324731",
+    "name": "MIRA Bagel",
+    "station": "吉祥寺"
+  },
+  "13324732": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324732",
+    "name": "釜福 お花茶屋店",
+    "station": "お花茶屋"
+  },
+  "13324733": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324733",
+    "name": "ゴールドジムウエスト東京",
+    "station": "中野"
   }
 }
