@@ -8148,5 +8148,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324737",
     "name": "BANYA nishikoyama",
     "station": "西小山"
+  },
+  "13324738": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324738",
+    "name": "OYU TERRACE",
+    "station": "明治神宮前"
+  },
+  "13324739": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324739",
+    "name": "OKストア 浅草店",
+    "station": "浅草（つくばＥＸＰ）"
+  },
+  "13324740": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324740",
+    "name": "VAPEUR 下北",
+    "station": "下北沢"
   }
 }
