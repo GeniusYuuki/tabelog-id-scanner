@@ -8063,5 +8063,40 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324720",
     "name": "桂花ラーメン立川ラーメンスクエア店",
     "station": "立川南"
+  },
+  "13324721": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324721",
+    "name": "クラブハリエ 日本橋三越店",
+    "station": "三越前"
+  },
+  "13324722": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324722",
+    "name": "中華とワインのおみせ ラララ",
+    "station": "西小山"
+  },
+  "13324723": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324723",
+    "name": "GUNNERS",
+    "station": "自由が丘"
+  },
+  "13324724": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324724",
+    "name": "吟乃月 品川店",
+    "station": "品川"
+  },
+  "13324725": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324725",
+    "name": "すぱじろう アクアシティお台場店",
+    "station": "台場"
+  },
+  "13324726": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324726",
+    "name": "Tarte & Table by L'AS",
+    "station": "東京"
+  },
+  "13324727": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324727",
+    "name": "nana's green tea 自由が丘店",
+    "station": "自由が丘"
   }
 }
