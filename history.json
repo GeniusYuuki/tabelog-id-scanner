@@ -7993,5 +7993,40 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324706",
     "name": "add fruit",
     "station": "池上"
+  },
+  "13324707": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324707",
+    "name": "BRISKSTAND TOKYO MIZUMACHI",
+    "station": "本所吾妻橋"
+  },
+  "13324708": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324708",
+    "name": "牛たんの檸檬 秋葉原店",
+    "station": "秋葉原"
+  },
+  "13324709": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324709",
+    "name": "焼うおいし川 八重洲",
+    "station": "東京"
+  },
+  "13324710": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324710",
+    "name": "風鳥魚酒場",
+    "station": "池袋"
+  },
+  "13324711": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324711",
+    "name": "魁",
+    "station": "船堀"
+  },
+  "13324712": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324712",
+    "name": "BAR　喫茶　ノスタルジア き",
+    "station": "要町"
+  },
+  "13324713": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324713",
+    "name": "家系酒場　平家",
+    "station": "南砂町"
   }
 }
