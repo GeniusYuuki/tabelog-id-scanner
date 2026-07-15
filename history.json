@@ -8128,5 +8128,25 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324733",
     "name": "ゴールドジムウエスト東京",
     "station": "中野"
+  },
+  "13324734": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324734",
+    "name": "ACE’S",
+    "station": "新宿三丁目"
+  },
+  "13324735": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324735",
+    "name": "CANDYHOUSE2067",
+    "station": "馬喰横山"
+  },
+  "13324736": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324736",
+    "name": "BUBBLE STAND",
+    "station": "人形町"
+  },
+  "13324737": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324737",
+    "name": "BANYA nishikoyama",
+    "station": "西小山"
   }
 }
