@@ -8283,5 +8283,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324764",
     "name": "麺屋 猪一（神楽坂） 東京1号店",
     "station": "牛込神楽坂"
+  },
+  "13324765": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324765",
+    "name": "炭火焼肉 すみ香",
+    "station": "西新井"
+  },
+  "13324766": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324766",
+    "name": "八重洲ハイボールバー",
+    "station": "東京"
+  },
+  "13324767": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324767",
+    "name": "八重洲キッチン",
+    "station": "東京"
   }
 }
