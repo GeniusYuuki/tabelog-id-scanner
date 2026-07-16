@@ -8323,5 +8323,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324772",
     "name": "ジョウンデー 渋谷店",
     "station": "渋谷"
+  },
+  "13324773": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324773",
+    "name": "しろふわランドリー 笹塚北店",
+    "station": "笹塚"
+  },
+  "13324774": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324774",
+    "name": "國酒 燗むすび",
+    "station": "阿佐ヶ谷"
+  },
+  "13324775": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324775",
+    "name": "油そば するが",
+    "station": "御茶ノ水"
   }
 }
