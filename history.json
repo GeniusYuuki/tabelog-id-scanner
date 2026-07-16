@@ -8203,5 +8203,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324748",
     "name": "ノミヤ洋菓子店",
     "station": "北千住"
+  },
+  "13324749": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324749",
+    "name": "洋食ごえどん",
+    "station": "鶯谷"
+  },
+  "13324750": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324750",
+    "name": "おでんと釜たき飯 あおちょ 北千住店",
+    "station": "北千住"
+  },
+  "13324751": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324751",
+    "name": "ドラゴンホットポット 神田店",
+    "station": "神田"
   }
 }
