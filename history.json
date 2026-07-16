@@ -8188,5 +8188,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324745",
     "name": "irodori",
     "station": "成城学園前"
+  },
+  "13324746": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324746",
+    "name": "M2",
+    "station": "下北沢"
+  },
+  "13324747": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324747",
+    "name": "ラーメン店 えこた",
+    "station": "鷹の台"
+  },
+  "13324748": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324748",
+    "name": "ノミヤ洋菓子店",
+    "station": "北千住"
   }
 }
