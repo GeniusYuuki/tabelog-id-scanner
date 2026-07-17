@@ -8378,5 +8378,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324783",
     "name": "焼肉ホルモン 蓮 大森",
     "station": "大森"
+  },
+  "13324784": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324784",
+    "name": "ラ・ベファーナ 品川",
+    "station": "品川"
+  },
+  "13324785": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324785",
+    "name": "Visionary Stay Cafe&Bar",
+    "station": "日の出"
+  },
+  "13324786": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324786",
+    "name": "スタンドハッカイサン",
+    "station": "新橋"
   }
 }
