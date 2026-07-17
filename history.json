@@ -8448,5 +8448,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324797",
     "name": "マモテラス",
     "station": "吉祥寺"
+  },
+  "13324798": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324798",
+    "name": "038bakery",
+    "station": "大塚・帝京大学"
+  },
+  "13324799": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324799",
+    "name": "クリスプサラダ ワークス 京橋 One Terrace店 CRISP SALAD WORKS",
+    "station": "宝町"
   }
 }
