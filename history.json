@@ -8423,5 +8423,30 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324792",
     "name": "焼肉カナ",
     "station": "野方"
+  },
+  "13324793": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324793",
+    "name": "SUNROSE 大森店",
+    "station": "大森海岸"
+  },
+  "13324794": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324794",
+    "name": "VERTERE Daikanyama Taproom",
+    "station": "代官山"
+  },
+  "13324795": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324795",
+    "name": "佐藤調理店",
+    "station": "山下"
+  },
+  "13324796": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324796",
+    "name": "KEBAB IKUSHIRO",
+    "station": "阿佐ケ谷"
+  },
+  "13324797": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324797",
+    "name": "マモテラス",
+    "station": "吉祥寺"
   }
 }
