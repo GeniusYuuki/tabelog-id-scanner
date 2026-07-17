@@ -8393,5 +8393,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324786",
     "name": "スタンドハッカイサン",
     "station": "新橋"
+  },
+  "13324787": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324787",
+    "name": "みつばちコーヒー/みつばちバル",
+    "station": "秋葉原"
+  },
+  "13324788": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324788",
+    "name": "魚座 池袋店",
+    "station": "池袋"
   }
 }
