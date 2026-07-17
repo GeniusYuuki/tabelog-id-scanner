@@ -8458,5 +8458,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324799",
     "name": "クリスプサラダ ワークス 京橋 One Terrace店 CRISP SALAD WORKS",
     "station": "宝町"
+  },
+  "13324800": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324800",
+    "name": "鮨処 やまと",
+    "station": "八丁堀"
+  },
+  "13324801": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324801",
+    "name": "サンサンサンタピオカセンモンテンオオジマテン 大島商店",
+    "station": "大島"
   }
 }
