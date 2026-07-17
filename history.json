@@ -8403,5 +8403,25 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324788",
     "name": "魚座 池袋店",
     "station": "池袋"
+  },
+  "13324789": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324789",
+    "name": "ひとすすり 目黒店",
+    "station": "目黒"
+  },
+  "13324790": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324790",
+    "name": "もつ焼き Byron",
+    "station": "高円寺"
+  },
+  "13324791": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324791",
+    "name": "とり。",
+    "station": "浅草"
+  },
+  "13324792": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324792",
+    "name": "焼肉カナ",
+    "station": "野方"
   }
 }
