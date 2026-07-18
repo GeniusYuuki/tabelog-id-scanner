@@ -8543,5 +8543,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324816",
     "name": "コメダ和喫茶 おかげ庵 ミーツ国分寺店",
     "station": "恋ケ窪"
+  },
+  "13324817": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324817",
+    "name": "セブンイレブン 足立綾瀬３丁目東店",
+    "station": "綾瀬"
+  },
+  "13324818": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324818",
+    "name": "まいばすけっと 錦糸町駅西店",
+    "station": "錦糸町"
   }
 }
