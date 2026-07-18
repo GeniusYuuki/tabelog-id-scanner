@@ -8528,5 +8528,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324813",
     "name": "わくわく広場 人形町",
     "station": "人形町"
+  },
+  "13324814": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324814",
+    "name": "コメダ珈琲店　エトモ池上店",
+    "station": "池上"
+  },
+  "13324815": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324815",
+    "name": "COCOLO KYOTO イグジットメルサ店",
+    "station": "銀座"
+  },
+  "13324816": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324816",
+    "name": "コメダ和喫茶 おかげ庵 ミーツ国分寺店",
+    "station": "恋ケ窪"
   }
 }
