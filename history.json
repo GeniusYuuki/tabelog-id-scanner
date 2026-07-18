@@ -8498,5 +8498,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324807",
     "name": "CIDRE 5 TOKYO",
     "station": "新小岩"
+  },
+  "13324808": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324808",
+    "name": "リズムバー2",
+    "station": "新宿御苑前"
+  },
+  "13324809": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324809",
+    "name": "Star Bagel",
+    "station": "清澄白河"
   }
 }
