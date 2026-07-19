@@ -8683,5 +8683,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324844",
     "name": "月曜日麻婆",
     "station": "三軒茶屋"
+  },
+  "13324845": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324845",
+    "name": "犟骨头",
+    "station": "上野御徒町"
+  },
+  "13324846": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324846",
+    "name": "四代目たかまつさくらうどん",
+    "station": "東銀座"
+  },
+  "13324847": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324847",
+    "name": "ファミリーマート八王子滝山店",
+    "station": "小宮"
   }
 }
