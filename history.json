@@ -8638,5 +8638,25 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324835",
     "name": "ほどほど",
     "station": "富士見台"
+  },
+  "13324836": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324836",
+    "name": "びんびん亭 河辺店",
+    "station": "河辺"
+  },
+  "13324837": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324837",
+    "name": "WINE STORE 16℃",
+    "station": "桜新町"
+  },
+  "13324838": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324838",
+    "name": "ハチオウジ∞マルシェ",
+    "station": "八王子"
+  },
+  "13324839": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324839",
+    "name": "Rustys Bar",
+    "station": "新宿三丁目"
   }
 }
