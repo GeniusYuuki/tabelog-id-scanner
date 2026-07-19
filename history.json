@@ -8658,5 +8658,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324839",
     "name": "Rustys Bar",
     "station": "新宿三丁目"
+  },
+  "13324840": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324840",
+    "name": "楊国福マーラータン 新宿総本店",
+    "station": "新宿西口"
+  },
+  "13324841": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324841",
+    "name": "おむすびハウス 湯島天神",
+    "station": "湯島"
+  },
+  "13324842": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324842",
+    "name": "夜パフェBAR&VIGO 吉祥寺店",
+    "station": "吉祥寺"
   }
 }
