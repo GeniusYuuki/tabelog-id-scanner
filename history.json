@@ -8598,5 +8598,45 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324827",
     "name": "The NO NAME食と酒",
     "station": "仙川"
+  },
+  "13324828": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324828",
+    "name": "純手打ち さんや食堂",
+    "station": "久米川"
+  },
+  "13324829": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324829",
+    "name": "もつ鍋居酒や　ちッご庵",
+    "station": "金町"
+  },
+  "13324830": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324830",
+    "name": "高円寺ともちん 新橋店",
+    "station": "新橋"
+  },
+  "13324831": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324831",
+    "name": "wine shop september",
+    "station": "祖師ケ谷大蔵"
+  },
+  "13324832": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324832",
+    "name": "Luce",
+    "station": "練馬"
+  },
+  "13324833": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324833",
+    "name": "菌食のススメCAFE",
+    "station": "栗平"
+  },
+  "13324834": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324834",
+    "name": "ねこ",
+    "station": "中村橋"
+  },
+  "13324835": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324835",
+    "name": "ほどほど",
+    "station": "富士見台"
   }
 }
