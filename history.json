@@ -8778,5 +8778,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324863",
     "name": "グレート・ネパール",
     "station": "立川"
+  },
+  "13324864": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324864",
+    "name": "BAR 和",
+    "station": "芝公園"
+  },
+  "13324865": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324865",
+    "name": "柴又川甚まちなみ館 JIN",
+    "station": "柴又"
   }
 }
