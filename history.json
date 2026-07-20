@@ -8708,5 +8708,25 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324849",
     "name": "Cotti Coffee 淡路町駅店",
     "station": "淡路町"
+  },
+  "13324850": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324850",
+    "name": "大串やきとり鳥竹",
+    "station": "水道橋"
+  },
+  "13324851": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324851",
+    "name": "東京Gorilla03",
+    "station": "渋谷"
+  },
+  "13324852": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324852",
+    "name": "峰谷食堂",
+    "station": "奥多摩"
+  },
+  "13324853": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324853",
+    "name": "ui",
+    "station": "経堂"
   }
 }
