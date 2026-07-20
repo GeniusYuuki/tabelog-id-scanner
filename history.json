@@ -8748,5 +8748,25 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324857",
     "name": "蘭香亭",
     "station": "西八王子"
+  },
+  "13324858": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324858",
+    "name": "REIS KEBAB 高円寺店",
+    "station": "高円寺"
+  },
+  "13324859": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324859",
+    "name": "鮨織り",
+    "station": "目黒"
+  },
+  "13324860": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324860",
+    "name": "クリエイトエス・ディー　練馬南大泉店",
+    "station": "保谷"
+  },
+  "13324861": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324861",
+    "name": "スナック　ロマンチック 代々木上原",
+    "station": "代々木上原"
   }
 }
