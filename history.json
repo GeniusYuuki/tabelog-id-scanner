@@ -8728,5 +8728,25 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324853",
     "name": "ui",
     "station": "経堂"
+  },
+  "13324854": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324854",
+    "name": "さっちゃん酒場",
+    "station": "秋川"
+  },
+  "13324855": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324855",
+    "name": "FICUS CAFE",
+    "station": "北綾瀬"
+  },
+  "13324856": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324856",
+    "name": "グラース氷川",
+    "station": "板橋区役所前"
+  },
+  "13324857": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324857",
+    "name": "蘭香亭",
+    "station": "西八王子"
   }
 }
