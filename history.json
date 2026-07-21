@@ -8933,5 +8933,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324894",
     "name": "ASAKUSA苑",
     "station": "浅草（つくばＥＸＰ）"
+  },
+  "13324895": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324895",
+    "name": "エアポートカフェラウンジNODOKA羽田エアポートガーデン",
+    "station": "羽田空港第３ターミナル（京急）"
+  },
+  "13324896": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324896",
+    "name": "夜鳴きラーメン ギンタ",
+    "station": "祖師ケ谷大蔵"
   }
 }
