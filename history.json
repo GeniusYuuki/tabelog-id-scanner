@@ -8848,5 +8848,30 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324877",
     "name": "本格麻婆つけ麺 鬼痺",
     "station": "ときわ台"
+  },
+  "13324878": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324878",
+    "name": "鮨処 菊池",
+    "station": "一橋学園"
+  },
+  "13324879": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324879",
+    "name": "喜洋",
+    "station": "中河原"
+  },
+  "13324880": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324880",
+    "name": "全席完全個室 青森郷土料理 ねぶた屋 秋葉原店",
+    "station": "秋葉原"
+  },
+  "13324881": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324881",
+    "name": "全席完全個室 牛タンと土鍋ご飯 酒処つむぎ蛍 秋葉原店",
+    "station": "秋葉原"
+  },
+  "13324882": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324882",
+    "name": "銀座 おおにし",
+    "station": "銀座"
   }
 }
