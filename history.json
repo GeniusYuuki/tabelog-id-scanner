@@ -8873,5 +8873,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324882",
     "name": "銀座 おおにし",
     "station": "銀座"
+  },
+  "13324883": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324883",
+    "name": "日本橋　天むす天丼金子半之助　アトレ大森店",
+    "station": "大森"
+  },
+  "13324884": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324884",
+    "name": "大金持ち蜂の家",
+    "station": "大井競馬場前"
+  },
+  "13324885": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324885",
+    "name": "ソソギタテ 日比谷OKUROJI店",
+    "station": "内幸町"
   }
 }
