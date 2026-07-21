@@ -8908,5 +8908,30 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324889",
     "name": "鶴日和",
     "station": "飯田橋"
+  },
+  "13324890": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324890",
+    "name": "セブンイレブン 新小岩駅東店",
+    "station": "新小岩"
+  },
+  "13324891": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324891",
+    "name": "つけ麺 神儺祁",
+    "station": "小川町"
+  },
+  "13324892": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324892",
+    "name": "good coffee by goodroom 青山",
+    "station": "表参道"
+  },
+  "13324893": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324893",
+    "name": "洋風居酒屋 かねもち",
+    "station": "亀戸"
+  },
+  "13324894": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324894",
+    "name": "ASAKUSA苑",
+    "station": "浅草（つくばＥＸＰ）"
   }
 }
