@@ -9088,5 +9088,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324925",
     "name": "c6o",
     "station": "銀座一丁目"
+  },
+  "13324926": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324926",
+    "name": "ダイニング酒場あかり",
+    "station": "福生"
+  },
+  "13324927": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324927",
+    "name": "小料理屋 のわ",
+    "station": "府中本町"
+  },
+  "13324928": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324928",
+    "name": "円盤酒場kobako",
+    "station": "五反田"
   }
 }
