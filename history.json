@@ -8973,5 +8973,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324902",
     "name": "茶記",
     "station": "神保町"
+  },
+  "13324903": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324903",
+    "name": "デイリーヤマザキ　六本木５丁目店",
+    "station": "六本木"
+  },
+  "13324904": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324904",
+    "name": "壱角家 浜松町竹芝通り店",
+    "station": "浜松町"
+  },
+  "13324905": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324905",
+    "name": "ジェラフル ジョイフル本田瑞穂店",
+    "station": "箱根ケ崎"
   }
 }
