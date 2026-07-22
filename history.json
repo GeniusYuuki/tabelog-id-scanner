@@ -9103,5 +9103,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324928",
     "name": "円盤酒場kobako",
     "station": "五反田"
+  },
+  "13324929": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324929",
+    "name": "935",
+    "station": "分倍河原"
+  },
+  "13324930": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324930",
+    "name": "まるはち青果　恵比寿店",
+    "station": "恵比寿"
   }
 }
