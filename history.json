@@ -8998,5 +8998,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324907",
     "name": "麺や　べらぼう　芝神明",
     "station": "大門"
+  },
+  "13324908": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324908",
+    "name": "かぶと 秋葉原店",
+    "station": "秋葉原"
+  },
+  "13324909": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324909",
+    "name": "たくみ 秋葉原店",
+    "station": "秋葉原"
+  },
+  "13324910": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324910",
+    "name": "炭火焼き鳥 酉壱 神田西口店",
+    "station": "神田"
   }
 }
