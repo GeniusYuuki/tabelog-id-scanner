@@ -9063,5 +9063,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324920",
     "name": "マチマート",
     "station": "仲御徒町"
+  },
+  "13324921": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324921",
+    "name": "COINCIDENCE",
+    "station": "麻布十番"
+  },
+  "13324922": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324922",
+    "name": "楊國福マーラータン 東十条店",
+    "station": "東十条"
   }
 }
