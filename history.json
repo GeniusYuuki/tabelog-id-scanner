@@ -8958,5 +8958,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324899",
     "name": "KUA’AINA’s Smashed Burger",
     "station": "京王よみうりランド"
+  },
+  "13324900": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324900",
+    "name": "わいんびすとろ Agrumes",
+    "station": "東日本橋"
+  },
+  "13324901": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324901",
+    "name": "獅天鶏飯ロクノイチ",
+    "station": "東京"
+  },
+  "13324902": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324902",
+    "name": "茶記",
+    "station": "神保町"
   }
 }
