@@ -9138,5 +9138,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324935",
     "name": "cafe&salon CORNER101",
     "station": "下井草"
+  },
+  "13324936": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324936",
+    "name": "シュラスコテーブル FOGO De BRASIA 新宿",
+    "station": "新宿"
+  },
+  "13324937": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324937",
+    "name": "Ansolence",
+    "station": "目黒"
   }
 }
