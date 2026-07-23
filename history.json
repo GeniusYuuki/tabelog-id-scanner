@@ -9213,5 +9213,45 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324950",
     "name": "宮崎料理　たかちほ　 秋葉原店",
     "station": "秋葉原"
+  },
+  "13324951": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324951",
+    "name": "もんじゃつくしや十八番地",
+    "station": "月島"
+  },
+  "13324952": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324952",
+    "name": "銀座 和食 Dining スブリム",
+    "station": "銀座"
+  },
+  "13324953": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324953",
+    "name": "煙燻",
+    "station": "渋谷"
+  },
+  "13324954": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324954",
+    "name": "CBD SHOP YANAGI",
+    "station": "渋谷"
+  },
+  "13324955": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324955",
+    "name": "TLAX Bar&Dining",
+    "station": "六本木"
+  },
+  "13324956": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324956",
+    "name": "SHARE LOUNGE WORKS 水道橋",
+    "station": "水道橋"
+  },
+  "13324957": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324957",
+    "name": "スパイスチキン 赤羽店",
+    "station": "志茂"
+  },
+  "13324958": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324958",
+    "name": "Bar DEP",
+    "station": "新橋"
   }
 }
