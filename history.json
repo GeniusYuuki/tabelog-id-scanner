@@ -9183,5 +9183,35 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324944",
     "name": "大衆 瀬崎",
     "station": "東伏見"
+  },
+  "13324945": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324945",
+    "name": "ミシクタン 2号店",
+    "station": "新大久保"
+  },
+  "13324946": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324946",
+    "name": "酒飯屋  嘉肴",
+    "station": "八幡山"
+  },
+  "13324947": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324947",
+    "name": "西八ホルモン焼肉 大金星",
+    "station": "西八王子"
+  },
+  "13324948": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324948",
+    "name": "サムジョ 渋谷",
+    "station": "神泉"
+  },
+  "13324949": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324949",
+    "name": "BACARA",
+    "station": "恵比寿"
+  },
+  "13324950": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324950",
+    "name": "宮崎料理　たかちほ　 秋葉原店",
+    "station": "秋葉原"
   }
 }
