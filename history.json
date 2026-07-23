@@ -9253,5 +9253,25 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324958",
     "name": "Bar DEP",
     "station": "新橋"
+  },
+  "13324959": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324959",
+    "name": "銀座 天ぷら 朧-おぼろ-",
+    "station": "東銀座"
+  },
+  "13324960": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324960",
+    "name": "米粉STAND Lucita+",
+    "station": "戸越公園"
+  },
+  "13324961": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324961",
+    "name": "すし　縁",
+    "station": "築地"
+  },
+  "13324962": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324962",
+    "name": "デイリーヤマザキ 丸八通り店",
+    "station": "南砂町"
   }
 }
