@@ -9123,5 +9123,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324932",
     "name": "タリーズ ミタマチテラス店",
     "station": "田町"
+  },
+  "13324933": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324933",
+    "name": "西友  葛飾新宿店",
+    "station": "京成高砂"
+  },
+  "13324934": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324934",
+    "name": "萬馬軒 池袋西口本店",
+    "station": "池袋"
+  },
+  "13324935": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324935",
+    "name": "cafe&salon CORNER101",
+    "station": "下井草"
   }
 }
