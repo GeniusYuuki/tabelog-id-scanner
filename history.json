@@ -9153,5 +9153,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324938",
     "name": "いたきゅー",
     "station": "飯田橋"
+  },
+  "13324939": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324939",
+    "name": "なぎちゃんラーメン 駒込駅前店",
+    "station": "駒込"
+  },
+  "13324940": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324940",
+    "name": "Hachi◯",
+    "station": "代々木八幡"
+  },
+  "13324941": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324941",
+    "name": "かき氷コレクション GINZA",
+    "station": "銀座一丁目"
   }
 }
