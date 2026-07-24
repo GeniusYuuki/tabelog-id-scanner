@@ -9478,5 +9478,30 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325003",
     "name": "ニコ丸弁当",
     "station": "八丁堀"
+  },
+  "13325004": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325004",
+    "name": "KOIフォー",
+    "station": "上野広小路"
+  },
+  "13325005": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325005",
+    "name": "ちょっと贅沢食堂",
+    "station": "錦糸町"
+  },
+  "13325006": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325006",
+    "name": "JR-Cross 専門店西エリア",
+    "station": "池袋"
+  },
+  "13325007": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325007",
+    "name": "Instant Classic",
+    "station": "乃木坂"
+  },
+  "13325008": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325008",
+    "name": "黄金湯 新宿店",
+    "station": "東新宿"
   }
 }
