@@ -9518,5 +9518,10 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325011",
     "name": "EPazabu",
     "station": "麻布十番"
+  },
+  "13325012": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325012",
+    "name": "ローソン成増北口通り店",
+    "station": "成増"
   }
 }
