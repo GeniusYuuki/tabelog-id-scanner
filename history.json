@@ -9298,5 +9298,25 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324967",
     "name": "Dome Shop 403",
     "station": "水道橋"
+  },
+  "13324968": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324968",
+    "name": "中目黒焼鳥 B8",
+    "station": "中目黒"
+  },
+  "13324969": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324969",
+    "name": "一風堂  神保町店",
+    "station": "神保町"
+  },
+  "13324970": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324970",
+    "name": "もつ焼き煮込み楓 御徒町店",
+    "station": "御徒町"
+  },
+  "13324971": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324971",
+    "name": "銀座 個室ふぐ料理 福",
+    "station": "銀座"
   }
 }
