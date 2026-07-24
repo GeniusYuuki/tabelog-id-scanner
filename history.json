@@ -9513,5 +9513,10 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325010",
     "name": "surume.tokyo",
     "station": "荏原中延"
+  },
+  "13325011": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325011",
+    "name": "EPazabu",
+    "station": "麻布十番"
   }
 }
