@@ -9398,5 +9398,25 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324987",
     "name": "神戸牛・和牛 鉄板焼き 赤坂諮玄 離れ",
     "station": "赤坂"
+  },
+  "13324988": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324988",
+    "name": "焼き鳥 ほんだや 東大和店",
+    "station": "武蔵大和"
+  },
+  "13324989": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324989",
+    "name": "ジッブル",
+    "station": "西武新宿"
+  },
+  "13324990": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324990",
+    "name": "深川焼肉ホルモン蔵 亀戸店",
+    "station": "亀戸"
+  },
+  "13324991": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324991",
+    "name": "de-tune",
+    "station": "武蔵境"
   }
 }
