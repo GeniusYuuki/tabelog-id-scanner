@@ -9523,5 +9523,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325012",
     "name": "ローソン成増北口通り店",
     "station": "成増"
+  },
+  "13325013": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325013",
+    "name": "ブルーミッシュ ブルーミッシュ東京ソラマチ店",
+    "station": "押上"
+  },
+  "13325014": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325014",
+    "name": "イオンシネマ八王子滝山",
+    "station": "北八王子"
   }
 }
