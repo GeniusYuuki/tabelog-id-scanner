@@ -9328,5 +9328,30 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324973",
     "name": "Shioyume Renovation Cafe",
     "station": "瑞江"
+  },
+  "13324974": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324974",
+    "name": "アトレノワ",
+    "station": "新高円寺"
+  },
+  "13324975": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324975",
+    "name": "神の一手",
+    "station": "上北沢"
+  },
+  "13324976": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324976",
+    "name": "あぜぱん",
+    "station": "西府"
+  },
+  "13324977": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324977",
+    "name": "牛たん焼き仙台辺見 赤坂",
+    "station": "赤坂"
+  },
+  "13324978": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324978",
+    "name": "かつ屋きみ",
+    "station": "石神井公園"
   }
 }
