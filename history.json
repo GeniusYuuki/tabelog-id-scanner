@@ -9418,5 +9418,60 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324991",
     "name": "de-tune",
     "station": "武蔵境"
+  },
+  "13324992": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324992",
+    "name": "錦糸町Live House PAPPY'S",
+    "station": "錦糸町"
+  },
+  "13324993": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324993",
+    "name": "CLUB ROSSO",
+    "station": "神泉"
+  },
+  "13324994": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324994",
+    "name": "神楽音",
+    "station": "神楽坂"
+  },
+  "13324995": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324995",
+    "name": "LANCE",
+    "station": "王子神谷"
+  },
+  "13324996": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324996",
+    "name": "EBISU BATICA",
+    "station": "代官山"
+  },
+  "13324997": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324997",
+    "name": "Orchid",
+    "station": "亀有"
+  },
+  "13324998": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324998",
+    "name": "DARTS BAR EIGHT",
+    "station": "牛込神楽坂"
+  },
+  "13324999": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324999",
+    "name": "居酒屋 結月",
+    "station": "石神井公園"
+  },
+  "13325000": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325000",
+    "name": "テスト登録",
+    "station": "飯田橋"
+  },
+  "13325001": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325001",
+    "name": "遊炎",
+    "station": "渋谷"
+  },
+  "13325002": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325002",
+    "name": "元祖揚げ焼き鳥 おしどり",
+    "station": "亀戸"
   }
 }
