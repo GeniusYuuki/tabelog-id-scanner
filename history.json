@@ -9353,5 +9353,50 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324978",
     "name": "かつ屋きみ",
     "station": "石神井公園"
+  },
+  "13324979": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324979",
+    "name": "刀剣乱舞 万屋かふぇ",
+    "station": "池袋"
+  },
+  "13324980": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324980",
+    "name": "セアブラノ神 渋谷センター街店",
+    "station": "渋谷"
+  },
+  "13324981": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324981",
+    "name": "ALTOTO",
+    "station": "代田橋"
+  },
+  "13324982": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324982",
+    "name": "焼肉 木戸",
+    "station": "汐留"
+  },
+  "13324983": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324983",
+    "name": "神田 鮨酒処 釣りきん",
+    "station": "神田"
+  },
+  "13324984": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324984",
+    "name": "屋台屋 中目黒店",
+    "station": "中目黒"
+  },
+  "13324985": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324985",
+    "name": "屋台屋 上野店",
+    "station": "上野御徒町"
+  },
+  "13324986": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324986",
+    "name": "神戸牛・和牛 焼肉割烹 赤坂諮玄",
+    "station": "赤坂"
+  },
+  "13324987": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324987",
+    "name": "神戸牛・和牛 鉄板焼き 赤坂諮玄 離れ",
+    "station": "赤坂"
   }
 }
