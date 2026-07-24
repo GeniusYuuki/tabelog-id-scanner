@@ -9508,5 +9508,10 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325009",
     "name": "frio frio 幡ヶ谷",
     "station": "幡ケ谷"
+  },
+  "13325010": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325010",
+    "name": "surume.tokyo",
+    "station": "荏原中延"
   }
 }
