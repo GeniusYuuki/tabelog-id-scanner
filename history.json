@@ -9643,5 +9643,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325036",
     "name": "Donish Coffee Company 神楽坂通りカフェ",
     "station": "神楽坂"
+  },
+  "13325037": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325037",
+    "name": "アカツキドーナツ",
+    "station": "高円寺"
+  },
+  "13325038": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325038",
+    "name": "チー牛弱者女性(ヨワマンヒトモドキ)料理専門点　チー女(にょ) 本店",
+    "station": "三田"
+  },
+  "13325039": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325039",
+    "name": "アニメイトグラッテ アニメイト通り店",
+    "station": "池袋"
   }
 }
