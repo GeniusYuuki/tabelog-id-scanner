@@ -9558,5 +9558,45 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325019",
     "name": "CAFE419",
     "station": "篠崎"
+  },
+  "13325020": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325020",
+    "name": "ファミリーマート 新宿区役所通り店",
+    "station": "東新宿"
+  },
+  "13325021": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325021",
+    "name": "モナミ精肉食堂 新大久保店",
+    "station": "東新宿"
+  },
+  "13325022": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325022",
+    "name": "ミニストップ 新宿歌舞伎町店",
+    "station": "東新宿"
+  },
+  "13325023": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325023",
+    "name": "LAWSON 新宿歌舞伎町二丁目店",
+    "station": "西武新宿"
+  },
+  "13325024": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325024",
+    "name": "Primus",
+    "station": "庚申塚"
+  },
+  "13325025": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325025",
+    "name": "銀座割烹なか村屋",
+    "station": "東銀座"
+  },
+  "13325026": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325026",
+    "name": "HASUMI TOKYO (Tokyo Matcha Club)",
+    "station": "国立競技場"
+  },
+  "13325027": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325027",
+    "name": "カラオケ居酒屋六三四",
+    "station": "新小岩"
   }
 }
