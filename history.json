@@ -9598,5 +9598,35 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325027",
     "name": "カラオケ居酒屋六三四",
     "station": "新小岩"
+  },
+  "13325028": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325028",
+    "name": "#NO NAME PIZZA 八王子駅前店",
+    "station": "八王子"
+  },
+  "13325029": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325029",
+    "name": "南極堂Stand",
+    "station": "豊田"
+  },
+  "13325030": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325030",
+    "name": "チーズ料理店　上野チーズ子 本店",
+    "station": "三鷹"
+  },
+  "13325031": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325031",
+    "name": "酒座 吉昇亭",
+    "station": "吉祥寺"
+  },
+  "13325032": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325032",
+    "name": "めん丸",
+    "station": "六町"
+  },
+  "13325033": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325033",
+    "name": "チャーンダニレストラン＆ロディガル",
+    "station": "新大久保"
   }
 }
