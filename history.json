@@ -9728,5 +9728,25 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325053",
     "name": "恵比寿 EMBAR シーシャバー 西口店",
     "station": "恵比寿"
+  },
+  "13325054": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325054",
+    "name": "セブンイレブン 宮益坂下店",
+    "station": "渋谷"
+  },
+  "13325055": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325055",
+    "name": "デイジイ東京グランスタ京葉ストリート店",
+    "station": "東京"
+  },
+  "13325056": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325056",
+    "name": "豆と茶",
+    "station": "浅草（東武・都営・メトロ）"
+  },
+  "13325057": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325057",
+    "name": "牛たん焼き仙台辺見  赤坂店",
+    "station": "赤坂"
   }
 }
