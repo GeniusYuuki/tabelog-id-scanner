@@ -9683,5 +9683,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325044",
     "name": "山岡家 武蔵村山店",
     "station": "上北台"
+  },
+  "13325045": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325045",
+    "name": "中華料理　陳記酒場",
+    "station": "東高円寺"
+  },
+  "13325046": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325046",
+    "name": "まいばすけっと西台駅前店",
+    "station": "西台"
+  },
+  "13325047": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325047",
+    "name": "船橋屋錦糸町駅北口店",
+    "station": "錦糸町"
   }
 }
