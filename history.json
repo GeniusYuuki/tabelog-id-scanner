@@ -9753,5 +9753,30 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325058",
     "name": "ONE DAY COFFEE",
     "station": "八王子"
+  },
+  "13325059": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325059",
+    "name": "Ihaw Ihaw King",
+    "station": "ひばりケ丘"
+  },
+  "13325060": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325060",
+    "name": "Dining Bar Vier",
+    "station": "東新宿"
+  },
+  "13325061": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325061",
+    "name": "千葉商店",
+    "station": "亀戸"
+  },
+  "13325062": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325062",
+    "name": "中国物産海羽 亀戸店",
+    "station": "亀戸"
+  },
+  "13325063": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325063",
+    "name": "友商店",
+    "station": "亀戸"
   }
 }
