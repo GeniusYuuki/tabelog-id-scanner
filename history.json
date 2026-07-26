@@ -9708,5 +9708,25 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325049",
     "name": "蕎麦処茶とら",
     "station": "中目黒"
+  },
+  "13325050": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325050",
+    "name": "大輝家直系家系ラーメン麺屋誠 目黒店",
+    "station": "目黒"
+  },
+  "13325051": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325051",
+    "name": "讃岐うどん　まきちゃん",
+    "station": "西巣鴨"
+  },
+  "13325052": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325052",
+    "name": "カラオケバーOLIVE",
+    "station": "西日暮里"
+  },
+  "13325053": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325053",
+    "name": "恵比寿 EMBAR シーシャバー 西口店",
+    "station": "恵比寿"
   }
 }
