@@ -9673,5 +9673,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325042",
     "name": "丸亀製麺イオン東大島",
     "station": "東大島"
+  },
+  "13325043": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325043",
+    "name": "つじ田 味噌の章 三田店",
+    "station": "三田"
+  },
+  "13325044": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325044",
+    "name": "山岡家 武蔵村山店",
+    "station": "上北台"
   }
 }
