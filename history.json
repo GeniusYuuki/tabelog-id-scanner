@@ -9698,5 +9698,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325047",
     "name": "船橋屋錦糸町駅北口店",
     "station": "錦糸町"
+  },
+  "13325048": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325048",
+    "name": "博多背脂商店 西新宿店",
+    "station": "西新宿五丁目"
+  },
+  "13325049": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325049",
+    "name": "蕎麦処茶とら",
+    "station": "中目黒"
   }
 }
