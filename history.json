@@ -9988,5 +9988,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325105",
     "name": "ORIGINAL LOUNGE 銀座",
     "station": "新橋"
+  },
+  "13325106": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325106",
+    "name": "Papillon Tokyo",
+    "station": "六本木"
+  },
+  "13325107": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325107",
+    "name": "GOLD Club & Shisha",
+    "station": "六本木"
+  },
+  "13325108": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325108",
+    "name": "1 OAK TOKYO",
+    "station": "麻布十番"
   }
 }
