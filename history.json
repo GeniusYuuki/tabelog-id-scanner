@@ -9833,5 +9833,50 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325074",
     "name": "銀座うどんしら石 半蔵門店",
     "station": "半蔵門"
+  },
+  "13325075": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325075",
+    "name": "八重洲個室酒場 盃や",
+    "station": "東京"
+  },
+  "13325076": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325076",
+    "name": "個室旬菜 空庭～soraniwa～",
+    "station": "日本橋"
+  },
+  "13325077": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325077",
+    "name": "隠れ家個室 囲炉裏～いろり～",
+    "station": "日本橋"
+  },
+  "13325078": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325078",
+    "name": "炉端と釜飯 ひとめぼれ",
+    "station": "北千住"
+  },
+  "13325079": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325079",
+    "name": "モンゴル料理 鉄帽焼肉 池袋西口本店",
+    "station": "池袋"
+  },
+  "13325080": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325080",
+    "name": "汐留横丁MUSUHI",
+    "station": "汐留"
+  },
+  "13325081": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325081",
+    "name": "Riviere 日本橋三越本店",
+    "station": "三越前"
+  },
+  "13325082": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325082",
+    "name": "BURDIGALA PÂTISSERIE 日本橋三越本店",
+    "station": "三越前"
+  },
+  "13325083": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325083",
+    "name": "ダイニングダーツバーBee 上野店",
+    "station": "京成上野"
   }
 }
