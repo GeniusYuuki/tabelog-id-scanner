@@ -9878,5 +9878,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325083",
     "name": "ダイニングダーツバーBee 上野店",
     "station": "京成上野"
+  },
+  "13325084": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325084",
+    "name": "らぁ麺 横川",
+    "station": "錦糸町"
+  },
+  "13325085": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325085",
+    "name": "めいどりーみん 池袋サンシャイン通り店",
+    "station": "池袋"
   }
 }
