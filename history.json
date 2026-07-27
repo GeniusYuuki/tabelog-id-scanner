@@ -9983,5 +9983,10 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325104",
     "name": "MONET",
     "station": "町田"
+  },
+  "13325105": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325105",
+    "name": "ORIGINAL LOUNGE 銀座",
+    "station": "新橋"
   }
 }
