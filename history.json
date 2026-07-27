@@ -9973,5 +9973,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325102",
     "name": "セブンイレブン 荒川西尾久1丁目店",
     "station": "小台"
+  },
+  "13325103": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325103",
+    "name": "鳥羽々",
+    "station": "吉祥寺"
+  },
+  "13325104": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325104",
+    "name": "MONET",
+    "station": "町田"
   }
 }
