@@ -9948,5 +9948,30 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325097",
     "name": "bar kikuti",
     "station": "銀座"
+  },
+  "13325098": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325098",
+    "name": "ナマステキッチン 大塚",
+    "station": "大塚駅前"
+  },
+  "13325099": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325099",
+    "name": "HAUMARI",
+    "station": "本蓮沼"
+  },
+  "13325100": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325100",
+    "name": "JUNGNAMMI ハラカド店",
+    "station": "明治神宮前"
+  },
+  "13325101": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325101",
+    "name": "Yonten99",
+    "station": "乃木坂"
+  },
+  "13325102": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325102",
+    "name": "セブンイレブン 荒川西尾久1丁目店",
+    "station": "小台"
   }
 }
