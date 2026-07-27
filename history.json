@@ -9783,5 +9783,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325064",
     "name": "SNIDEL 東京青山",
     "station": "表参道"
+  },
+  "13325065": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325065",
+    "name": "ブラッスリー・ローデンバッハ",
+    "station": "大手町"
+  },
+  "13325066": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325066",
+    "name": "希然",
+    "station": "目黒"
   }
 }
