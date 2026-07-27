@@ -9813,5 +9813,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325070",
     "name": "wick bar",
     "station": "有楽町"
+  },
+  "13325071": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325071",
+    "name": "焼肉AJIMI 日本橋別邸",
+    "station": "日本橋"
+  },
+  "13325072": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325072",
+    "name": "Bitter Valley the 3rd",
+    "station": "五反田"
   }
 }
