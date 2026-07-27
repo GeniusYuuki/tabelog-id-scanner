@@ -9888,5 +9888,65 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325085",
     "name": "めいどりーみん 池袋サンシャイン通り店",
     "station": "池袋"
+  },
+  "13325086": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325086",
+    "name": "はな",
+    "station": "巣鴨"
+  },
+  "13325087": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325087",
+    "name": "Tigress",
+    "station": "福生"
+  },
+  "13325088": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325088",
+    "name": "World End",
+    "station": "末広町"
+  },
+  "13325089": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325089",
+    "name": "レンタルスペース＆カフェ パズル浅草橋",
+    "station": "浅草橋"
+  },
+  "13325090": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325090",
+    "name": "台所フーテン",
+    "station": "大門"
+  },
+  "13325091": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325091",
+    "name": "韓国居酒屋 パンギョ食堂",
+    "station": "大久保"
+  },
+  "13325092": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325092",
+    "name": "芝浦酒場 サンゲン 田町 三田店",
+    "station": "三田"
+  },
+  "13325093": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325093",
+    "name": "大任KTV",
+    "station": "池袋"
+  },
+  "13325094": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325094",
+    "name": "Princess Tart 表参道本店",
+    "station": "表参道"
+  },
+  "13325095": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325095",
+    "name": "酔燈屋 新橋店",
+    "station": "新橋"
+  },
+  "13325096": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325096",
+    "name": "セブンイレブン 足立加平２丁目南店",
+    "station": "六町"
+  },
+  "13325097": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325097",
+    "name": "bar kikuti",
+    "station": "銀座"
   }
 }
