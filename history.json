@@ -10253,5 +10253,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325158",
     "name": "DartsUP新宿歌舞伎町3号店",
     "station": "新宿西口"
+  },
+  "13325159": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325159",
+    "name": "DearBread",
+    "station": "千歳烏山"
+  },
+  "13325160": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325160",
+    "name": "Le Bijou",
+    "station": "末広町"
   }
 }
