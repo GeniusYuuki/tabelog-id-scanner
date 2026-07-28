@@ -10208,5 +10208,35 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325149",
     "name": "博多天ぷらやまや アトレ吉祥寺店",
     "station": "吉祥寺"
+  },
+  "13325150": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325150",
+    "name": "銀座アスター アトレ吉祥寺店",
+    "station": "吉祥寺"
+  },
+  "13325151": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325151",
+    "name": "room coffee tokyo",
+    "station": "四谷三丁目"
+  },
+  "13325152": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325152",
+    "name": "まいばすけっと 蔵前駅北店",
+    "station": "蔵前"
+  },
+  "13325153": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325153",
+    "name": "ファミリーマート 駒形一丁目店",
+    "station": "浅草（東武・都営・メトロ）"
+  },
+  "13325154": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325154",
+    "name": "BACKSPACE BURGER",
+    "station": "京成曳舟"
+  },
+  "13325155": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325155",
+    "name": "whisk",
+    "station": "初台"
   }
 }
