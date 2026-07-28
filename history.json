@@ -10193,5 +10193,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325146",
     "name": "居酒屋shino",
     "station": "狛江"
+  },
+  "13325147": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325147",
+    "name": "うどん割烹 ぼけかす",
+    "station": "麻布十番"
+  },
+  "13325148": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325148",
+    "name": "油そば総本店 有楽町店",
+    "station": "有楽町"
+  },
+  "13325149": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325149",
+    "name": "博多天ぷらやまや アトレ吉祥寺店",
+    "station": "吉祥寺"
   }
 }
