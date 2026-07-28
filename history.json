@@ -10023,5 +10023,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325112",
     "name": "saúde 原宿店",
     "station": "原宿"
+  },
+  "13325113": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325113",
+    "name": "京王ストア めじろ台店",
+    "station": "めじろ台"
+  },
+  "13325114": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325114",
+    "name": "POPOやたい",
+    "station": "新大久保"
   }
 }
