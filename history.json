@@ -10268,5 +10268,35 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325161",
     "name": "4C / PAITANG TOKYO",
     "station": "蒲田"
+  },
+  "13325162": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325162",
+    "name": "大衆焼肉居酒屋 牛タン たんと 池袋店",
+    "station": "池袋"
+  },
+  "13325163": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325163",
+    "name": "豚星。～乳化～",
+    "station": "旗の台"
+  },
+  "13325164": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325164",
+    "name": "台灣茶房",
+    "station": "中延"
+  },
+  "13325165": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325165",
+    "name": "ひねり蛇口ハイ大衆酒泉テルマエ 町田泉",
+    "station": "町田"
+  },
+  "13325166": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325166",
+    "name": "CAFE &BARおむすびホワイエ 新宿",
+    "station": "新宿三丁目"
+  },
+  "13325167": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325167",
+    "name": "八王子焼肉 タマちゃん",
+    "station": "八王子"
   }
 }
