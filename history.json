@@ -10298,5 +10298,40 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325167",
     "name": "八王子焼肉 タマちゃん",
     "station": "八王子"
+  },
+  "13325168": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325168",
+    "name": "銀座 すし蓮",
+    "station": "銀座"
+  },
+  "13325169": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325169",
+    "name": "和楽星球 浜松町",
+    "station": "大門"
+  },
+  "13325170": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325170",
+    "name": "Nakaniwa",
+    "station": "渋谷"
+  },
+  "13325171": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325171",
+    "name": "本格焼鳥高田馬場ふじ屋",
+    "station": "高田馬場"
+  },
+  "13325172": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325172",
+    "name": "完全個室居酒屋 炉ばた 一心 秋葉原店",
+    "station": "秋葉原"
+  },
+  "13325173": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325173",
+    "name": "神田錦町 小野",
+    "station": "小川町"
+  },
+  "13325174": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325174",
+    "name": "すし酒場 七合目 日本橋八重洲店",
+    "station": "日本橋"
   }
 }
