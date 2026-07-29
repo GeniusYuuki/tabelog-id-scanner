@@ -10438,5 +10438,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325195",
     "name": "Neglycoco",
     "station": "東新宿"
+  },
+  "13325196": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325196",
+    "name": "お酒の美術館 八王子店",
+    "station": "八王子"
+  },
+  "13325197": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325197",
+    "name": "氷侍　銀座",
+    "station": "銀座一丁目"
+  },
+  "13325198": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325198",
+    "name": "Mamma Lampe.",
+    "station": "阿佐ケ谷"
   }
 }
