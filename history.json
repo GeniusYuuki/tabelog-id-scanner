@@ -10338,5 +10338,25 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325175",
     "name": "炉端とおでん 呼炉凪来 巣鴨店",
     "station": "巣鴨"
+  },
+  "13325176": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325176",
+    "name": "渋谷屋台ラーメン",
+    "station": "神泉"
+  },
+  "13325177": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325177",
+    "name": "三原堂本店 グランスタ東京店",
+    "station": "東京"
+  },
+  "13325178": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325178",
+    "name": "DESPACIO",
+    "station": "西小山"
+  },
+  "13325179": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325179",
+    "name": "一石三鳥 韓邸",
+    "station": "新橋"
   }
 }
