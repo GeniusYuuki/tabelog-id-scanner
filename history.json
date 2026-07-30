@@ -10668,5 +10668,75 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325241",
     "name": "ROOT IN 味の素スタジアム店",
     "station": "飛田給"
+  },
+  "13325242": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325242",
+    "name": "YOHAKU-余白",
+    "station": "中目黒"
+  },
+  "13325243": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325243",
+    "name": "日比谷ろくさん亭",
+    "station": "日比谷"
+  },
+  "13325244": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325244",
+    "name": "青いイタリアン サード",
+    "station": "大門"
+  },
+  "13325245": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325245",
+    "name": "銀座ふじ",
+    "station": "銀座"
+  },
+  "13325246": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325246",
+    "name": "シムクン 新大久保",
+    "station": "新大久保"
+  },
+  "13325247": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325247",
+    "name": "魚蔵水産",
+    "station": "新橋"
+  },
+  "13325248": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325248",
+    "name": "シーシャカフェ&バー 煙仄2nd 池袋店",
+    "station": "池袋"
+  },
+  "13325249": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325249",
+    "name": "居酒屋 六幹",
+    "station": "東京"
+  },
+  "13325250": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325250",
+    "name": "野々",
+    "station": "都立家政"
+  },
+  "13325251": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325251",
+    "name": "麻辣の虎 葛西店",
+    "station": "葛西"
+  },
+  "13325252": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325252",
+    "name": "noan",
+    "station": "神楽坂"
+  },
+  "13325253": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325253",
+    "name": "ニンニクとアブラ入れときゃ大体ウマイ",
+    "station": "湯島"
+  },
+  "13325254": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325254",
+    "name": "モアカフェ　東京インテリア八王子店",
+    "station": "京王八王子"
+  },
+  "13325255": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325255",
+    "name": "小田急ハルク　B2F 催事場　沖縄フェア",
+    "station": "新宿西口"
   }
 }
