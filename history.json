@@ -10743,5 +10743,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325256",
     "name": "Polite Meal",
     "station": "三鷹"
+  },
+  "13325257": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325257",
+    "name": "競泳水着カフェHeaven",
+    "station": "新橋"
+  },
+  "13325258": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325258",
+    "name": "バーガーキング京成高砂駅前店",
+    "station": "京成高砂"
+  },
+  "13325259": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325259",
+    "name": "スーパーマーケット リコス 南池袋1丁目店",
+    "station": "池袋"
   }
 }
