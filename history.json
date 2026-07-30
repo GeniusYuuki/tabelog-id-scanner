@@ -10483,5 +10483,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325204",
     "name": "タリーズコーヒー Express目白駅前店",
     "station": "目白"
+  },
+  "13325205": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325205",
+    "name": "無名",
+    "station": "武蔵小金井"
+  },
+  "13325206": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325206",
+    "name": "タコス＆カラオケダイニングKichi",
+    "station": "新宿三丁目"
   }
 }
