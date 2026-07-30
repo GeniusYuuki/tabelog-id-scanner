@@ -10493,5 +10493,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325206",
     "name": "タコス＆カラオケダイニングKichi",
     "station": "新宿三丁目"
+  },
+  "13325207": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325207",
+    "name": "有夏キッチン",
+    "station": "要町"
+  },
+  "13325208": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325208",
+    "name": "蘭心",
+    "station": "虎ノ門ヒルズ"
+  },
+  "13325209": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325209",
+    "name": "鮨 美桜",
+    "station": "恵比寿"
   }
 }
