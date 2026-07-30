@@ -10508,5 +10508,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325209",
     "name": "鮨 美桜",
     "station": "恵比寿"
+  },
+  "13325210": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325210",
+    "name": "Rin-Gue",
+    "station": "国立"
+  },
+  "13325211": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325211",
+    "name": "串門 赤坂店",
+    "station": "赤坂"
+  },
+  "13325212": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325212",
+    "name": "ファミマ 東京汐留ビルディング店",
+    "station": "汐留"
   }
 }
