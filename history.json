@@ -10923,5 +10923,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325292",
     "name": "茅乃舎　東武池袋店",
     "station": "池袋"
+  },
+  "13325293": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325293",
+    "name": "Banh Xeo Tokyo",
+    "station": "大久保"
+  },
+  "13325294": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325294",
+    "name": "豚の隠れ家",
+    "station": "江北"
+  },
+  "13325295": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325295",
+    "name": "食堂ジラフ",
+    "station": "一橋学園"
   }
 }
