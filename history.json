@@ -10803,5 +10803,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325268",
     "name": "銀座かつ匠さぼてん 銀座三越店",
     "station": "銀座"
+  },
+  "13325269": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325269",
+    "name": "マリオンクレープ SHIBUYA109渋谷店",
+    "station": "渋谷"
+  },
+  "13325270": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325270",
+    "name": "KAIFAN TOKYO",
+    "station": "広尾"
+  },
+  "13325271": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325271",
+    "name": "へのへのもへじ",
+    "station": "神田"
   }
 }
