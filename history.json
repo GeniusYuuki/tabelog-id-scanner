@@ -10778,5 +10778,30 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325263",
     "name": "ワンダアカフェ",
     "station": "八広"
+  },
+  "13325264": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325264",
+    "name": "フレッシュオーワダ サクラステージ店",
+    "station": "渋谷"
+  },
+  "13325265": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325265",
+    "name": "おむすびスナックKALIEN",
+    "station": "自由が丘"
+  },
+  "13325266": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325266",
+    "name": "うしまる担々麺倶楽部",
+    "station": "大山"
+  },
+  "13325267": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325267",
+    "name": "新王道タンメン亭　池尻",
+    "station": "池尻大橋"
+  },
+  "13325268": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325268",
+    "name": "銀座かつ匠さぼてん 銀座三越店",
+    "station": "銀座"
   }
 }
