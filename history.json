@@ -10843,5 +10843,80 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325276",
     "name": "Cave de Mimi",
     "station": "東北沢"
+  },
+  "13325277": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325277",
+    "name": "IKEBUKURO VEGAS",
+    "station": "池袋"
+  },
+  "13325278": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325278",
+    "name": "ZEAL AMUSMENT POKER BAR",
+    "station": "池袋"
+  },
+  "13325279": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325279",
+    "name": "和ミューズメントバー NUKUMORI",
+    "station": "門前仲町"
+  },
+  "13325280": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325280",
+    "name": "アミューズメント Bar チャん!!",
+    "station": "蒲田"
+  },
+  "13325281": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325281",
+    "name": "Extreme Bar BACKDOOR 下北沢店",
+    "station": "下北沢"
+  },
+  "13325282": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325282",
+    "name": "めしや よる 新宿",
+    "station": "西武新宿"
+  },
+  "13325283": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325283",
+    "name": "大戸屋ごはん処 カメイドクロック店",
+    "station": "亀戸"
+  },
+  "13325284": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325284",
+    "name": "HATAGAYA BAR EGG",
+    "station": "幡ヶ谷"
+  },
+  "13325285": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325285",
+    "name": "成吉思汗だるま 東京本店",
+    "station": "上野広小路"
+  },
+  "13325286": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325286",
+    "name": "akasaka795",
+    "station": "赤坂"
+  },
+  "13325287": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325287",
+    "name": "ミ ピアーチェ",
+    "station": "白金高輪"
+  },
+  "13325288": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325288",
+    "name": "D'HEIM",
+    "station": "築地"
+  },
+  "13325289": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325289",
+    "name": "夢吟坊 下北沢店",
+    "station": "下北沢"
+  },
+  "13325290": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325290",
+    "name": "R O STAR Seaside Terrace",
+    "station": "台場"
+  },
+  "13325291": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325291",
+    "name": "kamabito",
+    "station": "池尻大橋"
   }
 }
