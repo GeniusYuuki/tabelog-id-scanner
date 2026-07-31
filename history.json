@@ -10823,5 +10823,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325272",
     "name": "鉄板ダイニング ふなわ",
     "station": "船堀"
+  },
+  "13325273": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325273",
+    "name": "さゆり Delicatessen & Restaurant",
+    "station": "麻布十番"
+  },
+  "13325274": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325274",
+    "name": "割烹かずさ",
+    "station": "浅草（東武・都営・メトロ）"
+  },
+  "13325275": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325275",
+    "name": "鍋彩堂",
+    "station": "赤坂"
   }
 }
