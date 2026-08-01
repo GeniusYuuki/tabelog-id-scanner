@@ -10978,5 +10978,35 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325303",
     "name": "マツモトキヨシ町田北口店",
     "station": "町田"
+  },
+  "13325304": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325304",
+    "name": "Big-A 足立保木間店",
+    "station": "六町"
+  },
+  "13325305": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325305",
+    "name": "BREAD&BEAN by ビースクエアード 西荻窪店",
+    "station": "西荻窪"
+  },
+  "13325306": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325306",
+    "name": "カルディコーヒーファーム町田東急ツインズ店",
+    "station": "町田"
+  },
+  "13325307": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325307",
+    "name": "冷麺やまと家 錦糸町店",
+    "station": "錦糸町"
+  },
+  "13325308": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325308",
+    "name": "居酒屋　小吉",
+    "station": "竹ノ塚"
+  },
+  "13325309": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325309",
+    "name": "MATCHAMON GINZA SIX",
+    "station": "銀座"
   }
 }
