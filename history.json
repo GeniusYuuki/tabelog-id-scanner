@@ -11033,5 +11033,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325314",
     "name": "タコライスとお酒のお店 APOLLO",
     "station": "阿佐ケ谷"
+  },
+  "13325315": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325315",
+    "name": "赤から赤羽店",
+    "station": "赤羽"
+  },
+  "13325316": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325316",
+    "name": "かみしゃくダイニング",
+    "station": "上石神井"
   }
 }
