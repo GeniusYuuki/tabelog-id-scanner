@@ -10973,5 +10973,10 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325302",
     "name": "ベルプラージュ 渋谷",
     "station": "渋谷"
+  },
+  "13325303": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325303",
+    "name": "マツモトキヨシ町田北口店",
+    "station": "町田"
   }
 }
