@@ -11008,5 +11008,25 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325309",
     "name": "MATCHAMON GINZA SIX",
     "station": "銀座"
+  },
+  "13325310": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325310",
+    "name": "セブンイレブン町田駅北口店",
+    "station": "町田"
+  },
+  "13325311": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325311",
+    "name": "創作居酒屋 まる笑",
+    "station": "新小岩"
+  },
+  "13325312": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325312",
+    "name": "Odakyu OX MART町田店",
+    "station": "町田"
+  },
+  "13325313": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325313",
+    "name": "セブンイレブン 足立東保木間１丁目店",
+    "station": "六町"
   }
 }
