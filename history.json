@@ -11063,5 +11063,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325320",
     "name": "肉割烹 市村",
     "station": "六本木"
+  },
+  "13325321": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325321",
+    "name": "LAVO ratorio",
+    "station": "二子玉川"
+  },
+  "13325322": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325322",
+    "name": "果実屋珈琲 八王子南大沢店",
+    "station": "京王堀之内"
+  },
+  "13325323": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325323",
+    "name": "藍-ai-",
+    "station": "新小岩"
   }
 }
