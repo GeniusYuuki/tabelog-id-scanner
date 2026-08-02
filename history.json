@@ -11118,5 +11118,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325331",
     "name": "明日のために",
     "station": "錦糸町"
+  },
+  "13325332": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325332",
+    "name": "Egg House 国分寺",
+    "station": "国分寺"
+  },
+  "13325333": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325333",
+    "name": "ローソン　 明治神宮前メトロピア店",
+    "station": "原宿"
+  },
+  "13325334": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325334",
+    "name": "セブンイレブン 文京湯島3丁目店",
+    "station": "湯島"
   }
 }
