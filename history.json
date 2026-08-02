@@ -11133,5 +11133,30 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325334",
     "name": "セブンイレブン 文京湯島3丁目店",
     "station": "湯島"
+  },
+  "13325335": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325335",
+    "name": "タイ料理 サワディーカー",
+    "station": "中神"
+  },
+  "13325336": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325336",
+    "name": "デイリーフードマーケット グランデュオ立川",
+    "station": "立川"
+  },
+  "13325337": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325337",
+    "name": "a.p stand",
+    "station": "平井"
+  },
+  "13325338": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325338",
+    "name": "シープマン",
+    "station": "上野"
+  },
+  "13325339": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325339",
+    "name": "ボンキッチン",
+    "station": "豊洲"
   }
 }
