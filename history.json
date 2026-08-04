@@ -11463,5 +11463,25 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325400",
     "name": "78WORKS CAFE",
     "station": "南阿佐ヶ谷"
+  },
+  "13325401": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325401",
+    "name": "【鰻だし らーめん専門店】うな観",
+    "station": "町田"
+  },
+  "13325402": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325402",
+    "name": "豚骨ラーメン　かんむり家",
+    "station": "自由が丘"
+  },
+  "13325403": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325403",
+    "name": "大三元",
+    "station": "錦糸町"
+  },
+  "13325404": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325404",
+    "name": "七宝麻辣湯 大井町店",
+    "station": "大井町"
   }
 }
