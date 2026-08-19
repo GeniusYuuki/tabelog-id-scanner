@@ -13948,5 +13948,35 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325920",
     "name": "スターバックス 西武新宿",
     "station": "新宿三丁目"
+  },
+  "13325921": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325921",
+    "name": "K&H",
+    "station": "乃木坂"
+  },
+  "13325922": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325922",
+    "name": "IGG",
+    "station": "乃木坂"
+  },
+  "13325923": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325923",
+    "name": "Perle lounge&bar",
+    "station": "六本木"
+  },
+  "13325924": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325924",
+    "name": "ワンクラス",
+    "station": "六本木"
+  },
+  "13325925": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325925",
+    "name": "韓食堂　SEOUL",
+    "station": "六本木"
+  },
+  "13325926": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325926",
+    "name": "恵比寿 すき焼き割烹 牛乃",
+    "station": "恵比寿"
   }
 }
