@@ -14058,5 +14058,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325942",
     "name": "テスト登録",
     "station": "飯田橋"
+  },
+  "13325943": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325943",
+    "name": "SUMMER SNOW",
+    "station": "外苑前"
+  },
+  "13325944": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325944",
+    "name": "KaHoN",
+    "station": "庚申塚"
   }
 }
