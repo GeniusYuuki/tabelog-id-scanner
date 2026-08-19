@@ -13938,5 +13938,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325918",
     "name": "umé",
     "station": "乃木坂"
+  },
+  "13325919": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325919",
+    "name": "ファミリーマート 江戸川篠崎街道店",
+    "station": "篠崎"
+  },
+  "13325920": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325920",
+    "name": "スターバックス 西武新宿",
+    "station": "新宿三丁目"
   }
 }
