@@ -14053,5 +14053,10 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325941",
     "name": "まいばすけっと 下篠崎町店",
     "station": "篠崎"
+  },
+  "13325942": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325942",
+    "name": "テスト登録",
+    "station": "飯田橋"
   }
 }
