@@ -13993,5 +13993,35 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325929",
     "name": "Bar VEGIT",
     "station": "六本木"
+  },
+  "13325930": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325930",
+    "name": "大衆酒場 蹴",
+    "station": "大山"
+  },
+  "13325931": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325931",
+    "name": "stand SUN",
+    "station": "押上"
+  },
+  "13325932": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325932",
+    "name": "蕎麦日和",
+    "station": "江戸川橋"
+  },
+  "13325933": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325933",
+    "name": "vivo daily stand 森下店",
+    "station": "森下"
+  },
+  "13325934": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325934",
+    "name": "あかねや",
+    "station": "浅草橋"
+  },
+  "13325935": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325935",
+    "name": "炭火焼鳥と餃子 TORA鶏YA 立川店",
+    "station": "立川"
   }
 }
