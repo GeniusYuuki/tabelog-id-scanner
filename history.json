@@ -13978,5 +13978,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325926",
     "name": "恵比寿 すき焼き割烹 牛乃",
     "station": "恵比寿"
+  },
+  "13325927": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325927",
+    "name": "牛道",
+    "station": "三ノ輪"
+  },
+  "13325928": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325928",
+    "name": "うどん屋　清 町屋店",
+    "station": "町屋"
+  },
+  "13325929": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325929",
+    "name": "Bar VEGIT",
+    "station": "六本木"
   }
 }
