@@ -14338,5 +14338,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325998",
     "name": "bambi",
     "station": "駒沢大学"
+  },
+  "13325999": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325999",
+    "name": "Malins Fish & Chips 大森店",
+    "station": "平和島"
+  },
+  "13326000": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326000",
+    "name": "祥龍物産",
+    "station": "小岩"
   }
 }
