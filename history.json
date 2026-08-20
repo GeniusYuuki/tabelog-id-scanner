@@ -14218,5 +14218,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325974",
     "name": "SNOW SALT",
     "station": "上野"
+  },
+  "13325975": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325975",
+    "name": "個室居酒屋 食べ放題 椿 新宿本店",
+    "station": "新宿西口"
+  },
+  "13325976": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325976",
+    "name": "No.B",
+    "station": "神泉"
+  },
+  "13325977": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325977",
+    "name": "un no n.",
+    "station": "新宿御苑前"
   }
 }
