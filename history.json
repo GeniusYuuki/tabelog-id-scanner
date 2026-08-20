@@ -14243,5 +14243,30 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325979",
     "name": "焼肉やっちゃん 麻布十番店",
     "station": "麻布十番"
+  },
+  "13325980": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325980",
+    "name": "蜀王土鍋マーラータン",
+    "station": "早稲田（都電）"
+  },
+  "13325981": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325981",
+    "name": "八珍味",
+    "station": "西日暮里"
+  },
+  "13325982": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325982",
+    "name": "鮨 杣木",
+    "station": "六本木"
+  },
+  "13325983": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325983",
+    "name": "Sweets＆Bar Hermitage de Repos",
+    "station": "渋谷"
+  },
+  "13325984": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325984",
+    "name": "大衆酒場とらとら",
+    "station": "大山"
   }
 }
