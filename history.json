@@ -14378,5 +14378,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13326006",
     "name": "ラニカイジュース 府中店",
     "station": "府中"
+  },
+  "13326007": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326007",
+    "name": "アマンレジデンス東京プライベートダイニング",
+    "station": "六本木一丁目"
+  },
+  "13326008": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326008",
+    "name": "壱角家油そば総本店 吉祥寺店",
+    "station": "吉祥寺"
   }
 }
