@@ -14358,5 +14358,25 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13326002",
     "name": "fig",
     "station": "阿佐ケ谷"
+  },
+  "13326003": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326003",
+    "name": "銀座・ヴィクトワール",
+    "station": "銀座"
+  },
+  "13326004": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326004",
+    "name": "Cafe PILINA with Paws",
+    "station": "菊川"
+  },
+  "13326005": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326005",
+    "name": "瑞小町",
+    "station": "築地市場"
+  },
+  "13326006": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326006",
+    "name": "ラニカイジュース 府中店",
+    "station": "府中"
   }
 }
