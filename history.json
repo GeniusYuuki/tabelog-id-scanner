@@ -14268,5 +14268,65 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325984",
     "name": "大衆酒場とらとら",
     "station": "大山"
+  },
+  "13325985": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325985",
+    "name": "四万十屋 上野店",
+    "station": "上野"
+  },
+  "13325986": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325986",
+    "name": "鶏おでん清水",
+    "station": "東京"
+  },
+  "13325987": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325987",
+    "name": "カラオケMYSONG 錦糸町店",
+    "station": "錦糸町"
+  },
+  "13325988": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325988",
+    "name": "韓国家庭料理居酒屋トマンナ",
+    "station": "西新井大師西"
+  },
+  "13325989": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325989",
+    "name": "Shisha lounge key 歌舞伎町一番街店",
+    "station": "新宿西口"
+  },
+  "13325990": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325990",
+    "name": "Pool&Darts EDGE",
+    "station": "明大前"
+  },
+  "13325991": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325991",
+    "name": "Amusement Bar EDGE",
+    "station": "千歳烏山"
+  },
+  "13325992": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325992",
+    "name": "和牛一彩",
+    "station": "新橋"
+  },
+  "13325993": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325993",
+    "name": "ハチとろ",
+    "station": "八王子"
+  },
+  "13325994": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325994",
+    "name": "PONTE IDEA",
+    "station": "渋谷"
+  },
+  "13325995": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325995",
+    "name": "足湯 CAFE＆BAR 愈 新宿歌舞伎町店",
+    "station": "西武新宿"
+  },
+  "13325996": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325996",
+    "name": "カラオケ居酒屋 カサブランカ",
+    "station": "三河島"
   }
 }
