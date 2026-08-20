@@ -14098,5 +14098,55 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325950",
     "name": "ファミリーマート 府中駅南口店",
     "station": "府中"
+  },
+  "13325951": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325951",
+    "name": "トラットリア ダ セーミ",
+    "station": "人形町"
+  },
+  "13325952": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325952",
+    "name": "麺屋ずぅう 武蔵小山",
+    "station": "武蔵小山"
+  },
+  "13325953": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325953",
+    "name": "鶏だしおでん八幸 下神明店",
+    "station": "下神明"
+  },
+  "13325954": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325954",
+    "name": "吟とろ 新橋店",
+    "station": "新橋"
+  },
+  "13325955": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325955",
+    "name": "ギントロ 新橋店",
+    "station": "新橋"
+  },
+  "13325956": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325956",
+    "name": "シュラスコ居酒屋 Calluna 四ツ谷店",
+    "station": "四ツ谷"
+  },
+  "13325957": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325957",
+    "name": "九州酒場 勇気 高円寺駅前店",
+    "station": "高円寺"
+  },
+  "13325958": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325958",
+    "name": "クリスプサラダワークス 御茶ノ水 ワテラス店",
+    "station": "淡路町"
+  },
+  "13325959": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325959",
+    "name": "ビールボール麺",
+    "station": "東伏見"
+  },
+  "13325960": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325960",
+    "name": "Palette LAB.-飲み物研究所-",
+    "station": "池袋"
   }
 }
