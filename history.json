@@ -14328,5 +14328,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325996",
     "name": "カラオケ居酒屋 カサブランカ",
     "station": "三河島"
+  },
+  "13325997": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325997",
+    "name": "韓国風居酒屋 スタミナキッチン",
+    "station": "北池袋"
+  },
+  "13325998": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325998",
+    "name": "bambi",
+    "station": "駒沢大学"
   }
 }
