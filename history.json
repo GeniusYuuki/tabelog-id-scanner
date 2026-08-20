@@ -14348,5 +14348,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13326000",
     "name": "祥龍物産",
     "station": "小岩"
+  },
+  "13326001": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326001",
+    "name": "TSUDOUMA GALLERY & CAFE",
+    "station": "堀切菖蒲園"
+  },
+  "13326002": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326002",
+    "name": "fig",
+    "station": "阿佐ケ谷"
   }
 }
