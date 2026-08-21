@@ -14448,5 +14448,50 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13326020",
     "name": "Patisserie Perle",
     "station": "新小岩"
+  },
+  "13326021": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326021",
+    "name": "karaoke & Darts Bar REon.",
+    "station": "神泉"
+  },
+  "13326022": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326022",
+    "name": "手作り九州料理家∞",
+    "station": "立川南"
+  },
+  "13326023": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326023",
+    "name": "Music Bar NOVE",
+    "station": "乃木坂"
+  },
+  "13326024": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326024",
+    "name": "炭火焼き 炎蔵 秋葉原店",
+    "station": "秋葉原"
+  },
+  "13326025": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326025",
+    "name": "九州炎蔵 新宿店",
+    "station": "新宿西口"
+  },
+  "13326026": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326026",
+    "name": "良心的大衆酒場 鶴亀八番 高円寺店",
+    "station": "高円寺"
+  },
+  "13326027": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326027",
+    "name": "呑み処みつや",
+    "station": "拝島"
+  },
+  "13326028": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326028",
+    "name": "和風個室居酒屋 奏 池袋店",
+    "station": "池袋"
+  },
+  "13326029": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326029",
+    "name": "SHIBUYA BURGER",
+    "station": "渋谷"
   }
 }
