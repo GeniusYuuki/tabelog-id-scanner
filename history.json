@@ -14493,5 +14493,45 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13326029",
     "name": "SHIBUYA BURGER",
     "station": "渋谷"
+  },
+  "13326030": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326030",
+    "name": "酒肴あおもん穣",
+    "station": "五反田"
+  },
+  "13326031": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326031",
+    "name": "カレーは人生のスパイス",
+    "station": "町田"
+  },
+  "13326032": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326032",
+    "name": "博多あかちょうちん",
+    "station": "新橋"
+  },
+  "13326033": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326033",
+    "name": "和牛焼肉 千",
+    "station": "銀座"
+  },
+  "13326034": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326034",
+    "name": "鮨 銀座おのでら 息子 恵比寿店",
+    "station": "恵比寿"
+  },
+  "13326035": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326035",
+    "name": "TACHINOMI MAR",
+    "station": "学芸大学"
+  },
+  "13326036": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326036",
+    "name": "炭焼きと海鮮 乾杯家 田町店",
+    "station": "三田"
+  },
+  "13326037": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326037",
+    "name": "伊吹",
+    "station": "新宿"
   }
 }
