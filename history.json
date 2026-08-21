@@ -14608,5 +14608,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13326052",
     "name": "NEW YORK WITCHES",
     "station": "東新宿"
+  },
+  "13326053": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326053",
+    "name": "AREUM BAGEL 町田店",
+    "station": "町田"
+  },
+  "13326054": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326054",
+    "name": "赤から麺 渋谷店",
+    "station": "渋谷"
   }
 }
