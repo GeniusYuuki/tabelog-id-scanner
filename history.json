@@ -14403,5 +14403,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13326011",
     "name": "玉川学園　朔風館",
     "station": "玉川学園前"
+  },
+  "13326012": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326012",
+    "name": "ニューデイズ 小岩店",
+    "station": "小岩"
+  },
+  "13326013": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326013",
+    "name": "おにぎりこんが羽田空港第一ターミナル店",
+    "station": "羽田空港第１ターミナル（東京モノレール）"
+  },
+  "13326014": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326014",
+    "name": "The One",
+    "station": "渋谷"
   }
 }
