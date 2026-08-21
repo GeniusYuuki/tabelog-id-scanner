@@ -14628,5 +14628,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13326056",
     "name": "TAKIYA 神田店",
     "station": "馬喰町"
+  },
+  "13326057": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326057",
+    "name": "あぶりゃんせ百千国分寺店",
+    "station": "国分寺"
+  },
+  "13326058": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326058",
+    "name": "LE CHOU CHOU-SWEETS＆DELI-",
+    "station": "台場"
   }
 }
