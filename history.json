@@ -14583,5 +14583,30 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13326047",
     "name": "お好み焼きと鉄板 いたる",
     "station": "亀戸"
+  },
+  "13326048": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326048",
+    "name": "ホルモン酒場 上野店",
+    "station": "上野"
+  },
+  "13326049": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326049",
+    "name": "祖師ヶ谷ブリューイング",
+    "station": "祖師ヶ谷大蔵"
+  },
+  "13326050": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326050",
+    "name": "和食居酒屋 よかばい 大井町店",
+    "station": "大井町"
+  },
+  "13326051": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326051",
+    "name": "五反田でダレヤメ",
+    "station": "大崎広小路"
+  },
+  "13326052": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326052",
+    "name": "NEW YORK WITCHES",
+    "station": "東新宿"
   }
 }
