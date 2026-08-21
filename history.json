@@ -14418,5 +14418,35 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13326014",
     "name": "The One",
     "station": "渋谷"
+  },
+  "13326015": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326015",
+    "name": "中華物産 新小岩北口",
+    "station": "新小岩"
+  },
+  "13326016": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326016",
+    "name": "炭火焼肉かんちゃん。",
+    "station": "都立大学"
+  },
+  "13326017": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326017",
+    "name": "博多とりかわ 長政 新橋赤レンガ通り店",
+    "station": "新橋"
+  },
+  "13326018": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326018",
+    "name": "もつやき処い志井 赤坂店",
+    "station": "赤坂見附"
+  },
+  "13326019": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326019",
+    "name": "平田邸",
+    "station": "京成高砂"
+  },
+  "13326020": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326020",
+    "name": "Patisserie Perle",
+    "station": "新小岩"
   }
 }
