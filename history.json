@@ -14533,5 +14533,55 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13326037",
     "name": "伊吹",
     "station": "新宿"
+  },
+  "13326038": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326038",
+    "name": "鮨孝",
+    "station": "人形町"
+  },
+  "13326039": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326039",
+    "name": "Toi et Trois",
+    "station": "巣鴨"
+  },
+  "13326040": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326040",
+    "name": "URBAN COFFEE ROASTER",
+    "station": "外苑前"
+  },
+  "13326041": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326041",
+    "name": "陽陽中国物産",
+    "station": "新小岩"
+  },
+  "13326042": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326042",
+    "name": "14日熟成豚肉専門店 デジハンマリ目黒店",
+    "station": "目黒"
+  },
+  "13326043": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326043",
+    "name": "焼肉オセヨ",
+    "station": "板橋"
+  },
+  "13326044": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326044",
+    "name": "まぐろがとう、鮨S",
+    "station": "国立競技場"
+  },
+  "13326045": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326045",
+    "name": "ホルモン國もと 綾瀬店",
+    "station": "綾瀬"
+  },
+  "13326046": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326046",
+    "name": "煮込み 天ぷら おでん 酒場ハチ 西新宿店",
+    "station": "都庁前"
+  },
+  "13326047": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326047",
+    "name": "お好み焼きと鉄板 いたる",
+    "station": "亀戸"
   }
 }
