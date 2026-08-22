@@ -14653,5 +14653,10 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13326061",
     "name": "喫茶6号線",
     "station": "久米川"
+  },
+  "13326062": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326062",
+    "name": "INCredible Burger 神宮前",
+    "station": "外苑前"
   }
 }
