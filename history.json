@@ -14738,5 +14738,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13326078",
     "name": "セブンイレブン 江東亀戸1丁目店",
     "station": "亀戸"
+  },
+  "13326079": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326079",
+    "name": "酒場Rigare",
+    "station": "浅草橋"
+  },
+  "13326080": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326080",
+    "name": "ファミリーマート 亀戸六丁目店",
+    "station": "亀戸水神"
   }
 }
