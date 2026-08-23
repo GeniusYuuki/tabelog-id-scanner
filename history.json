@@ -14753,5 +14753,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13326081",
     "name": "SQUARE ENIX Cafe & Shop SHINJUKU",
     "station": "新宿"
+  },
+  "13326082": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326082",
+    "name": "らーめんダイニング だんな 北千住本店",
+    "station": "北千住"
+  },
+  "13326083": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326083",
+    "name": "韓食堂　SEOUL",
+    "station": "六本木"
+  },
+  "13326084": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326084",
+    "name": "うどん  あん藤 本店",
+    "station": "浅草橋"
   }
 }
