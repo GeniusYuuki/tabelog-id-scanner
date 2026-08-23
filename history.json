@@ -14708,5 +14708,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13326072",
     "name": "宴会大衆酒場　小金星",
     "station": "上石神井"
+  },
+  "13326073": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326073",
+    "name": "マックスバリュエクスプレス 亀戸センタープラザ店",
+    "station": "亀戸"
+  },
+  "13326074": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326074",
+    "name": "おにぎりCafe ささ丸",
+    "station": "池ノ上"
   }
 }
