@@ -14933,5 +14933,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13326117",
     "name": "コックテイル食堂",
     "station": "三鷹"
+  },
+  "13326118": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326118",
+    "name": "SHARE LOUNGE Olive LOUNGE 町屋",
+    "station": "町屋駅前"
+  },
+  "13326119": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326119",
+    "name": "PAELLA & TAPAS LINDO by CASALINA",
+    "station": "東京"
   }
 }
