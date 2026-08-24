@@ -14908,5 +14908,30 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13326112",
     "name": "WARUNG BERKAH YAHKUTI",
     "station": "日野"
+  },
+  "13326113": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326113",
+    "name": "和食と地酒 穏座 神田店",
+    "station": "神田"
+  },
+  "13326114": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326114",
+    "name": "サムジョ 新橋 本店",
+    "station": "新橋"
+  },
+  "13326115": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326115",
+    "name": "炭羊 Lamb＆Sake",
+    "station": "東京"
+  },
+  "13326116": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326116",
+    "name": "神戸和牛　次元",
+    "station": "新橋"
+  },
+  "13326117": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326117",
+    "name": "コックテイル食堂",
+    "station": "三鷹"
   }
 }
