@@ -14998,5 +14998,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13326130",
     "name": "朝日屋商店",
     "station": "伊豆大島"
+  },
+  "13326131": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326131",
+    "name": "中華そば ばらや",
+    "station": "住吉"
+  },
+  "13326132": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326132",
+    "name": "大明物産店",
+    "station": "西大島"
   }
 }
