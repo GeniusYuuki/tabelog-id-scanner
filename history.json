@@ -14828,5 +14828,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13326096",
     "name": "EDGE -STEAK＆HAMBURG-",
     "station": "葛西"
+  },
+  "13326097": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326097",
+    "name": "発酵ごはん いし田",
+    "station": "大山"
+  },
+  "13326098": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326098",
+    "name": "旬遊紀",
+    "station": "目黒"
+  },
+  "13326099": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326099",
+    "name": "日本橋角吉 竹橋パレスサイドビル店",
+    "station": "竹橋"
   }
 }
