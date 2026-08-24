@@ -14863,5 +14863,50 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13326103",
     "name": "本と喫茶パラード",
     "station": "駒沢大学"
+  },
+  "13326104": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326104",
+    "name": "おばんざい割烹　しま﨑",
+    "station": "銀座"
+  },
+  "13326105": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326105",
+    "name": "MAISON GALETTE",
+    "station": "有楽町"
+  },
+  "13326106": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326106",
+    "name": "個室居酒屋 火鼓壱 新橋店",
+    "station": "新橋"
+  },
+  "13326107": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326107",
+    "name": "DAY KAFFE",
+    "station": "武蔵小山"
+  },
+  "13326108": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326108",
+    "name": "東京麻婆 上野店",
+    "station": "入谷"
+  },
+  "13326109": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326109",
+    "name": "anu",
+    "station": "千歳船橋"
+  },
+  "13326110": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326110",
+    "name": "HERE! YOU ARE.",
+    "station": "表参道"
+  },
+  "13326111": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326111",
+    "name": "中華Barサブリナ",
+    "station": "新橋"
+  },
+  "13326112": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326112",
+    "name": "WARUNG BERKAH YAHKUTI",
+    "station": "日野"
   }
 }
