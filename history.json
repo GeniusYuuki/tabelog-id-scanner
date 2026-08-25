@@ -15238,5 +15238,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13326178",
     "name": "東季セブンティー 渋谷笹塚７号店",
     "station": "笹塚"
+  },
+  "13326179": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326179",
+    "name": "Tacos 3hermanos KICHIJOJI",
+    "station": "吉祥寺"
+  },
+  "13326180": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326180",
+    "name": "せとうちそらとうみ05",
+    "station": "吉祥寺"
   }
 }
