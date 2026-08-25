@@ -15218,5 +15218,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13326174",
     "name": "アキヲ1号",
     "station": "芝公園"
+  },
+  "13326175": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326175",
+    "name": "ラミタのプリン&グラノーラ",
+    "station": "町田"
+  },
+  "13326176": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326176",
+    "name": "YORUPAFE・LA.BURGUNDY",
+    "station": "経堂"
+  },
+  "13326177": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326177",
+    "name": "Shinjuku Matcha Corner",
+    "station": "新宿西口"
   }
 }
