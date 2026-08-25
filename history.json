@@ -15123,5 +15123,40 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13326155",
     "name": "焼肉横丁",
     "station": "秋葉原"
+  },
+  "13326156": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326156",
+    "name": "寿司と炭火焼き鳥 酒場 やまと式 新宿店",
+    "station": "新宿西口"
+  },
+  "13326157": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326157",
+    "name": "燈",
+    "station": "巣鴨"
+  },
+  "13326158": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326158",
+    "name": "スパイスカレーFIFTY 飯田橋店",
+    "station": "飯田橋"
+  },
+  "13326159": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326159",
+    "name": "ATELIER VELL 門前仲町店",
+    "station": "門前仲町"
+  },
+  "13326160": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326160",
+    "name": "PDS Lounge",
+    "station": "新富町"
+  },
+  "13326161": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326161",
+    "name": "MUU TOKYO 恵比寿店",
+    "station": "恵比寿"
+  },
+  "13326162": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326162",
+    "name": "無印良品バイユー江戸川松江店",
+    "station": "船堀"
   }
 }
