@@ -15348,5 +15348,10 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13326201",
     "name": "PIQUE",
     "station": "外苑前"
+  },
+  "13326202": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326202",
+    "name": "カフェ・ベローチェ　イオンモール日の出店",
+    "station": "武蔵引田"
   }
 }
