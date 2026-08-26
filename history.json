@@ -15378,5 +15378,35 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13326207",
     "name": "中国料理 紅楼夢",
     "station": "桜田門"
+  },
+  "13326208": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326208",
+    "name": "Libertas Wine Bar&Shop",
+    "station": "新日本橋"
+  },
+  "13326209": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326209",
+    "name": "シーシャCHILLAX 北千住店",
+    "station": "北千住"
+  },
+  "13326210": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326210",
+    "name": "Mamita Cora",
+    "station": "蒲田"
+  },
+  "13326211": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326211",
+    "name": "海鮮居酒屋 海咲 上野店",
+    "station": "上野"
+  },
+  "13326212": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326212",
+    "name": "Higgledy Piggledy",
+    "station": "渋谷"
+  },
+  "13326213": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326213",
+    "name": "手打ちそば 澄十朗 東京ミッドタウン 六本木",
+    "station": "乃木坂"
   }
 }
