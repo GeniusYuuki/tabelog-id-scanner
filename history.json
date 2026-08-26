@@ -15413,5 +15413,30 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13326214",
     "name": "タイラ製麺所 北千住",
     "station": "北千住"
+  },
+  "13326215": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326215",
+    "name": "大衆酒場 楓 本店裏",
+    "station": "錦糸町"
+  },
+  "13326216": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326216",
+    "name": "カラオケバー D酔 新橋 虎ノ門 KARAOKE",
+    "station": "内幸町"
+  },
+  "13326217": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326217",
+    "name": "千住宿焼肉　紅月",
+    "station": "北千住"
+  },
+  "13326218": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326218",
+    "name": "サンヨーヤパン",
+    "station": "三河島"
+  },
+  "13326219": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326219",
+    "name": "想",
+    "station": "新小岩"
   }
 }
