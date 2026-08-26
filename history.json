@@ -15253,5 +15253,55 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13326181",
     "name": "小料理伊都子",
     "station": "中村橋"
+  },
+  "13326182": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326182",
+    "name": "トロ吉 五反田店",
+    "station": "五反田"
+  },
+  "13326183": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326183",
+    "name": "串カツ田中 京成曳舟店",
+    "station": "京成曳舟"
+  },
+  "13326184": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326184",
+    "name": "Nice to meet cheese 新宿店",
+    "station": "新宿三丁目"
+  },
+  "13326185": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326185",
+    "name": "鳥の利休 有楽町店",
+    "station": "日比谷"
+  },
+  "13326186": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326186",
+    "name": "KenBoo Chanploo@シャレード",
+    "station": "田原町"
+  },
+  "13326187": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326187",
+    "name": "餃子酒場 肉汁とっつぁん 池袋東口店",
+    "station": "池袋"
+  },
+  "13326188": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326188",
+    "name": "串揚げ 銀座 朔",
+    "station": "銀座"
+  },
+  "13326189": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326189",
+    "name": "新宿 個室すき焼き 黒華",
+    "station": "新宿三丁目"
+  },
+  "13326190": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326190",
+    "name": "新宿 ごちそう日和",
+    "station": "西武新宿"
+  },
+  "13326191": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326191",
+    "name": "世界の山ちゃん 目黒駅東口店",
+    "station": "目黒"
   }
 }
