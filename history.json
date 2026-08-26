@@ -15333,5 +15333,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13326198",
     "name": "タワー・スコラカフェ",
     "station": "新御茶ノ水"
+  },
+  "13326199": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326199",
+    "name": "和み処KEI",
+    "station": "十条"
+  },
+  "13326200": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326200",
+    "name": "野菜巻き串と餃子 串とメシにはサケキタル。 立川駅前店",
+    "station": "立川"
+  },
+  "13326201": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326201",
+    "name": "PIQUE",
+    "station": "外苑前"
   }
 }
