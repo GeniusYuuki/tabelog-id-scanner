@@ -15363,5 +15363,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13326204",
     "name": "古民家 炭火ビストロ Le Logis Beau",
     "station": "池袋"
+  },
+  "13326205": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326205",
+    "name": "Mamita tacos&cafe bar",
+    "station": "上野"
+  },
+  "13326206": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326206",
+    "name": "Bar GRAY",
+    "station": "西武新宿"
+  },
+  "13326207": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326207",
+    "name": "中国料理 紅楼夢",
+    "station": "桜田門"
   }
 }
