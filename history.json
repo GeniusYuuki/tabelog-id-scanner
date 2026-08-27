@@ -15448,5 +15448,50 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13326221",
     "name": "和風居酒屋 さくら",
     "station": "東大和市"
+  },
+  "13326222": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326222",
+    "name": "伊勢喜酒店",
+    "station": "大泉学園"
+  },
+  "13326223": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326223",
+    "name": "diningはな川",
+    "station": "長原"
+  },
+  "13326224": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326224",
+    "name": "カフェ＆バー雅（ミヤビ）〜神王縁（シノノエ）〜",
+    "station": "馬喰横山"
+  },
+  "13326225": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326225",
+    "name": "AMO CAFE 池袋店",
+    "station": "池袋"
+  },
+  "13326226": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326226",
+    "name": "芝公園 BAR 新海",
+    "station": "芝公園"
+  },
+  "13326227": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326227",
+    "name": "個室完備 大衆とり酒場 とりいちず 大森東口店",
+    "station": "大森"
+  },
+  "13326228": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326228",
+    "name": "鮨とラーメン うおがしや 大井町",
+    "station": "大井町"
+  },
+  "13326229": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326229",
+    "name": "鮨 りょう",
+    "station": "銀座"
+  },
+  "13326230": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326230",
+    "name": "lRONBASE",
+    "station": "板橋本町"
   }
 }
