@@ -15613,5 +15613,30 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13326255",
     "name": "せい家　よみうりランド店",
     "station": "京王よみうりランド"
+  },
+  "13326256": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326256",
+    "name": "石ゃ森",
+    "station": "西国立"
+  },
+  "13326257": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326257",
+    "name": "亀戸居酒屋ふらみんご",
+    "station": "亀戸"
+  },
+  "13326258": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326258",
+    "name": "グリナード永山",
+    "station": "京王永山"
+  },
+  "13326259": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326259",
+    "name": "大衆酒場たかたか",
+    "station": "梅島"
+  },
+  "13326260": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326260",
+    "name": "クリスプサラダワークス 日テレプラザ店",
+    "station": "汐留"
   }
 }
