@@ -15873,5 +15873,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13326307",
     "name": "EIKI TOKYO",
     "station": "渋谷"
+  },
+  "13326308": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326308",
+    "name": "メルカートメモス",
+    "station": "大崎広小路"
+  },
+  "13326309": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326309",
+    "name": "いちごてん",
+    "station": "新大久保"
   }
 }
