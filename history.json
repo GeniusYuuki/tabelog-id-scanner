@@ -15853,5 +15853,25 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13326303",
     "name": "セブンイレブン　渋谷鶯谷町店",
     "station": "神泉"
+  },
+  "13326304": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326304",
+    "name": "なか卯 東京駅丸の内北口店",
+    "station": "東京"
+  },
+  "13326305": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326305",
+    "name": "能房洞山",
+    "station": "高尾山口"
+  },
+  "13326306": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326306",
+    "name": "セブンイレブン 北青山２丁目店",
+    "station": "外苑前"
+  },
+  "13326307": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326307",
+    "name": "EIKI TOKYO",
+    "station": "渋谷"
   }
 }
