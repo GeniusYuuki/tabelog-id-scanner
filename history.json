@@ -16008,5 +16008,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13326334",
     "name": "MATCHA MEIJIN Cafe 浅草店",
     "station": "浅草（東武・都営・メトロ）"
+  },
+  "13326335": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326335",
+    "name": "BRISKSTAND 東京ミズマチ店",
+    "station": "本所吾妻橋"
+  },
+  "13326336": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326336",
+    "name": "アップルパンチ",
+    "station": "雑司ヶ谷"
   }
 }
